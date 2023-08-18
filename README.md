@@ -7,7 +7,7 @@ I am Fourth Year Information Science and Engineering student at Ramaiah Institut
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [amanclementaranha@gmail.com](mailto:amanclementaranha@gmail.com)
-* Check Out : [https://vercel.com/aman-clement/aman-clement-aranha](https://aman-clement-aranha.vercel.app/)
+* Check Out : https://aman-clement-aranha.vercel.app/
 
 ![Animated GIF](https://i.ibb.co/XZMLr2b/mario-pixel-art.gif)
 
