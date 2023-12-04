@@ -55,7 +55,7 @@ Get in Touch:
  
 ---
  
-<h2 align='center'>Quote of the Moment</h2>
+<h2 head align='center'>Quote of the Moment</h2 head>
 <h3 quote align='center'>Some Random Data!</h3 quote>
  
 ---
