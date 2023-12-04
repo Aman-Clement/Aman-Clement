@@ -2,6 +2,7 @@ import json
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
+
 driver = webdriver.Edge()
 
 URL = "https://www.britannica.com/on-this-day"
@@ -40,13 +41,11 @@ endIndexTitle = readmeText.index(closingTagTitle)
 
 quoteTitleMarkdown = "<h2 head align='center'>" + OTDtitle + "." + "</h2 head>"
  
-content = readmeText[startIndexTitle +
-                     len(openingTagTitle): endIndexTitle]
-# newTitle = (
-#     readmeText[:startIndexTitle]
-#     + quoteTitleMarkdown
-#     + readmeText[endIndexTitle + len(closingTagTitle) + 1:]
-# )
+newTitle = (
+    readmeText[:startIndexTitle]
+    + quoteTitleMarkdown
+    + readmeText[endIndexTitle + len(closingTagTitle) + 1:]
+)
  
  
 # Body OTD
@@ -60,12 +59,8 @@ quoteMarkdown = "<h3 quote align='center'>" + mainQuote + "." + "</h3 quote>"
  
 content = readmeText[startIndexBody +
                      len(openingTag): endIndexBody]
-
-
-
 newBody = (
     readmeText[:startIndexBody]
-    + quoteTitle 
     + quoteMarkdown
     + readmeText[endIndexBody + len(closingTag) + 1:]
 )
@@ -76,4 +71,4 @@ newBody = (
 # Writing new Quote into readme file
 readme_file = open("README.md",
                    mode="w", encoding="utf8")
-readme_file.write(newBody)
+readme_file.write(newTitle + "\n" + newBody)
