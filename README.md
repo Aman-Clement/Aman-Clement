@@ -56,7 +56,7 @@ Get in Touch:
 ---
  
 <h2 head align='center'>"Ivan the Terrible proclaimed grand prince of Moscow".</h2 head>
-<h3 quote align='center'>Some Random Data!</h3 quote>
+"Ivan the Terrible proclaimed grand prince of Moscow"<h3 quote align='center'>"On this day in 1533, the three-year-old who became Ivan the Terrible was proclaimed grand prince of Moscow upon the death of his father, Grand Prince Vasily III, with his mother ruling in Ivan's name until her death in 1538.".</h3 quote>
  
 ---
 
