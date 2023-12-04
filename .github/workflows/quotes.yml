@@ -21,12 +21,12 @@ jobs:
         run: pip install -r requirements.txt
 
       - name : Running script file
-        run: python index.py
+        run: python readmeUpdater.py
         
       - name: Update the Quote
         run: |
-          git config --global user.name 'GitHubUserName'
-          git config --global user.email 'EmailID@gmail.com'
+          git config --global user.name 'Aman-Clement'
+          git config --global user.email 'amanclementaranha@gmail.com'
           git add .
-          git commit -am "Daily quotes"
+          git commit -am "OTD"
           git push origin main --force
