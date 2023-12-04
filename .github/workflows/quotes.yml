@@ -1,0 +1,32 @@
+# Sample workflow for building and deploying a Jekyll site to GitHub Pages
+name: Update Quotes
+
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.8"
+          
+      - name: Installing dependencies
+        run: pip install -r requirements.txt
+
+      - name : Running script file
+        run: python index.py
+        
+      - name: Update the Quote
+        run: |
+          git config --global user.name 'GitHubUserName'
+          git config --global user.email 'EmailID@gmail.com'
+          git add .
+          git commit -am "Daily quotes"
+          git push origin main --force
