@@ -50,28 +50,16 @@ endIndexTitle = readmeText.index(closingTagTitle)
 
 quoteTitleMarkdown = "<h2 head>" + OTDtitle + "." + "</h2 head>"
  
-# newTitle = (
-#     readmeText[:startIndexTitle]
-#     + quoteTitleMarkdown
-#     + readmeText[endIndexTitle + len(closingTagTitle) + 1:]
-# )
- 
- 
-# Body OTD
-# openingTag = "<h3 quote"
-# closingTag = "</h3 quote"
- 
-# startIndexBody = readmeText.index(openingTag)
-# endIndexBody = readmeText.index(closingTag)
-
 quoteMarkdown = "<h3 quote align='center'>" + mainQuote + "." + "</h3 quote>"
  
 content = readmeText[startIndexTitle +
                      len(openingTagTitle): endIndexTitle]
 newBody = (
     readmeText[:startIndexTitle]
+    + openingTagTitle 
     + quoteTitleMarkdown
     + quoteMarkdown
+    + closingTagTitle
     + readmeText[endIndexTitle + len(closingTagTitle) + 1:]
 )
 
