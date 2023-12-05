@@ -55,5 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Witchcraft condemned by Pope Innocent VIII".</h2 head><h3 quote align='center'>"Innocent VIII condemned witchcraft this day in 1484 via papal bull, and subsequently he dispatched inquisitors to Germany to try witches and persecuted a chief exponent of Renaissance Platonism, Giovanni Pico della Mirandola.".</h3 quote></h3 OTD
----
+<h3 OTD<h2 head>"Witchcraft condemned by Pope Innocent VIII".</h2 head><h3 quote align='center'>"Innocent VIII condemned witchcraft this day in 1484 via papal bull, and subsequently he dispatched inquisitors to Germany to try witches and persecuted a chief exponent of Renaissance Platonism, Giovanni Pico della Mirandola.".</h3 quote></h3 OTD---
