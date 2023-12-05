@@ -51,7 +51,7 @@ Get in Touch:
 <a style="margin: 4px;"  style="background-color: #ffffff; border-radius: 50%;" href="https://www.github.com/Aman-Clement" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a style="margin: 4px;" href="https://www.linkedin.com/in/aman-clement" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a style="margin: 4px;"  href="https://www.twitter.com/aman_aranha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-## On This Date:
+## On This Day:
  
 ---
 
