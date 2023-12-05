@@ -42,40 +42,41 @@ with open("README.md", mode="r", encoding="utf8") as f:
  
 
 # Title OTD
-openingTagTitle = "<h2 head"
-closingTagTitle = "</h2 head"
+openingTagTitle = "<h3 OTD"
+closingTagTitle = "</h3 OTD"
 
 startIndexTitle = readmeText.index(openingTagTitle)
 endIndexTitle = readmeText.index(closingTagTitle)
 
 quoteTitleMarkdown = "<h2 head>" + OTDtitle + "." + "</h2 head>"
  
-newTitle = (
-    readmeText[:startIndexTitle]
-    + quoteTitleMarkdown
-    + readmeText[endIndexTitle + len(closingTagTitle) + 1:]
-)
+# newTitle = (
+#     readmeText[:startIndexTitle]
+#     + quoteTitleMarkdown
+#     + readmeText[endIndexTitle + len(closingTagTitle) + 1:]
+# )
  
  
 # Body OTD
-openingTag = "<h3 quote"
-closingTag = "</h3 quote"
+# openingTag = "<h3 quote"
+# closingTag = "</h3 quote"
  
-startIndexBody = readmeText.index(openingTag)
-endIndexBody = readmeText.index(closingTag)
+# startIndexBody = readmeText.index(openingTag)
+# endIndexBody = readmeText.index(closingTag)
 
 quoteMarkdown = "<h3 quote align='center'>" + mainQuote + "." + "</h3 quote>"
  
-content = readmeText[startIndexBody +
-                     len(openingTag): endIndexBody]
+content = readmeText[startIndexTitle +
+                     len(openingTagTitle): endIndexTitle]
 newBody = (
-    readmeText[:startIndexBody]
+    readmeText[:startIndexTitle]
+    + quoteTitleMarkdown
     + quoteMarkdown
-    + readmeText[endIndexBody + len(closingTag) + 1:]
+    + readmeText[endIndexTitle + len(closingTagTitle) + 1:]
 )
 
 
-newContent = newTitle + "\n" + newBody
+newContent =   newBody
  
 # Writing new Quote into readme file
 readme_file = open("README.md",
