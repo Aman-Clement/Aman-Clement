@@ -56,7 +56,7 @@ Get in Touch:
 ---
 
 <h3 OTD align='center'>
-<h2 head align='center'>"Ivan the Terrible proclaimed grand prince of Moscow".</h2 head>
+<h2 head>"Witchcraft condemned by Pope Innocent VIII".</h2 head>
 <h3 quote align='center'>Some Random Data!</h3 quote>
 </h3 OTD>
 ---
