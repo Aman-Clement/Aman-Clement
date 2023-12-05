@@ -1,11 +1,20 @@
+import datetime
 import json
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
+today = datetime.date.today()
+day = today.day
+
+today = datetime.datetime.now()
+month = today.strftime("%B")
+
+
+
 
 driver = webdriver.Edge()
 
-URL = "https://www.britannica.com/on-this-day"
+URL = f"https://www.britannica.com/on-this-day/{month}-{day}"
 driver.get(URL)
 soup = BeautifulSoup(driver.page_source, 'html.parser')
 Featured_Event = soup.find('div',attrs={'class':'otd-featured-event col-100 col-sm-50'})
@@ -39,7 +48,7 @@ closingTagTitle = "</h2 head"
 startIndexTitle = readmeText.index(openingTagTitle)
 endIndexTitle = readmeText.index(closingTagTitle)
 
-quoteTitleMarkdown = "<h2 head align='center'>" + OTDtitle + "." + "</h2 head>"
+quoteTitleMarkdown = "<h2 head>" + OTDtitle + "." + "</h2 head>"
  
 newTitle = (
     readmeText[:startIndexTitle]
@@ -66,9 +75,9 @@ newBody = (
 )
 
 
-
+newContent = newTitle + "\n" + newBody
  
 # Writing new Quote into readme file
 readme_file = open("README.md",
                    mode="w", encoding="utf8")
-readme_file.write(newTitle + "\n" + newBody)
+readme_file.write(newContent)
