@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Witchcraft condemned by Pope Innocent VIII".</h2 head><h3 quote align='center'>"Innocent VIII condemned witchcraft this day in 1484 via papal bull, and subsequently he dispatched inquisitors to Germany to try witches and persecuted a chief exponent of Renaissance Platonism, Giovanni Pico della Mirandola.".</h3 quote></h3 OTD---
+<h3 OTD<h2 head>"Irish Free State established".</h2 head><h3 quote align='center'>"The British government and Irish leaders Arthur Griffith, Michael Collins, and others signed the Anglo-Irish Treaty, establishing the Irish Free State as an independent member of the British Commonwealth this day in 1921.".</h3 quote></h3 OTD--
