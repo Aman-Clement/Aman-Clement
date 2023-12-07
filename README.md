@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Irish Free State established".</h2 head><h3 quote align='center'>"The British government and Irish leaders Arthur Griffith, Michael Collins, and others signed the Anglo-Irish Treaty, establishing the Irish Free State as an independent member of the British Commonwealth this day in 1921.".</h3 quote></h3 OTD-
+<h3 OTD<h2 head>"Pearl Harbor attack".</h2 head><h3 quote align='center'>"On this day in 1941, Japanese bombers launched a surprise aerial attack on the U.S. naval base at Pearl Harbor on the island of Oahu, Hawaii, precipitating the entry of the United States into World War II.".</h3 quote></h3 OTD
