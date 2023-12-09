@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"John Lennon fatally shot by fan".</h2 head><h3 quote align='center'>"On this day in 1980, British musician John Lennon\u2014who rose to fame with the Beatles and had a successful solo career\u2014was fatally shot by Mark David Chapman in New York City, causing a global outpouring of grief.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Lech Wa\u0142\u0119sa elected president of Poland".</h2 head><h3 quote align='center'>"On this day in 1990, Lech Wa\u0142\u0119sa\u2014who had led Solidarity, Poland's first independent trade union, and had received the Nobel Prize for Peace in 1983\u2014won Poland's first direct presidential election by a landslide.".</h3 quote></h3 OTD
