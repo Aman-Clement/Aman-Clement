@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Encyclop\u00e6dia Britannica first published".</h2 head><h3 quote align='center'>"The first part of the first edition of the Encyclop\u00e6dia Britannica, the oldest continuously published and revised work in the English language, was published and advertised for sale in Edinburgh on this day in 1768.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Abdication of King Edward VIII".</h2 head><h3 quote align='center'>"Edward VIII, failing to win acceptance for his desire to marry American divorc\u00e9e Wallis Warfield Simpson, became the only British sovereign to voluntarily resign the crown, his abdication formally approved this day in 1936.".</h3 quote></h3 OTD
