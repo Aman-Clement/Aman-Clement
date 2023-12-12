@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Abdication of King Edward VIII".</h2 head><h3 quote align='center'>"Edward VIII, failing to win acceptance for his desire to marry American divorc\u00e9e Wallis Warfield Simpson, became the only British sovereign to voluntarily resign the crown, his abdication formally approved this day in 1936.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"U.S. Supreme Court decision on the presidential election".</h2 head><h3 quote align='center'>"On this day in 2000, the U.S. Supreme Court effectively awarded the presidency to George W. Bush, ruling that a fair recount of ballots in Florida could not be performed by the deadline for certifying the state's electors.".</h3 quote></h3 OTD
