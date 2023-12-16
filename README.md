@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Premiere of Gone with the Wind".</h2 head><h3 quote align='center'>"Starring Vivien Leigh and Clark Gable, the film Gone with the Wind\u2014a romantic tale of the American South during the Civil War adapted from the 1936 novel by Margaret Mitchell\u2014premiered this day in Atlanta, Georgia, in 1939.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Boston Tea Party".</h2 head><h3 quote align='center'>"On this day in 1773, in what is known as the Boston Tea Party, American colonists disguised as Mohawk Indians threw 342 chests of tea belonging to the British East India Company into Boston Harbor to protest a tax on tea.".</h3 quote></h3 OTD
