@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Flight of the Wright brothers".</h2 head><h3 quote align='center'>"On this day in 1903 near Kitty Hawk, North Carolina, brothers Orville and Wilbur Wright made the first successful sustained flights in an airplane\u2014Orville first, gliding 120 feet (36.6 metres) through the air in 12 seconds.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Slavery abolished in the United States".</h2 head><h3 quote align='center'>"On this day in 1865, by proclamation of the U.S. secretary of state, the Thirteenth Amendment to the Constitution, outlawing slavery, officially entered into force, having been ratified by the requisite states on December 6.".</h3 quote></h3 OTD
