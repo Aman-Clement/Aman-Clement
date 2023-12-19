@@ -6,7 +6,7 @@ Hi!! My name is Aman Clement Aranha
 I am Fourth Year Information Science and Engineering student at Ramaiah Institute of Technology.
 
 * 🌍  I'm based in Bangalore, India
-* ✉️  You can contact me at [amanclementaranha@gmail.com](mailto:amanclementaranha@gmail.com){:target="_blank"}
+* ✉️  You can contact me at [amanclementaranha@gmail.com](mailto:amanclementaranha@gmail.com)
 * 👀 Check Out : https://aman-clement-aranha.vercel.app/
 
 ![Animated GIF](https://i.ibb.co/XZMLr2b/mario-pixel-art.gif){:target="_blank"}
