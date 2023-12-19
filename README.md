@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Slavery abolished in the United States".</h2 head><h3 quote align='center'>"On this day in 1865, by proclamation of the U.S. secretary of state, the Thirteenth Amendment to the Constitution, outlawing slavery, officially entered into force, having been ratified by the requisite states on December 6.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Articles of impeachment approved against U.S. President Bill Clinton".</h2 head><h3 quote align='center'>"On this day in 1998, the U.S. House of Representatives impeached President Bill Clinton, charging him with perjury and obstruction of justice, though Clinton was acquitted by the Senate the following month.".</h3 quote></h3 OTD
