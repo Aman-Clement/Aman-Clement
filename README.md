@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Articles of impeachment approved against U.S. President Bill Clinton".</h2 head><h3 quote align='center'>"On this day in 1998, the U.S. House of Representatives impeached President Bill Clinton, charging him with perjury and obstruction of justice, though Clinton was acquitted by the Senate the following month.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Macau made an administrative region of China".</h2 head><h3 quote align='center'>"On this day in 1999, 12 years after an agreement was reached between China and Portugal, several centuries of Portuguese rule ended in Macau when it became a special administrative region under Chinese sovereignty.".</h3 quote></h3 OTD
