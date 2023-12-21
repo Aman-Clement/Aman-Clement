@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Macau made an administrative region of China".</h2 head><h3 quote align='center'>"On this day in 1999, 12 years after an agreement was reached between China and Portugal, several centuries of Portuguese rule ended in Macau when it became a special administrative region under Chinese sovereignty.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Radium discovered by Marie and Pierre Curie".</h2 head><h3 quote align='center'>"On this day in 1898, having recently discovered polonium, future Nobel Prize winners Marie and Pierre Curie discovered the radioactive chemical element radium, a silvery white metal that would be used to treat cancer.".</h3 quote></h3 OTD
