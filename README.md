@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Christmas celebrated worldwide".</h2 head><h3 quote align='center'>"Though the precise origin of the date is unclear, Christmas, commemorating the birth of Jesus Christ, is celebrated on this day, having been first identified as the date of Jesus' birth by Sextus Julius Africanus in 221.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Indian Ocean tsunami".</h2 head><h3 quote align='center'>"On this day in 2004, a large earthquake shook the Indian Ocean floor west of the island of Sumatra, triggering a devastating tsunami that swamped coastal areas from Thailand to Africa and killed more than 200,000 people.".</h3 quote></h3 OTD
