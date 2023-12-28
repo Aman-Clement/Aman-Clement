@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Dutch transfer of Indonesian sovereignty ".</h2 head><h3 quote align='center'>"On this day in 1949, four years after nationalist revolutionary leader Sukarno had declared Indonesia's independence, formal sovereignty over the country was transferred from the Dutch to the United States of Indonesia.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Westminster Abbey opened".</h2 head><h3 quote align='center'>"The original Westminster Abbey, located in London, was consecrated and opened this day in 1065 by Edward the Confessor and became the site of coronations and other ceremonies of national significance in England.".</h3 quote></h3 OTD
