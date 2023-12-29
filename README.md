@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Westminster Abbey opened".</h2 head><h3 quote align='center'>"The original Westminster Abbey, located in London, was consecrated and opened this day in 1065 by Edward the Confessor and became the site of coronations and other ceremonies of national significance in England.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"U.S. annexation of Texas approved".</h2 head><h3 quote align='center'>"The annexation of the Republic of Texas by the United States, approved by the U.S. Congress this day in 1845, sparked the Mexican War because land between the Rio Grande and the Nueces River was disputed territory.".</h3 quote></h3 OTD
