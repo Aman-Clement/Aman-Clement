@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Union of Soviet Socialist Republics established".</h2 head><h3 quote align='center'>"The Union of Soviet Socialist Republics, formed this day in 1922 with its capital in Moscow, eventually incorporated 15 republics and constituted (in area) the largest country in the world until its dissolution in 1991.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Ottawa made capital of Canada".</h2 head><h3 quote align='center'>"Ottawa, located in Ontario at the confluence of the Ottawa, Gatineau, and Rideau rivers and whose area was first described by Samuel de Champlain in 1613, was named the capital of Canada by Queen Victoria this day in 1857.".</h3 quote></h3 OTD
