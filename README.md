@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Granada reclaimed by Spain".</h2 head><h3 quote align='center'>"On this day in 1492, Granada, home of the Alhambra palace and the seat and final stronghold of the Moorish kingdom in Spain, was surrendered to the Catholic Monarchs, Ferdinand II and Isabella I, ending the Reconquest.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Martin Luther excommunicated by pope".</h2 head><h3 quote align='center'>"On this day in 1521, Pope Leo X issued the papal bull Decet Romanum Pontificem, excommunicating Martin Luther, the German priest whose questioning of certain Roman Catholic practices initiated the Protestant Reformation.".</h3 quote></h3 OTD
