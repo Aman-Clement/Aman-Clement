@@ -9,7 +9,7 @@ I am Fourth Year Information Science and Engineering student at Ramaiah Institut
 * ✉️  You can contact me at [amanclementaranha@gmail.com](mailto:amanclementaranha@gmail.com)
 * 👀 Check Out : https://aman-clement-aranha.vercel.app/
 
-![Animated GIF](https://i.ibb.co/XZMLr2b/mario-pixel-art.gif){:target="_blank"}
+![Animated GIF](https://i.ibb.co/XZMLr2b/mario-pixel-art.gif)
 
 Some of my skills...
 -------
