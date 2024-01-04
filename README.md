@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Martin Luther excommunicated by pope".</h2 head><h3 quote align='center'>"On this day in 1521, Pope Leo X issued the papal bull Decet Romanum Pontificem, excommunicating Martin Luther, the German priest whose questioning of certain Roman Catholic practices initiated the Protestant Reformation.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Burma granted independence".</h2 head><h3 quote align='center'>"On this day in 1948, the Southeast Asian nation of Burma (Myanmar) formally gained independence, completing the transfer of power negotiated by Burmese leader Aung San and British Prime Minister Clement Attlee in 1947.".</h3 quote></h3 OTD
