@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Galileo's discovery of Jupiter's four moons".</h2 head><h3 quote align='center'>"During this month in 1610, Italian astronomer Galileo made the earthshaking discoveries that four moons revolve around Jupiter and that the telescope reveals many more stars than are visible to the naked eye.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Anniversary of Grimaldi rule in Monaco".</h2 head><h3 quote align='center'>"On this day in 1997, the principality of Monaco began a yearlong celebration in honour of the 700th anniversary of the rule of the Grimaldi family, who seized power in 1297 and gained firm possession of Monaco in 1419.".</h3 quote></h3 OTD
