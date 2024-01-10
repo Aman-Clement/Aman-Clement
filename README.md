@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Election of Mahmoud Abbas".</h2 head><h3 quote align='center'>"Mahmoud Abbas, who was a founder of Fatah in the 1950s and served briefly as prime minister of the Palestinian Authority (PA) in 2003 under Y\u0101sir \u02bfAraf\u0101t, was elected president of the PA on this day in 2005.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Common Sense published".</h2 head><h3 quote align='center'>"On this day in 1776, Thomas Paine published Common Sense, a 50-page pamphlet that sold more than 500,000 copies within a few months and called for a war of independence that would become the American Revolution.".</h3 quote></h3 OTD
