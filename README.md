@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Haiti severely damaged by earthquake".</h2 head><h3 quote align='center'>"On this day in 2010, a magnitude-7.0 earthquake devastated Haiti, especially Port-au-Prince, killing more than 200,000 people and leaving more than 1,000,000 homeless and touching off a massive international relief effort.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"\u00c9mile Zola's \u201cJ'accuse\u201d published".</h2 head><h3 quote align='center'>"On this day in 1898, French author \u00c9mile Zola published an open letter in the newspaper L'Aurore denouncing the French general staff for its role in the 1894 treason conviction of Jewish French army officer Alfred Dreyfus.".</h3 quote></h3 OTD
