@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"\u00c9mile Zola's \u201cJ'accuse\u201d published".</h2 head><h3 quote align='center'>"On this day in 1898, French author \u00c9mile Zola published an open letter in the newspaper L'Aurore denouncing the French general staff for its role in the 1894 treason conviction of Jewish French army officer Alfred Dreyfus.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Premiere of Giacomo Puccini's opera Tosca".</h2 head><h3 quote align='center'>"The opera Tosca\u2014a psychological drama of deceit and doubt composed by Giacomo Puccini, one of the greatest exponents of operatic realism\u2014made its world premiere in Rome's Costanzi Theatre on this day in 1900.".</h3 quote></h3 OTD
