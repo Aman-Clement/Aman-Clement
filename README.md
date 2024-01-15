@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Premiere of Giacomo Puccini's opera Tosca".</h2 head><h3 quote align='center'>"The opera Tosca\u2014a psychological drama of deceit and doubt composed by Giacomo Puccini, one of the greatest exponents of operatic realism\u2014made its world premiere in Rome's Costanzi Theatre on this day in 1900.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"British Museum opened to the public".</h2 head><h3 quote align='center'>"Established by an act of Parliament in 1753, the British Museum\u2014which counts among its world-renowned antiquities and archaeological holdings the Elgin Marbles and the Rosetta Stone\u2014opened to the public this day in 1759.".</h3 quote></h3 OTD
