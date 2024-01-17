@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Beginning of Persian Gulf War ".</h2 head><h3 quote align='center'>"The Persian Gulf War, triggered by Iraq's occupation of Kuwait in August 1990, began on this day in 1991 with a U.S.-led air offensive against Iraq that continued until a cease-fire was declared on February 28.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Hawaiian monarchy overthrown".</h2 head><h3 quote align='center'>"Acting for Hawaiian sugar interests and their American allies, a committee led by Sanford Ballard Dole deposed Hawaiian Queen Liliuokalani this day in 1893 and installed a provisional government with Dole as president.".</h3 quote></h3 OTD
