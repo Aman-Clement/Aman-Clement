@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"German Empire established".</h2 head><h3 quote align='center'>"The German Empire, forged as a result of diplomacy rather than an outpouring of popular nationalist feeling, was founded this day in 1871 in the aftermath of three successful wars by the North German state of Prussia.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Rule in India transferred to Indira Gandhi".</h2 head><h3 quote align='center'>"Following the sudden death of Indian Premier Lal Bahadur Shastri eight days earlier, Indira Gandhi became prime minister of India on this day in 1966, assuming the office first held by her father, Jawaharlal Nehru.".</h3 quote></h3 OTD
