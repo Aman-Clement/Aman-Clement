@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Rule in India transferred to Indira Gandhi".</h2 head><h3 quote align='center'>"Following the sudden death of Indian Premier Lal Bahadur Shastri eight days earlier, Indira Gandhi became prime minister of India on this day in 1966, assuming the office first held by her father, Jawaharlal Nehru.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Barack Obama sworn in as president".</h2 head><h3 quote align='center'>"On this day in 2009, Barack Obama was sworn in as the 44th president of the United States, becoming the first African American to hold the office.".</h3 quote></h3 OTD
