@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>" Roe  v. Wade  ruling".</h2 head><h3 quote align='center'>"On this day in 1973, the U.S. Supreme Court issued one of its most momentous decisions, ruling in  Roe  v. Wade  that a Texas statute criminalizing abortion in most instances violated a woman's constitutional right of privacy.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Madeleine Albright sworn in as U.S. secretary of state".</h2 head><h3 quote align='center'>"On this day in 1997, Madeleine Albright, who had earlier served as U.S. ambassador to the UN, assumed under President Bill Clinton the office of secretary of state, becoming the first woman to hold that cabinet post.".</h3 quote></h3 OTD
