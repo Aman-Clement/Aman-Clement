@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Opportunity's Mars landing".</h2 head><h3 quote align='center'>"Launched in mid-2003, the six-wheeled robotic rover Opportunity landed on Mars this day in 2004 and\u2014like its twin rover, Spirit, which had landed on January 3\u2014analyzed rocks and soils and relayed pictures back to Earth.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Claudius affirmed as Roman emperor".</h2 head><h3 quote align='center'>"On this day in 41 ce Claudius I, who extended Roman rule in North Africa and made Britain a province of the Roman Empire, was affirmed as emperor, raised to the post one day after the murder of his nephew, Gaius Caesar (Caligula).".</h3 quote></h3 OTD
