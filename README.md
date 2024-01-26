@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Claudius affirmed as Roman emperor".</h2 head><h3 quote align='center'>"On this day in 41 ce Claudius I, who extended Roman rule in North Africa and made Britain a province of the Roman Empire, was affirmed as emperor, raised to the post one day after the murder of his nephew, Gaius Caesar (Caligula).".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First European settlement in Australia".</h2 head><h3 quote align='center'>"On this day in 1788, Arthur Phillip, who had sailed into what is now Sydney Cove with a shipload of convicts, hoisted the British flag and established the first permanent European settlement on the continent of Australia.".</h3 quote></h3 OTD
