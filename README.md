@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First European settlement in Australia".</h2 head><h3 quote align='center'>"On this day in 1788, Arthur Phillip, who had sailed into what is now Sydney Cove with a shipload of convicts, hoisted the British flag and established the first permanent European settlement on the continent of Australia.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Vietnam War ended".</h2 head><h3 quote align='center'>"The Paris accord ending the Vietnam War, America's longest war to that time, was signed this day in 1973, providing for an exchange of prisoners and for the unilateral withdrawal of U.S. forces from South Vietnam.".</h3 quote></h3 OTD
