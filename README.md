@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Vietnam War ended".</h2 head><h3 quote align='center'>"The Paris accord ending the Vietnam War, America's longest war to that time, was signed this day in 1973, providing for an exchange of prisoners and for the unilateral withdrawal of U.S. forces from South Vietnam.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Explosion of the space shuttle Challenger".</h2 head><h3 quote align='center'>"On this day in 1986, the U.S. space shuttle Challenger exploded 73 seconds after liftoff from Florida, killing all seven aboard, including a schoolteacher who had been chosen as the first American civilian to travel in space.".</h3 quote></h3 OTD
