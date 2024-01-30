@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Iraq, Iran, and North Korea called an \u201caxis of evil\u201d".</h2 head><h3 quote align='center'>"On this day in 2002, U.S. President George W. Bush, delivering a State of the Union address, described Iraq, Iran, and North Korea as an \u201caxis of evil\u201d for their attempts to develop nuclear, chemical, or biological weaponry.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"\u201cGreat Soul\u201d assassinated".</h2 head><h3 quote align='center'>"Indian leader Mahatma Gandhi\u2014considered the father of his country and internationally esteemed for his doctrine of nonviolent protest (satyagraha) to achieve political and social progress\u2014was assassinated on this day in 1948.".</h3 quote></h3 OTD
