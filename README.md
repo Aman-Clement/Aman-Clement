@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"\u201cGreat Soul\u201d assassinated".</h2 head><h3 quote align='center'>"Indian leader Mahatma Gandhi\u2014considered the father of his country and internationally esteemed for his doctrine of nonviolent protest (satyagraha) to achieve political and social progress\u2014was assassinated on this day in 1948.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Guy Fawkes executed in London".</h2 head><h3 quote align='center'>"On this day in 1606, British provocateur Guy Fawkes\u2014one of the Gunpowder Plot conspirators, who sought to blow up Parliament and to assassinate King James I for his repression of Roman Catholics\u2014was executed in London.".</h3 quote></h3 OTD
