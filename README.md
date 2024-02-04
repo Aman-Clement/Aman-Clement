@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Fifteenth Amendment to the U.S. Constitution ratified".</h2 head><h3 quote align='center'>"On this day in 1870, the Fifteenth Amendment to the Constitution of the United States was ratified, guaranteeing the right to vote regardless of race and intending to ensure, with the Fourteenth Amendment, the civil rights of former slaves.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Yalta Conference opened".</h2 head><h3 quote align='center'>"On this day in 1945, during the final stages of World War II, the Yalta Conference opened with Franklin D. Roosevelt, Winston Churchill, and Joseph Stalin meeting to plan the final defeat and occupation of Nazi Germany.".</h3 quote></h3 OTD
