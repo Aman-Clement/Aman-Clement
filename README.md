@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Yalta Conference opened".</h2 head><h3 quote align='center'>"On this day in 1945, during the final stages of World War II, the Yalta Conference opened with Franklin D. Roosevelt, Winston Churchill, and Joseph Stalin meeting to plan the final defeat and occupation of Nazi Germany.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Punic Wars ended".</h2 head><h3 quote align='center'>"The Third Punic War, the last of three between Rome and Carthage, came to an end this day in 146 bce, culminating in the final destruction of Carthage, the enslavement of its people, and Roman hegemony over the Mediterranean.".</h3 quote></h3 OTD
