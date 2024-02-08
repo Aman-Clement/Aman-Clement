@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Accession of Elizabeth II".</h2 head><h3 quote align='center'>"Elizabeth II, who celebrated her Golden Jubilee in 2002, ascended the throne of the United Kingdom of Great Britain and Northern Ireland this day in 1952, following the death of her father, King George VI.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Mary, Queen of Scots, beheaded".</h2 head><h3 quote align='center'>"Mary, Queen of Scots, rival of Queen Elizabeth I of England, was beheaded this day in 1587 at Fotheringhay Castle, her execution a chilling scene redeemed by the great personal dignity with which she met her fate.".</h3 quote></h3 OTD
