@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Mary, Queen of Scots, beheaded".</h2 head><h3 quote align='center'>"Mary, Queen of Scots, rival of Queen Elizabeth I of England, was beheaded this day in 1587 at Fotheringhay Castle, her execution a chilling scene redeemed by the great personal dignity with which she met her fate.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Calcutta restored to British control".</h2 head><h3 quote align='center'>"Concluded this day in 1757 by Robert Clive, the Treaty of Alinagar restored Calcutta (now Kolkata)\u2014which Clive had recovered in January from Siraj al-Dawlah\u2014to British control and served as a prelude to the seizure of Bengal.".</h3 quote></h3 OTD
