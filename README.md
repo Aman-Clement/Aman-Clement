@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Calcutta restored to British control".</h2 head><h3 quote align='center'>"Concluded this day in 1757 by Robert Clive, the Treaty of Alinagar restored Calcutta (now Kolkata)\u2014which Clive had recovered in January from Siraj al-Dawlah\u2014to British control and served as a prelude to the seizure of Bengal.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"St. Bernadette's first visions of Mary at Lourdes".</h2 head><h3 quote align='center'>"On this day in 1858 in Lourdes, France, 14-year-old Bernadette Soubirous, a miller's daughter, first had visions of the Virgin Mary that were authenticated by Pope Pius IX in 1862, initiating the cult of Our Lady of Lourdes.".</h3 quote></h3 OTD
