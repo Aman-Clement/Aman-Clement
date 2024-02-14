@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"William and Mary crowned".</h2 head><h3 quote align='center'>"Following the Glorious Revolution, William and Mary were proclaimed king and queen of England this day in 1689, after which they ruled jointly as King William III and Queen Mary II until her death in 1694.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Fatwa issued against Salman Rushdie".</h2 head><h3 quote align='center'>"On this day in 1989, Ayatollah Ruhollah Khomeini of Iran issued a fatwa and offered a bounty for the assassination of author Salman Rushdie, whose novel The Satanic Verses (1988) Khomeini denounced as blasphemous.".</h3 quote></h3 OTD
