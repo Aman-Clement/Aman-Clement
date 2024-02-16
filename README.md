@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"USS Maine destroyed, leading to Spanish-American War".</h2 head><h3 quote align='center'>"On this day in 1898, an explosion in Havana harbour sank the battleship USS Maine, killing 260 American seamen and precipitating the Spanish-American War, which originated in the Cuban struggle for independence from Spain.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Power in Cuba seized by Fidel Castro".</h2 head><h3 quote align='center'>"After defeating the forces of dictator General Fulgencio Batista, Fidel Castro became premier of Cuba this day in 1959 and transformed the island country into the Western Hemisphere's first communist state.".</h3 quote></h3 OTD
