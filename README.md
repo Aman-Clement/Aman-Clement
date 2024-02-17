@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Power in Cuba seized by Fidel Castro".</h2 head><h3 quote align='center'>"After defeating the forces of dictator General Fulgencio Batista, Fidel Castro became premier of Cuba this day in 1959 and transformed the island country into the Western Hemisphere's first communist state.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Vietnam invaded by China".</h2 head><h3 quote align='center'>"After the Vietnam War, Vietnam bolstered its ties with the Soviet Union rather than with China, and, following a series of anti-Chinese, pro-Soviet maneuvers by Vietnam, China invaded its southern neighbour this day in 1979.".</h3 quote></h3 OTD
