@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Pluto discovered by Clyde Tombaugh".</h2 head><h3 quote align='center'>"Using a 13-inch (33-cm) telescope at the Lowell Observatory in Flagstaff, Arizona, Clyde W. Tombaugh, a 24-year-old American with no formal training in astronomy, discovered the dwarf planet Pluto this day in 1930.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Iwo Jima invaded by U.S. Marines".</h2 head><h3 quote align='center'>"On this day in 1945, during the final phases of World War II, U.S. Marines invaded Iwo Jima so as to wrest control of the strategically important island from the Japanese, who put up fierce resistance in the ensuing battle.".</h3 quote></h3 OTD
