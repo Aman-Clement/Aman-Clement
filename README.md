@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Iwo Jima invaded by U.S. Marines".</h2 head><h3 quote align='center'>"On this day in 1945, during the final phases of World War II, U.S. Marines invaded Iwo Jima so as to wrest control of the strategically important island from the Japanese, who put up fierce resistance in the ensuing battle.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"John Glenn's orbit of Earth".</h2 head><h3 quote align='center'>"John H. Glenn, Jr., the oldest of seven astronauts selected by NASA for Project Mercury spaceflight training (and later a U.S. senator), became on this day in 1962 the first American to orbit Earth, doing so three times.".</h3 quote></h3 OTD
