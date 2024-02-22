@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Malcolm X assassinated".</h2 head><h3 quote align='center'>"Malcolm X, who articulated concepts of racial pride and black nationalism in the United States, was assassinated this day in 1965 and became an ideological hero after the posthumous release of The Autobiography of Malcolm X.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Cloning of Dolly".</h2 head><h3 quote align='center'>"On this day in 1997, a team of British scientists working under the direction of Ian Wilmut at the Roslin Institute near Edinburgh announced the birth of Dolly the sheep, the first clone of an adult mammal.".</h3 quote></h3 OTD
