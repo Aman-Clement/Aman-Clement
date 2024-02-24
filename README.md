@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Alamo besieged by Santa Anna's Mexican army".</h2 head><h3 quote align='center'>"This day in 1836, during the Texas war for independence, Mexican General Antonio L\u00f3pez de Santa Anna began a siege of the Alamo, which was captured after 13 days and which became for Texans a symbol of heroic resistance.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"U.S. President Andrew Johnson impeached".</h2 head><h3 quote align='center'>"On this day in 1868, the U.S. House of Representatives voted 126\u201347 to impeach President Andrew Johnson, whose lenient Reconstruction policies regarding the South after the Civil War angered Radical Republicans in Congress.".</h3 quote></h3 OTD
