@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Chile struck by earthquake and tsunami".</h2 head><h3 quote align='center'>"On this day in 2010, a magnitude-8.8 earthquake struck Chile, causing widespread damage and triggering a tsunami that devastated coastal areas; it was the most powerful earthquake to strike the region since 1960.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Olof Palme assassinated".</h2 head><h3 quote align='center'>"Olof Palme, the internationally prominent prime minister of Sweden (1969\u201376, 1982\u201386) whose strong pacifist beliefs included opposition to the Vietnam War, was assassinated this day in Stockholm in 1986.".</h3 quote></h3 OTD
