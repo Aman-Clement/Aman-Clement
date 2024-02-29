@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Olof Palme assassinated".</h2 head><h3 quote align='center'>"Olof Palme, the internationally prominent prime minister of Sweden (1969\u201376, 1982\u201386) whose strong pacifist beliefs included opposition to the Vietnam War, was assassinated this day in Stockholm in 1986.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Voting begun on Bosnian independence".</h2 head><h3 quote align='center'>"Beginning this day in 1992, the Republic of Bosnia and Herzegovina held a referendum on independence that won almost unanimous support, and on March 3 independence was proclaimed, prompting shelling by Serbian forces.".</h3 quote></h3 OTD
