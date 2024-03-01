@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Voting begun on Bosnian independence".</h2 head><h3 quote align='center'>"Beginning this day in 1992, the Republic of Bosnia and Herzegovina held a referendum on independence that won almost unanimous support, and on March 3 independence was proclaimed, prompting shelling by Serbian forces.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Establishment of Yellowstone as world's first national park".</h2 head><h3 quote align='center'>"Yellowstone National Park, situated in the western United States and designated a UNESCO World Heritage site in 1978, was established by the U.S. Congress as the country's\u2014and the world's\u2014first national park this day in 1872.".</h3 quote></h3 OTD
