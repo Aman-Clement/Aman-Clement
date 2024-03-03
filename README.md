@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Moroccan independence declared".</h2 head><h3 quote align='center'>"The North African country of Morocco, situated directly across the Strait of Gibraltar from Spain, proclaimed independence from France this day in 1956, the sultan Muhammad V having formed its first government.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Steve Fossett's circumnavigation of Earth".</h2 head><h3 quote align='center'>"On this day in 2005, American adventurer Steve Fossett became the first person to complete a solo nonstop circumnavigation of the globe without refueling when he landed in Kansas after more than 67 hours in flight.".</h3 quote></h3 OTD
