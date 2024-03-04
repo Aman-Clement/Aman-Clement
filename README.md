@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Steve Fossett's circumnavigation of Earth".</h2 head><h3 quote align='center'>"On this day in 2005, American adventurer Steve Fossett became the first person to complete a solo nonstop circumnavigation of the globe without refueling when he landed in Kansas after more than 67 hours in flight.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Inauguration of U.S. President Franklin D. Roosevelt".</h2 head><h3 quote align='center'>"On this day in 1933, in the midst of the Great Depression, Franklin D. Roosevelt was inaugurated as the 32nd U.S. president, and later he led the country out of the Depression and to victory in World War II.".</h3 quote></h3 OTD
