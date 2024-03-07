@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"King Tut's tomb opened".</h2 head><h3 quote align='center'>"On this day in 1924, the Egyptian government opened the mummy case of King Tutankhamen, ruler of Egypt in the 14th century bce, whose burial chamber had been discovered in 1922 by renowned British archaeologist Howard Carter.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Attack on civil rights protesters in Selma, Alabama".</h2 head><h3 quote align='center'>"On this day in 1965, state troopers used nightsticks and tear gas to attack American civil rights activists as they crossed a bridge in Selma, Alabama, during their attempted march to the state capitol in Montgomery.".</h3 quote></h3 OTD
