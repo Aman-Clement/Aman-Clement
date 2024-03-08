@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Attack on civil rights protesters in Selma, Alabama".</h2 head><h3 quote align='center'>"On this day in 1965, state troopers used nightsticks and tear gas to attack American civil rights activists as they crossed a bridge in Selma, Alabama, during their attempted march to the state capitol in Montgomery.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"British throne ascended by Anne".</h2 head><h3 quote align='center'>"On this day in 1702, Anne became the last Stuart monarch of Great Britain, having earlier acquiesced to the Act of Settlement of 1701, which designated as her successors the Hanoverian descendants of King James I.".</h3 quote></h3 OTD
