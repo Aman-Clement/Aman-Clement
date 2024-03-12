@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Japan struck by earthquake and tsunami".</h2 head><h3 quote align='center'>"On this day in 2011, an earthquake struck off the northeastern coast of Honshu, Japan, causing widespread damage in the country and triggering a devastating tsunami that instigated a major nuclear accident.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Truman Doctrine pronounced".</h2 head><h3 quote align='center'>"On this day in 1947, U.S. President Harry S. Truman articulated what became known as the Truman Doctrine when he asked Congress to appropriate aid for Greece and Turkey, both of which were facing communist threats.".</h3 quote></h3 OTD
