@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Truman Doctrine pronounced".</h2 head><h3 quote align='center'>"On this day in 1947, U.S. President Harry S. Truman articulated what became known as the Truman Doctrine when he asked Congress to appropriate aid for Greece and Turkey, both of which were facing communist threats.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The planet Uranus discovered".</h2 head><h3 quote align='center'>"English astronomer William Herschel observed this day in 1781 the seventh planet from the Sun, Uranus\u2014first described by him as \u201ca curious either nebulous star or perhaps a comet\u201d and named for the father of the god Saturn.".</h3 quote></h3 OTD
