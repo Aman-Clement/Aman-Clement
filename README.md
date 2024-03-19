@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Election of Chen Shui-bian".</h2 head><h3 quote align='center'>"On this day in 2000, Chen Shui-bian, a leader of the pro-independence movement that sought statehood for the Republic of China (Taiwan), was elected president of Taiwan, breaking the Nationalist Party's 55-year rule.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Iraq War begins".</h2 head><h3 quote align='center'>"On this day in 2003, U.S. President George W. Bush ordered air strikes on Baghdad, thus launching the Iraq War to oust dictator Saddam Hussein, who was believed (wrongly) to be manufacturing weapons of mass destruction.".</h3 quote></h3 OTD
