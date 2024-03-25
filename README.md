@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Exxon Valdez Alaskan oil spill".</h2 head><h3 quote align='center'>"On this day in 1989, the oil tanker Exxon Valdez ran aground, spilling some 11 million gallons (41 million litres) of oil into Prince William Sound in Alaska and creating the largest oil spill in U.S. history up to that time.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Robert the Bruce crowned king of Scotland".</h2 head><h3 quote align='center'>"Robert the Bruce, crowned Scottish king at Scone this day in 1306, freed Scotland from English rule, winning the decisive Battle of Bannockburn (1314) and confirming Scottish independence in the Treaty of Northampton (1328).".</h3 quote></h3 OTD
