@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Robert the Bruce crowned king of Scotland".</h2 head><h3 quote align='center'>"Robert the Bruce, crowned Scottish king at Scone this day in 1306, freed Scotland from English rule, winning the decisive Battle of Bannockburn (1314) and confirming Scottish independence in the Treaty of Northampton (1328).".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Signing of Israel-Egypt peace treaty".</h2 head><h3 quote align='center'>"The historic peace treaty between Israel and Egypt, agreed to by Menachem Begin and Anwar Sadat and based on the Camp David Accords mediated by U.S. President Jimmy Carter in September 1978, was signed this day in 1979.".</h3 quote></h3 OTD
