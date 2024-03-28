@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Cleopatra reinstated as queen of Egypt".</h2 head><h3 quote align='center'>"The legendary Cleopatra VII Thea Philopator, aided by her Roman lover Julius Caesar, was reinstated as coruler of Egypt (with her brother Ptolemy XIV) this day in 47 bce following a civil war with her brother Ptolemy XIII.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Constantinople renamed Istanbul".</h2 head><h3 quote align='center'>"Built as Byzantium about 657 bce, then renamed Constantinople in the 4th century ce after Constantine the Great made the city his capital, the Turkish city of Istanbul officially received its present name on this day in 1930.".</h3 quote></h3 OTD
