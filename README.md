@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Failed assassination attempt against U.S. President Ronald Reagan".</h2 head><h3 quote align='center'>"In Washington, D.C., on this day in 1981, barely two months after his inauguration as the 40th president of the United States, Ronald Reagan was shot and seriously wounded by would-be assassin John W. Hinckley, Jr.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Eiffel Tower inaugurated".</h2 head><h3 quote align='center'>"The 984-foot (300-metre) Eiffel Tower, a wrought iron technological masterpiece created by Gustave Eiffel to commemorate the centenary of the French Revolution, was officially inaugurated in Paris this day in 1889.".</h3 quote></h3 OTD
