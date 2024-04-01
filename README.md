@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Eiffel Tower inaugurated".</h2 head><h3 quote align='center'>"The 984-foot (300-metre) Eiffel Tower, a wrought iron technological masterpiece created by Gustave Eiffel to commemorate the centenary of the French Revolution, was officially inaugurated in Paris this day in 1889.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Creation of Nunavut".</h2 head><h3 quote align='center'>"Created this day in 1999 by carving a vast region from Canada's Northwest Territories, the Canadian territory of Nunavut stretches across much of the Canadian Arctic and encompasses the traditional lands of the Inuit.".</h3 quote></h3 OTD
