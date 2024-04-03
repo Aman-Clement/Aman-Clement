@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Death of Pope John Paul II".</h2 head><h3 quote align='center'>"Bishop of Rome and head of the Roman Catholic Church from 1978, Pope John Paul II, who was the first non-Italian pope in 455 years and the first from a Slavic country, died in Vatican City this day in 2005.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Implementation of the Marshall Plan".</h2 head><h3 quote align='center'>"On this day in 1948, U.S. President Harry S. Truman signed into law George C. Marshall's post-World War II plan to revive the economies of western and southern European countries so as to foster democracy in the region.".</h3 quote></h3 OTD
