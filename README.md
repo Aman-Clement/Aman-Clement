@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Implementation of the Marshall Plan".</h2 head><h3 quote align='center'>"On this day in 1948, U.S. President Harry S. Truman signed into law George C. Marshall's post-World War II plan to revive the economies of western and southern European countries so as to foster democracy in the region.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Martin Luther King, Jr., assassinated".</h2 head><h3 quote align='center'>"On this day in 1968, Martin Luther King, Jr., a leader of the American civil rights movement who was in Memphis, Tennessee, to support a strike by the city's sanitation workers, was assassinated by James Earl Ray.".</h3 quote></h3 OTD
