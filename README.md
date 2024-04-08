@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Jack Nicklaus's first Masters victory".</h2 head><h3 quote align='center'>"American professional golfer Jack Nicklaus, a dominating figure in world golf from the 1960s to the '80s and the winner of 73 PGA tour events in his career, won the Masters Tournament at age 23 on this day in 1963.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Celebration of the Buddha's birth".</h2 head><h3 quote align='center'>"On this day most practitioners of Buddhism in Japan celebrate the birth of the Buddha, who lived in India sometime between the 6th and the 4th century bce and founded Buddhism.".</h3 quote></h3 OTD
