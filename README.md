@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Celebration of the Buddha's birth".</h2 head><h3 quote align='center'>"On this day most practitioners of Buddhism in Japan celebrate the birth of the Buddha, who lived in India sometime between the 6th and the 4th century bce and founded Buddhism.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Fall of Baghdad".</h2 head><h3 quote align='center'>"Baghdad fell to U.S.-led forces on this day in 2003, several weeks after the start of the Iraq War, a conflict begun to oust Iraqi President Saddam Hussein because of his supposed possession of weapons of mass destruction.".</h3 quote></h3 OTD
