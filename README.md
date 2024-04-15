@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Abraham Lincoln shot".</h2 head><h3 quote align='center'>"On this day in 1865, just after the effective end of the American Civil War, U.S. President Abraham Lincoln was shot by John Wilkes Booth while attending a production at Ford's Theatre in Washington, D.C., and died the next morning.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Sinking of the Titanic".</h2 head><h3 quote align='center'>"On this day in 1912, the British luxury passenger liner Titanic sank en route to New York City from Southampton, Hampshire, England, after striking an iceberg during its maiden voyage; some 1,500 people died.".</h3 quote></h3 OTD
