@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Harriet Quimby's flight across the English Channel".</h2 head><h3 quote align='center'>"On this day in 1912, American aviator Harriet Quimby became the first woman to fly across the English Channel, guiding her French Bl\u00e9riot monoplane through heavy overcast from Dover, England, to Hardelot, France.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Canada Act proclaimed".</h2 head><h3 quote align='center'>"The Canada Act, also known as the Constitution Act, took effect on this day in 1982, establishing certain individual rights, preserving parliamentary supremacy, and making Canada a wholly independent, fully sovereign state.".</h3 quote></h3 OTD
