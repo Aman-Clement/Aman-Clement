@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Benito Mussolini executed".</h2 head><h3 quote align='center'>"Italian dictator Benito Mussolini, \u201cIl Duce,\u201d who, after a series of military misadventures, became unpopular even among his fellow Fascists, was captured while trying to flee Italy and was executed on this day in 1945. Sort fact from fiction in our quiz about World War II".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"George Washington inaugurated".</h2 head><h3 quote align='center'>"George Washington, the first president of the United States, was inaugurated this day in 1789 in Federal Hall in New York City, addressing his constituency on \u201cthe proceedings of a new and free government.\u201d How much do you know about U.S. presidential history?".</h3 quote></h3 OTD
