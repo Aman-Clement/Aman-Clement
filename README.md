@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"George Washington inaugurated".</h2 head><h3 quote align='center'>"George Washington, the first president of the United States, was inaugurated this day in 1789 in Federal Hall in New York City, addressing his constituency on \u201cthe proceedings of a new and free government.\u201d How much do you know about U.S. presidential history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"May Day founded".</h2 head><h3 quote align='center'>"On this day in 1889, May Day\u2014traditionally a celebration of the return of spring, marked by dancing around a Maypole\u2014was first observed as a labour holiday, designated as such by the International Socialist Congress.".</h3 quote></h3 OTD
