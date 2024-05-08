@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Theatre Royal opened".</h2 head><h3 quote align='center'>"The Theatre Royal, built by the dramatist Thomas Killigrew for his company of actors and now commonly known as the Drury Lane Theatre, opened in London this day in 1663 and is the oldest English theatre still in use. How much do you know about theatre?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"World War II in Europe ended".</h2 head><h3 quote align='center'>"Following Germany's unconditional surrender, World War II in Europe officially ended at midnight on this day in 1945, although the war in the Pacific continued until the Japanese surrender in September. How much do you know about World War II?".</h3 quote></h3 OTD
