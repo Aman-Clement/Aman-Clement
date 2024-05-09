@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"World War II in Europe ended".</h2 head><h3 quote align='center'>"Following Germany's unconditional surrender, World War II in Europe officially ended at midnight on this day in 1945, although the war in the Pacific continued until the Japanese surrender in September. How much do you know about World War II?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Fourth and final voyage of Christopher Columbus launched".</h2 head><h3 quote align='center'>"On this day in 1502, master navigator and admiral Christopher Columbus, long considered the \u201cdiscoverer\u201d of the New World, set sail from C\u00e1diz, Spain, on his fourth and final voyage, hoping to find a passage to Asia.".</h3 quote></h3 OTD
