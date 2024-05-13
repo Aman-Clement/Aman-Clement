@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First flight over the North Pole".</h2 head><h3 quote align='center'>"Aboard the semirigid airship Norge, Norwegian explorer Roald Amundsen, American scientist Lincoln Ellsworth, and Italian engineer Umberto Nobile made the first undisputed flight over the North Pole on this day in 1926. Take our quiz about exploration and discovery".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"U.S. declaration of war on Mexico approved".</h2 head><h3 quote align='center'>"Tensions between Mexico and the United States\u2014stemming from the U.S. annexation of Texas (1845)\u2014led the U.S. Congress on this day in 1846 to approve overwhelmingly a declaration of war against Mexico. Sort fact from fiction in our quiz about wars throughout history".</h3 quote></h3 OTD
