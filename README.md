@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Declaration of Israel's statehood".</h2 head><h3 quote align='center'>"On this day in 1948\u2014just before the expiry of the British mandate in Palestine\u2014David Ben-Gurion and the Jewish People's Council proclaimed the establishment of the State of Israel, precipitating the first Arab-Israeli war. Sort fact from fiction in our quiz about the Middle East".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Edith Cresson appointed French premier".</h2 head><h3 quote align='center'>"On this day in 1991, Edith Cresson of the Socialist Party became the first female premier of France, but she lost the office less than a year later because of rising unemployment and declining support from within her party. How much do you know about French history?".</h3 quote></h3 OTD
