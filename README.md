@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Edith Cresson appointed French premier".</h2 head><h3 quote align='center'>"On this day in 1991, Edith Cresson of the Socialist Party became the first female premier of France, but she lost the office less than a year later because of rising unemployment and declining support from within her party. How much do you know about French history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Warsaw Ghetto Uprising suppressed".</h2 head><h3 quote align='center'>"On this day in 1943, Nazi troops quelled the monthlong Warsaw Ghetto Uprising, in which Polish Jews, led by Mordecai Anielewicz and the Jewish Fighting Organization, resisted deportation to the Treblinka extermination camp. Sort fact from fiction in our quiz about World War II".</h3 quote></h3 OTD
