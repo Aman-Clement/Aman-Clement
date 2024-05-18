@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"School segregation outlawed by U.S. Supreme Court".</h2 head><h3 quote align='center'>"On this day in 1954, lawyer Thurgood Marshall scored a landmark victory as the U.S. Supreme Court unanimously ruled in  Brown  v. Board of Education of Topeka  that racial segregation in public schools was unconstitutional. Read our list of 10 milestones in U.S. civil rights history".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Eruption of Mount St. Helens".</h2 head><h3 quote align='center'>"On this day in 1980, following an earthquake with a magnitude of 5.1 on the Richter scale, Mount St. Helens in Washington state erupted in one of the greatest volcanic explosions ever recorded in North America. Test your knowledge of disasters of historic proportions.".</h3 quote></h3 OTD
