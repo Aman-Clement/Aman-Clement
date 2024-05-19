@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Eruption of Mount St. Helens".</h2 head><h3 quote align='center'>"On this day in 1980, following an earthquake with a magnitude of 5.1 on the Richter scale, Mount St. Helens in Washington state erupted in one of the greatest volcanic explosions ever recorded in North America. Test your knowledge of disasters of historic proportions.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Ringling Bros. Circus formed".</h2 head><h3 quote align='center'>"The Ringling brothers opened a small circus in Baraboo, Wisconsin, on this day in 1884 and by the early 20th century had transformed it into the Ringling Bros. and Barnum & Bailey Circus, the leading American circus. Learn about the closure of the circus in 2017".</h3 quote></h3 OTD
