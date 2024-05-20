@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Ringling Bros. Circus formed".</h2 head><h3 quote align='center'>"The Ringling brothers opened a small circus in Baraboo, Wisconsin, on this day in 1884 and by the early 20th century had transformed it into the Ringling Bros. and Barnum & Bailey Circus, the leading American circus. Learn about the closure of the circus in 2017".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"U.S. Homestead Act signed".</h2 head><h3 quote align='center'>"On this day in 1862, U.S. President Abraham Lincoln signed the Homestead Act, which provided 160 acres of public land virtually free of charge to those who had lived on and cultivated the land for at least five years.".</h3 quote></h3 OTD
