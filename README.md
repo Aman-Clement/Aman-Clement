@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Tibet annexed by China".</h2 head><h3 quote align='center'>"China formally annexed Tibet as an autonomous region on this day in 1951, giving rise to a Tibetan independence movement\u2014led by the Dalai Lama, winner of the 1989 Nobel Peace Prize\u2014that continued into the early 21st century. Sort fact from fiction in our quiz about China".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Opening of the Brooklyn Bridge".</h2 head><h3 quote align='center'>"A brilliant feat of 19th-century engineering, the Brooklyn Bridge\u2014spanning the East River from Brooklyn to Manhattan Island in New York City\u2014opened this day in 1883, designed by civil engineer John Augustus Roebling. How much do you know about bridges?".</h3 quote></h3 OTD
