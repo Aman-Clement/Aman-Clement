@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Founding of St. Petersburg".</h2 head><h3 quote align='center'>"Founded this day in 1703 by Peter the Great, St. Petersburg has played a vital role in Russian history and is especially known as the scene of the 1917 revolutions and as a fiercely defended city during World War II. Test your knowledge of Russian history".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Amnesty International founded".</h2 head><h3 quote align='center'>"Dedicated to informing public opinion about human rights and to securing the release of political prisoners, Amnesty International was founded in London on this day in 1961 and won the 1977 Nobel Peace Prize. Sort fact from fiction in our quiz about world organizations".</h3 quote></h3 OTD
