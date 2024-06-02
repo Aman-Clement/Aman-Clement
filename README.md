@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Debut of CNN".</h2 head><h3 quote align='center'>"Ted Turner's Cable News Network (CNN), headquartered in Atlanta, began 24-hour live news broadcasts this day in 1980 and gained worldwide attention in 1991 for its around-the-clock coverage of the Persian Gulf War.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Elizabeth II crowned queen".</h2 head><h3 quote align='center'>"On this day in 1953, 27-year-old Elizabeth II, the elder daughter of King George VI, was crowned queen of the United Kingdom at Westminster Abbey, having taken the throne upon her father's death in February 1952. Test your knowledge of the queens of England".</h3 quote></h3 OTD
