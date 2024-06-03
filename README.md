@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Elizabeth II crowned queen".</h2 head><h3 quote align='center'>"On this day in 1953, 27-year-old Elizabeth II, the elder daughter of King George VI, was crowned queen of the United Kingdom at Westminster Abbey, having taken the throne upon her father's death in February 1952. Test your knowledge of the queens of England".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Pro-democracy protest in Tiananmen Square crushed by Chinese military".</h2 head><h3 quote align='center'>"On this day in 1989, the Chinese government called in the military to put down a pro-democracy demonstration carried out by more than 100,000 people in Tiananmen Square in Beijing, resulting in hundreds of deaths. Sort fact from fiction in our quiz about China".</h3 quote></h3 OTD
