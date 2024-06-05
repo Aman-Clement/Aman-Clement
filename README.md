@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Dunkirk evacuation ended".</h2 head><h3 quote align='center'>"Following a massive rescue effort that included civilian boats, the withdrawal of Allied troops trapped at Dunkirk, France, was completed on this day during World War II; more than 300,000 soldiers were saved. Test your knowledge of World War II".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Start of the Six-Day War".</h2 head><h3 quote align='center'>"Israel\u2014amid rising tensions with Egypt, Syria, and Jordan\u2014staged a preemptive air assault and soundly defeated those Arab countries, notably seizing the Old City of Jerusalem and the Gaza Strip before a cease-fire. Sort fact from fiction in our quiz about the Middle East".</h3 quote></h3 OTD
