@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Landslide reelection victory for Margaret Thatcher".</h2 head><h3 quote align='center'>"British Conservative Prime Minister Margaret Thatcher, buoyed by victory in the Falkland Islands War and by deep divisions within the opposition Labour Party, was easily reelected to a second term in office this day in 1983. Test your knowledge of notable prime ministers".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First \u201cwitch\u201d hanged in Salem Village".</h2 head><h3 quote align='center'>"Being found guilty of \u201ccertaine Detestable Arts called Witchcraft and Sorceries,\u201d Bridget Bishop on this day in 1692 became the first person to be hanged during the Salem witch trials in the Massachusetts Bay Colony. Discover how rye bread may have caused the Salem witch trials".</h3 quote></h3 OTD
