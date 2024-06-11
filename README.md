@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First \u201cwitch\u201d hanged in Salem Village".</h2 head><h3 quote align='center'>"Being found guilty of \u201ccertaine Detestable Arts called Witchcraft and Sorceries,\u201d Bridget Bishop on this day in 1692 became the first person to be hanged during the Salem witch trials in the Massachusetts Bay Colony. Discover how rye bread may have caused the Salem witch trials".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Oklahoma City bomber executed".</h2 head><h3 quote align='center'>"Timothy McVeigh\u2014convicted of the bombing of a federal building in Oklahoma City on April 19, 1995, which killed 168 people in what was then the worst terrorist attack in the U.S.\u2014was executed this day in 2001.".</h3 quote></h3 OTD
