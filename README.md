@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Oklahoma City bomber executed".</h2 head><h3 quote align='center'>"Timothy McVeigh\u2014convicted of the bombing of a federal building in Oklahoma City on April 19, 1995, which killed 168 people in what was then the worst terrorist attack in the U.S.\u2014was executed this day in 2001.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Election of Boris Yeltsin".</h2 head><h3 quote align='center'>"On this day in 1991, Boris Yeltsin was easily elected president of Russia (then part of the Soviet Union) in the republic's first direct, popular elections, and he was president of independent Russia until the eve of 2000. How much do you know about Russian history?".</h3 quote></h3 OTD
