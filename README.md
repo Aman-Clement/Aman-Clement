@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Election of Boris Yeltsin".</h2 head><h3 quote align='center'>"On this day in 1991, Boris Yeltsin was easily elected president of Russia (then part of the Soviet Union) in the republic's first direct, popular elections, and he was president of independent Russia until the eve of 2000. How much do you know about Russian history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Historic meeting between North and South Korean leaders".</h2 head><h3 quote align='center'>"On this day in 2000, South Korean President Kim Dae-Jung met North Korean leader Kim Jong Il in a summit that marked the first meeting between heads of the two countries, helping earn Kim Dae-Jung the Nobel Peace Prize. Sort fact from fiction in our quiz about Korea".</h3 quote></h3 OTD
