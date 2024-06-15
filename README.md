@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First prisoners at Auschwitz".</h2 head><h3 quote align='center'>"On this day in 1940, the first transport of Polish political prisoners arrived at Auschwitz, which became Nazi Germany's largest concentration, extermination, and slave-labour camp, where more than one million people died. Watch an overview of the Auschwitz concentration camp".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Magna Carta sealed by King John".</h2 head><h3 quote align='center'>"Magna Carta\u2014a charter of English liberties that occupies a unique place in the popular imagination as a symbol and a battle cry against oppression\u2014was sealed this day, under threat of civil war, by King John in 1215. Take our quiz about famous documents".</h3 quote></h3 OTD
