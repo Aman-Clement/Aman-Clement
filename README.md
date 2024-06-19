@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"War of 1812 begun".</h2 head><h3 quote align='center'>"On this day U.S. President James Madison signed a declaration of war against Great Britain, initiating the War of 1812, which arose chiefly from U.S. grievances over oppressive maritime practices during the Napoleonic Wars. Take our history of war quiz".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Rosenbergs executed for espionage".</h2 head><h3 quote align='center'>"After the failure of court appeals and of a worldwide campaign for mercy, husband and wife Julius and Ethel Rosenberg were put to death this day in 1953, becoming the first American civilians to be executed for espionage. Read about 10 famous names in the espionage game".</h3 quote></h3 OTD
