@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Casket Letters found".</h2 head><h3 quote align='center'>"The Casket Letters\u2014which directly implicated Mary, Queen of Scots, in a plot with James Hepburn, 4th earl of Bothwell, to murder Mary's husband, Henry Stewart, Lord Darnley\u2014were said to have been discovered this day in 1567. Test your knowledge of kings and queens".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Japanese forces defeated on Okinawa".</h2 head><h3 quote align='center'>"Japanese resistance on Okinawa was finally crushed this day in 1945, less than three months after U.S. troops landed there as the last stepping-stone before the planned assault on Japan's main islands in World War II. Sort fact from fiction in our quiz about World War II".</h3 quote></h3 OTD
