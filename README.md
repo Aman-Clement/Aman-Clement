@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Japanese forces defeated on Okinawa".</h2 head><h3 quote align='center'>"Japanese resistance on Okinawa was finally crushed this day in 1945, less than three months after U.S. troops landed there as the last stepping-stone before the planned assault on Japan's main islands in World War II. Sort fact from fiction in our quiz about World War II".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Mutiny against Henry Hudson".</h2 head><h3 quote align='center'>"On this day in 1611, English explorer Henry Hudson\u2014who earlier had tried to discover a short route from Europe to Asia through the Arctic Ocean\u2014was set adrift with his son and seven others in Hudson Bay by mutineers. Take our quiz about exploration and discovery".</h3 quote></h3 OTD
