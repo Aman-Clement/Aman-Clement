@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Battle of Bannockburn".</h2 head><h3 quote align='center'>"On this day in 1314 began the Battle of Bannockburn, a decisive engagement in Scottish history whereby the Scots defeated the English, regained their independence, and established Robert the Bruce as Robert I.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Russia invaded by Napoleon and his Grand Army".</h2 head><h3 quote align='center'>"On this day in 1812, French Emperor Napoleon\u2014who had massed his troops in Poland in the spring to intimidate Russian Tsar Alexander I\u2014and 600,000 troops of his Grand Army launched an ill-fated invasion of Russia. How much do you know about Napoleon?".</h3 quote></h3 OTD
