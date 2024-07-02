@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Dominion of Canada established".</h2 head><h3 quote align='center'>"The Dominion of Canada was formed this day in 1867, an event subsequently celebrated as an annual Canadian holiday (its current name, Canada Day, was adopted in 1982) marked by parades, fireworks, and the display of flags. Sort fact from fiction in our quiz about Canada".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Civil Rights Act signed".</h2 head><h3 quote align='center'>"On this day in 1964, U.S. President Lyndon B. Johnson signed the Civil Rights Act, perhaps the most important U.S. law on civil rights since Reconstruction (1865\u201377) and a hallmark of the American civil rights movement. Read about 10 milestones in U.S. civil rights history".</h3 quote></h3 OTD
