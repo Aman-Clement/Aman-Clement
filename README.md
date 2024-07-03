@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Civil Rights Act signed".</h2 head><h3 quote align='center'>"On this day in 1964, U.S. President Lyndon B. Johnson signed the Civil Rights Act, perhaps the most important U.S. law on civil rights since Reconstruction (1865\u201377) and a hallmark of the American civil rights movement. Read about 10 milestones in U.S. civil rights history".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Battle of Gettysburg ended".</h2 head><h3 quote align='center'>"Following three days of intense fighting\u2014casualties numbered more than 50,000\u2014the Battle of Gettysburg ended on this day in 1863 with a victory for the Union forces and was seen as a turning point in the American Civil War. How much do you know about the American Civil War?".</h3 quote></h3 OTD
