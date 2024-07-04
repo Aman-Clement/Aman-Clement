@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Battle of Gettysburg ended".</h2 head><h3 quote align='center'>"Following three days of intense fighting\u2014casualties numbered more than 50,000\u2014the Battle of Gettysburg ended on this day in 1863 with a victory for the Union forces and was seen as a turning point in the American Civil War. How much do you know about the American Civil War?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Declaration of Independence approved by Second Continental Congress".</h2 head><h3 quote align='center'>"The Declaration of Independence, adopted this day in 1776 by the Second Continental Congress, called for the American colonies to secede from Great Britain, a proclamation now commemorated by a U.S. national holiday. How much do you know about American history?".</h3 quote></h3 OTD
