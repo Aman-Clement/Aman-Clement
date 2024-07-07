@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Anne Frank forced into hiding".</h2 head><h3 quote align='center'>"Anne Frank and her family went into hiding in Amsterdam on this day in 1942 and lived in a secret annex\u2014an experience documented in her diary, which became a classic of war literature\u2014until their capture on August 4, 1944. Take a tour of the Anne Frank House in Amsterdam".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Hawaiian Islands annexed by the United States".</h2 head><h3 quote align='center'>"The U.S. Congress annexed Hawaii through a joint resolution signed by President William McKinley on this day in 1898, paving the way for the islands to become a territory (1900) and later a U.S. state (1959). Sort fact from fiction in our quiz about Hawaii".</h3 quote></h3 OTD
