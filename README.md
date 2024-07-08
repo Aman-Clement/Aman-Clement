@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Hawaiian Islands annexed by the United States".</h2 head><h3 quote align='center'>"The U.S. Congress annexed Hawaii through a joint resolution signed by President William McKinley on this day in 1898, paving the way for the islands to become a territory (1900) and later a U.S. state (1959). Sort fact from fiction in our quiz about Hawaii".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Vasco da Gama's first voyage to India".</h2 head><h3 quote align='center'>"On this day in 1497, Vasco da Gama sailed from Lisbon with a fleet of four vessels, and he ultimately opened a sea route from western Europe to Asia by way of the Cape of Good Hope, ushering in a new era in world history. Take our quiz about explorers and exploration".</h3 quote></h3 OTD
