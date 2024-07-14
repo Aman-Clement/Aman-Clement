@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"French revolutionary Jean-Paul Marat assassinated".</h2 head><h3 quote align='center'>"On this day in 1793, Jean-Paul Marat, a leader of the radical Montagnard faction during the French Revolution, was stabbed to death in his bath by Charlotte Corday, a young Girondin supporter who was subsequently guillotined. How much do you know about French history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Bastille stormed by Paris mob".</h2 head><h3 quote align='center'>"On this day in 1789, a mob advanced on the Bastille in Paris, demanding the arms and munitions stored there, but, when the guards resisted, the crowd captured the prison, an act that symbolized the end of the ancien r\u00e9gime. How much do you know about French history?".</h3 quote></h3 OTD
