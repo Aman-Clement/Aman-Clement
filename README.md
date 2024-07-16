@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Close-up pictures of Mars provided by Mariner 4".</h2 head><h3 quote align='center'>"Mariner 4, an uncrewed space probe launched by NASA in 1964, flew by Mars and returned close-up pictures of its surface on this day in 1965, the pictures proving that the planet's rumoured canals were actually illusions. Sort fact from fiction in our quiz about Mars".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First atomic bomb exploded near Alamogordo, New Mexico".</h2 head><h3 quote align='center'>"The United States tested the first atomic bomb this day in 1945 near Alamogordo, New Mexico, and the following month dropped atomic bombs on Hiroshima and Nagasaki in Japan, hastening the end of World War II. Take our quiz about World War II".</h3 quote></h3 OTD
