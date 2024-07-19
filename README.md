@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Publication of Mein Kampf".</h2 head><h3 quote align='center'>"The first volume of Mein Kampf, the political manifesto written by Adolf Hitler that became the bible of Nazism in Germany's Third Reich, was published this day in 1925, and two years later the second volume appeared. Read our list of nine things you may not know about Adolf Hitler".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"U.S. women's suffrage movement begun".</h2 head><h3 quote align='center'>"On this day in 1848, the women's suffrage movement in the United States was launched with the opening of the Seneca Falls Convention, which sought to gain certain rights and privileges for women, notably the right to vote. Take our quiz about the Nineteenth Amendment and women's suffrage".</h3 quote></h3 OTD
