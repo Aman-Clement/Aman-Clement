@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"U.S. women's suffrage movement begun".</h2 head><h3 quote align='center'>"On this day in 1848, the women's suffrage movement in the United States was launched with the opening of the Seneca Falls Convention, which sought to gain certain rights and privileges for women, notably the right to vote. Take our quiz about the Nineteenth Amendment and women's suffrage".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First Moon landing".</h2 head><h3 quote align='center'>"On this day in 1969, the Eagle lunar landing module, carrying U.S. astronauts Neil Armstrong and Edwin (\u201cBuzz\u201d) Aldrin, landed on the Moon, and several hours later Armstrong became the first person to set foot on its surface. Sort fact from fiction in our quiz about visiting the Moon".</h3 quote></h3 OTD
