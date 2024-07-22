@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Egyptians defeated in the Battle of the Pyramids".</h2 head><h3 quote align='center'>"Napoleon's Army of Egypt used a new military tactic, the massive divisional square, to defeat the Egyptian forces of Mur\u0101d Bey this day in 1798 at the Battle of the Pyramids during Napoleon's Egyptian campaign. How much do you know about Napoleon?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Deng Xiaoping reinstated".</h2 head><h3 quote align='center'>"After falling from favour during the Cultural Revolution (1966\u201376), Deng Xiaoping returned to power on this day in 1977 after the Chinese Communist Party reinstated all his former high posts, including that of vice-premier. Sort fact from fiction in our quiz about China".</h3 quote></h3 OTD
