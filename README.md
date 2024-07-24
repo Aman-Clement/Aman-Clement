@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Egyptian monarchy toppled by coup".</h2 head><h3 quote align='center'>"On this day in 1952, the Free Officers, a nationalistic military group led by Colonel Gamal Abdel Nasser, engineered a coup that overthrew King Farouk I of Egypt, ending the monarchy and bringing Nasser to power. How much do you know about Egyptian history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Beginning of Mata Hari's trial".</h2 head><h3 quote align='center'>"Dutch-born dancer and courtesan Mata Hari, whose name became a synonym for the seductive female spy, went on trial this day in 1917, accused of spying for Germany, and was subsequently found guilty and shot by a firing squad. Read about 10 famous names in the espionage game".</h3 quote></h3 OTD
