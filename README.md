@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"American advance into Canada halted by British troops".</h2 head><h3 quote align='center'>"Near Niagara Falls on this day in 1814, British troops commanded by General Phineas Riall thwarted an invasion of Canada by a U.S. force under General Jacob Brown in the Battle of Lundy's Lane during the War of 1812. How much do you know about the history of war?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Suez Canal seized".</h2 head><h3 quote align='center'>"On this day in 1956, Egyptian President Gamal Abdel Nasser seized control of the Suez Canal and nationalized it, sparking a crisis that later resulted in French, British, and Israeli forces briefly occupying parts of Egypt. How much do you know about Egyptian history?".</h3 quote></h3 OTD
