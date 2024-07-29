@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Beginning of World War I".</h2 head><h3 quote align='center'>"Using the assassination of the Austrian archduke Francis Ferdinand as a pretext to present Serbia with an unacceptable ultimatum, Austria-Hungary declared war on the Slavic country on this day in 1914, sparking World War I. How much do you know about World War I?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"National Aeronautics and Space Administration established".</h2 head><h3 quote align='center'>"Criticized for allowing the Soviet Union to launch the first man-made satellite to orbit Earth (Sputnik 1, on October 4, 1957), U.S. President Dwight D. Eisenhower signed legislation this day in 1958 that created NASA. Take our quiz about space exploration".</h3 quote></h3 OTD
