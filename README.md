@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"National Aeronautics and Space Administration established".</h2 head><h3 quote align='center'>"Criticized for allowing the Soviet Union to launch the first man-made satellite to orbit Earth (Sputnik 1, on October 4, 1957), U.S. President Dwight D. Eisenhower signed legislation this day in 1958 that created NASA. Take our quiz about space exploration".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Death of Otto von Bismarck".</h2 head><h3 quote align='center'>"Otto von Bismarck\u2014who, as prime minister of Prussia (1862\u201373, 1873\u201390), used ruthlessness and moderation to unify Germany, founding the German Empire (1871) and serving as its first chancellor (1871\u201390)\u2014died this day in 1898. How much do you know about German history?".</h3 quote></h3 OTD
