@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Death of Otto von Bismarck".</h2 head><h3 quote align='center'>"Otto von Bismarck\u2014who, as prime minister of Prussia (1862\u201373, 1873\u201390), used ruthlessness and moderation to unify Germany, founding the German Empire (1871) and serving as its first chancellor (1871\u201390)\u2014died this day in 1898. How much do you know about German history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Lunar Roving Vehicle first used on the Moon".</h2 head><h3 quote align='center'>"On this day in 1971, Apollo 15 astronauts James B. Irwin and David Scott first used the four-wheeled battery-powered Lunar Roving Vehicle to extensively explore the Moon's surface, in particular the Hadley-Apennine site. Sort fact from fiction in our quiz about visiting the Moon".</h3 quote></h3 OTD
