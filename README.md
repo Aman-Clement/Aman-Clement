@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Lunar Roving Vehicle first used on the Moon".</h2 head><h3 quote align='center'>"On this day in 1971, Apollo 15 astronauts James B. Irwin and David Scott first used the four-wheeled battery-powered Lunar Roving Vehicle to extensively explore the Moon's surface, in particular the Hadley-Apennine site. Sort fact from fiction in our quiz about visiting the Moon".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Henry III of France stabbed by assassin".</h2 head><h3 quote align='center'>"King Henry III of France was stabbed this day in 1589 by Jacques Cl\u00e9ment, a Jacobin friar, and died the next day after acknowledging his Bourbon ally, Henry of Navarre (Henry IV), a Huguenot, as his successor. How much do you know about French history?".</h3 quote></h3 OTD
