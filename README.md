@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Henry III of France stabbed by assassin".</h2 head><h3 quote align='center'>"King Henry III of France was stabbed this day in 1589 by Jacques Cl\u00e9ment, a Jacobin friar, and died the next day after acknowledging his Bourbon ally, Henry of Navarre (Henry IV), a Huguenot, as his successor. How much do you know about French history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Kuwait invaded".</h2 head><h3 quote align='center'>"Iraq invaded Kuwait on this day in 1990, and Saddam Hussein's subsequent refusal to withdraw his troops sparked the Persian Gulf War, in which an international force led by the United States quickly defeated Iraq. How much do you know about the history of war?".</h3 quote></h3 OTD
