@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Kuwait invaded".</h2 head><h3 quote align='center'>"Iraq invaded Kuwait on this day in 1990, and Saddam Hussein's subsequent refusal to withdraw his troops sparked the Persian Gulf War, in which an international force led by the United States quickly defeated Iraq. How much do you know about the history of war?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Columbus's first transatlantic voyage begun".</h2 head><h3 quote align='center'>"Hoping to find a westward route to India, Christopher Columbus on this day in 1492 set sail on his first transatlantic voyage, departing from Palos, Spain, with three small ships\u2014the Ni\u00f1a, Pinta, and Santa Mar\u00eda. Discover five unbelievable facts about Christopher Columbus".</h3 quote></h3 OTD
