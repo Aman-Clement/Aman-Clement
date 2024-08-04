@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Columbus's first transatlantic voyage begun".</h2 head><h3 quote align='center'>"Hoping to find a westward route to India, Christopher Columbus on this day in 1492 set sail on his first transatlantic voyage, departing from Palos, Spain, with three small ships\u2014the Ni\u00f1a, Pinta, and Santa Mar\u00eda. Discover five unbelievable facts about Christopher Columbus".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Gibraltar captured by Britain".</h2 head><h3 quote align='center'>"During the War of the Spanish Succession, Britain took control of Gibraltar on this day in 1704 after Spain surrendered, and \u201cthe Rock\u201d subsequently became a British colony and a symbol of British naval strength. Take our quiz about European history".</h3 quote></h3 OTD
