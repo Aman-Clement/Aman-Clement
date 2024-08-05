@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Gibraltar captured by Britain".</h2 head><h3 quote align='center'>"During the War of the Spanish Succession, Britain took control of Gibraltar on this day in 1704 after Spain surrendered, and \u201cthe Rock\u201d subsequently became a British colony and a symbol of British naval strength. Take our quiz about European history".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Independence declared by Upper Volta".</h2 head><h3 quote align='center'>"Upper Volta\u2014now Burkina Faso (which means \u201cLand of Incorruptible People\u201d), a landlocked country in western Africa\u2014proclaimed its independence on this day in 1960, ending more than 60 years of French rule. Sort fact from fiction in our quiz about Africa".</h3 quote></h3 OTD
