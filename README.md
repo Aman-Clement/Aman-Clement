@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Independence declared by Upper Volta".</h2 head><h3 quote align='center'>"Upper Volta\u2014now Burkina Faso (which means \u201cLand of Incorruptible People\u201d), a landlocked country in western Africa\u2014proclaimed its independence on this day in 1960, ending more than 60 years of French rule. Sort fact from fiction in our quiz about Africa".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Atomic bomb dropped on Hiroshima".</h2 head><h3 quote align='center'>"On this day in 1945, the United States dropped an atomic bomb on Hiroshima, Japan\u2014the blast killed more than 70,000 people and destroyed most of the city\u2014in an effort to hasten the end of World War II. Watch news footage of the atomic bomb being dropped on Hiroshima".</h3 quote></h3 OTD
