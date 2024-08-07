@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Atomic bomb dropped on Hiroshima".</h2 head><h3 quote align='center'>"On this day in 1945, the United States dropped an atomic bomb on Hiroshima, Japan\u2014the blast killed more than 70,000 people and destroyed most of the city\u2014in an effort to hasten the end of World War II. Watch news footage of the atomic bomb being dropped on Hiroshima".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Japanese airfield on Guadalcanal seized by Allies".</h2 head><h3 quote align='center'>"In the Allies' first major offensive in the Pacific theatre during World War II, U.S. Marines on this day in 1942 landed on Guadalcanal and captured the airfield from Japan, sparking a battle that lasted some six months. Take our quiz about World War II".</h3 quote></h3 OTD
