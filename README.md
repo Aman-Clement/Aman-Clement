@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Pompey defeated by Julius Caesar at the Battle of Pharsalus".</h2 head><h3 quote align='center'>"During the Roman Civil War of 49\u201345 bce, Julius Caesar's troops on this day in 48 decisively defeated the army of Pompey at the Battle of Pharsalus, causing Pompey to flee to Egypt, where he was subsequently murdered. How much do you know about the Roman Empire?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Louis XVI of France imprisoned".</h2 head><h3 quote align='center'>"As the French Revolution (1787\u201399) continued, the country's monarchy was effectively overthrown on this day in 1792 when King Louis XVI and his wife, Marie-Antoinette, were imprisoned (they were eventually guillotined). How much do you know about French history?".</h3 quote></h3 OTD
