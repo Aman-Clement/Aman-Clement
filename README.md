@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Louis XVI of France imprisoned".</h2 head><h3 quote align='center'>"As the French Revolution (1787\u201399) continued, the country's monarchy was effectively overthrown on this day in 1792 when King Louis XVI and his wife, Marie-Antoinette, were imprisoned (they were eventually guillotined). How much do you know about French history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Jackson Pollock killed in automobile accident".</h2 head><h3 quote align='center'>"American painter Jackson Pollock, a leading exponent of Abstract Expressionism who received great fame and serious recognition for his radical poured, or \u201cdrip,\u201d technique, died this day in 1956 in an automobile accident. Take our quiz about famous artists".</h3 quote></h3 OTD
