@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Cologne Cathedral completed".</h2 head><h3 quote align='center'>"Originally started in 1248, construction of the cathedral (K\u00f6lner Dom) in Cologne, Germany\u2014the largest Gothic church in northern Europe and the city's major landmark\u2014was finally completed on this day in 1880. Test your knowledge of iconic monuments".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Independence for India".</h2 head><h3 quote align='center'>"After three decades, the Indian independence movement, led by Mahatma Gandhi, achieved its goal on this day in 1947 as a free and independent India was established, ending nearly 200 years of British rule. Sort fact from fiction in our quiz about India's history".</h3 quote></h3 OTD
