@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Leonel Fern\u00e1ndez Reyna inaugurated as president of the Dominican Republic".</h2 head><h3 quote align='center'>"The youngest person ever elected president of the Dominican Republic, Leonel Fern\u00e1ndez Reyna was sworn in this day in 1996 and soon instituted measures to end corruption and to improve the country's economy. How much do you know about the Caribbean?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Indonesia's declaration of independence".</h2 head><h3 quote align='center'>"On this day in 1945, Sukarno declared Indonesia's independence from the Netherlands, and, after the Dutch transferred sovereignty four years later, he served as the country's first president (1949\u201367). How much do you know about Asia?".</h3 quote></h3 OTD
