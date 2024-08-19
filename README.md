@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Nineteenth Amendment ratified".</h2 head><h3 quote align='center'>"On this day in 1920, the Nineteenth Amendment was ratified after Tennessee\u2014by just one vote\u2014became the 36th state to approve it, capping the 72-year fight to win women the right to vote in the United States. Take our quiz about the Nineteenth Amendment and women's suffrage".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Attempted coup against Gorbachev".</h2 head><h3 quote align='center'>"On this day in 1991, Mikhail Gorbachev, the general secretary of the Communist Party of the Soviet Union (1985\u201391) and president of the Soviet Union (1990\u201391), was briefly ousted in a coup by communist hard-liners. How much do you know about Russian history?".</h3 quote></h3 OTD
