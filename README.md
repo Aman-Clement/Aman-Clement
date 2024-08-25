@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Eruption of Mount Vesuvius".</h2 head><h3 quote align='center'>"Italy's Mount Vesuvius is traditionally believed to have erupted on this day in 79 ce, destroying the ancient cities of Pompeii and Herculaneum, and the excavations of these sites in the mid-18th century precipitated the modern science of archaeology. Take our history buff quiz".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Paris liberated".</h2 head><h3 quote align='center'>"On this day in 1944, some two months after the Allied invasion of Normandy, Paris was liberated from German occupiers as the Free French 2nd Armoured Division under General Jacques-Philippe Leclerc entered the city. Sort fact from fiction in our quiz about World War II".</h3 quote></h3 OTD
