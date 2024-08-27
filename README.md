@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Joan of Arc's arrival in the outskirts of Paris".</h2 head><h3 quote align='center'>"In preparation for an attack on Paris, part of Charles VII's campaign to drive the English from French soil, Joan of Arc and her soldiers reached the city's outskirts on this day in 1429, but the assault ultimately failed. Watch an overview of Joan of Arc's life".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The death of Titian".</h2 head><h3 quote align='center'>"Titian, the greatest Italian Renaissance painter of the Venetian school, who was once described as \u201cthe sun amidst small stars not only among the Italians but all the painters of the world,\u201d died this day in 1576. Take our quiz about artists of the Italian Renaissance".</h3 quote></h3 OTD
