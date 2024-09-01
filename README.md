@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Confederates evacuated from Atlanta".</h2 head><h3 quote align='center'>"During the American Civil War, the Confederate evacuation of Atlanta began this day in 1864, shortly before Union troops led by William Tecumseh Sherman occupied the city, providing a much-needed victory for the North. How much do you know about the American Civil War?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"German invasion of Poland".</h2 head><h3 quote align='center'>"The lethal combination of German blitzkrieg tactics, French and British inactivity, and Soviet perfidy doomed Poland to swift defeat after Adolf Hitler invaded the country this day in 1939 and sparked World War II. Sort fact from fiction in our quiz about World War II".</h3 quote></h3 OTD
