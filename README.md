@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Great Fire of London ".</h2 head><h3 quote align='center'>"On this day in 1666 the Great Fire of London began accidentally in the house of the king's baker; it burned for four days and destroyed a large part of the city, including Old St. Paul's Cathedral and about 13,000 houses. How much do you know about European history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Viking 2's Mars landing".</h2 head><h3 quote align='center'>"After a nearly yearlong journey, NASA's robotic spacecraft Viking 2 landed on Mars this day in 1976 and began relaying information about the planet's atmosphere and soil as well as colour photographs of the rocky surface. Sort fact from fiction in our quiz about space exploration".</h3 quote></h3 OTD
