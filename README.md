@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Viking 2's Mars landing".</h2 head><h3 quote align='center'>"After a nearly yearlong journey, NASA's robotic spacecraft Viking 2 landed on Mars this day in 1976 and began relaying information about the planet's atmosphere and soil as well as colour photographs of the rocky surface. Sort fact from fiction in our quiz about space exploration".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Los Angeles founded".</h2 head><h3 quote align='center'>"On this day in 1781, Spanish settlers laid claim to what became Los Angeles, now the second most populous U.S. city and the home to Hollywood, whose name is synonymous with the American motion-picture industry.".</h3 quote></h3 OTD
