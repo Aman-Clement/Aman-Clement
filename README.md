@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"U.S. President William McKinley fatally shot".</h2 head><h3 quote align='center'>"Republican William McKinley, the 25th president of the United States (1897\u20131901), was shot this day in 1901 by Leon Czolgosz, an anarchist, at the Pan-American Exposition in Buffalo, New York, and died eight days later.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Battle of Ars\u016bf".</h2 head><h3 quote align='center'>"On this day in 1191 the Muslim army of Saladin attacked the Crusaders of Richard I (the Lion-Heart) at the Battle of Ars\u016bf, and, though Richard successfully counterattacked in the evening, his march to Jerusalem was delayed. How much do you know about the Crusades?".</h3 quote></h3 OTD
