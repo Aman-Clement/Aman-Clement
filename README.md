@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Battle of Ars\u016bf".</h2 head><h3 quote align='center'>"On this day in 1191 the Muslim army of Saladin attacked the Crusaders of Richard I (the Lion-Heart) at the Battle of Ars\u016bf, and, though Richard successfully counterattacked in the evening, his march to Jerusalem was delayed. How much do you know about the Crusades?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Paris attacked by Joan of Arc".</h2 head><h3 quote align='center'>"On this day in 1429, French heroine Joan of Arc, a peasant girl who believed she was acting under divine guidance, attempted to oust the duke of Burgundy and take Paris for newly crowned King Charles VII. Watch an overview of the life and death of Joan of Arc".</h3 quote></h3 OTD
