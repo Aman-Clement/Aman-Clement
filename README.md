@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"John Smith chosen president of Jamestown".</h2 head><h3 quote align='center'>"Having survived capture by Indians (reputedly through the efforts of Pocahontas, a chief's daughter), John Smith became president of Jamestown colony, the first permanent English settlement in North America, this day in 1608. Test your knowledge of early America".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"World Trade Center and Pentagon attacked by terrorists".</h2 head><h3 quote align='center'>"On this day in 2001, 19 militants associated with the terrorist group al-Qaeda hijacked four planes in the United States, crashing three into buildings (the fourth crashed in Pennsylvania) and killing some 3,000 people. Read a minute-by-minute account of the September 11 attacks".</h3 quote></h3 OTD
