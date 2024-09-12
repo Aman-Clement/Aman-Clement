@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"World Trade Center and Pentagon attacked by terrorists".</h2 head><h3 quote align='center'>"On this day in 2001, 19 militants associated with the terrorist group al-Qaeda hijacked four planes in the United States, crashing three into buildings (the fourth crashed in Pennsylvania) and killing some 3,000 people. Read a minute-by-minute account of the September 11 attacks".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Death of French composer Rameau".</h2 head><h3 quote align='center'>"French composer of the late Baroque period Jean-Philippe Rameau\u2014known for his harpsichord music and famous as a composer of operas, including the masterpiece Pygmalion (1748)\u2014died on this day in 1764. Take our quiz about composers and their music".</h3 quote></h3 OTD
