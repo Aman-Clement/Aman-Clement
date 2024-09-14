@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Philip III crowned king of Spain and Portugal".</h2 head><h3 quote align='center'>"King Philip III of Spain (Philip II of Portugal), crowned on this day in 1598, was virtuous in his private affairs but indifferent as a ruler and extravagant in his spending, exacerbating Spain's growing economic problems. Take our quiz about kings and emperors".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Mexico City captured by U.S. forces".</h2 head><h3 quote align='center'>"U.S. General Winfield Scott's advance on Mexico City was marked by an unbroken series of victories that culminated this day in 1847, when he entered Mexico City and ended the military phase of the Mexican-American War. Discover the war's impact on the United States".</h3 quote></h3 OTD
