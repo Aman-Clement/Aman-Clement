@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Mexico City captured by U.S. forces".</h2 head><h3 quote align='center'>"U.S. General Winfield Scott's advance on Mexico City was marked by an unbroken series of victories that culminated this day in 1847, when he entered Mexico City and ended the military phase of the Mexican-American War. Discover the war's impact on the United States".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Central Americans granted independence".</h2 head><h3 quote align='center'>"On this day in 1821, Central American notables accepted a plan drafted by the Mexican caudillo Agust\u00edn de Iturbide that brought independence from Spain to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua. Test your knowledge of Latin American history".</h3 quote></h3 OTD
