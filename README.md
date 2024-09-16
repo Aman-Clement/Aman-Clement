@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Central Americans granted independence".</h2 head><h3 quote align='center'>"On this day in 1821, Central American notables accepted a plan drafted by the Mexican caudillo Agust\u00edn de Iturbide that brought independence from Spain to Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua. Test your knowledge of Latin American history".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Mayflower's departure for America".</h2 head><h3 quote align='center'>"On this date in 1620, English colonists aboard the Mayflower set sail for America, where they founded Plymouth, Massachusetts, after 41 men, including William Bradford and Myles Standish, signed the Mayflower Compact.".</h3 quote></h3 OTD
