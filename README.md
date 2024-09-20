@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"George Washington's Farewell Address published".</h2 head><h3 quote align='center'>"In his Farewell Address, printed in a Philadelphia newspaper on this day in 1796, George Washington, the first U.S. president, implored his country to maintain neutrality and avoid entangling alliances with Europe. Take our quiz about U.S. presidents".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Rome incorporated into Italy".</h2 head><h3 quote align='center'>"On this day in 1870, Italian troops occupied Rome, leading to the eventual incorporation of Rome into the Kingdom of Italy and the limiting of papal governing authority to the Vatican itself and a small district around it.".</h3 quote></h3 OTD
