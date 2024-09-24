@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Neptune observed".</h2 head><h3 quote align='center'>"This day in 1846, astronomer Johann Gottfried Galle became the first person ever to observe the planet Neptune, the existence of which had been mathematically predicted by Urbain-Jean-Joseph Le Verrier and John Couch Adams.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Federal troops sent into Little Rock, Arkansas".</h2 head><h3 quote align='center'>"On this day in 1957 racial desegregation took centre stage when federal troops were dispatched to Little Rock, Arkansas, to maintain order and enforce the right of black students to attend the local public high school.".</h3 quote></h3 OTD
