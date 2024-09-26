@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Pacific Ocean sighted by Balboa".</h2 head><h3 quote align='center'>"On this day (or two days later) in 1513, Spanish conquistador and explorer Vasco N\u00fa\u00f1ez de Balboa, standing \u201csilent, upon a peak in Dari\u00e9n,\u201d on the Isthmus of Panama, became the first European to sight the Pacific Ocean.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First televised U.S. presidential debate".</h2 head><h3 quote align='center'>"The first in a series of historic televised debates (seen by some 85 to 120 million viewers) between U.S. presidential candidates John F. Kennedy and Vice President Richard M. Nixon was broadcast this day in 1960.".</h3 quote></h3 OTD
