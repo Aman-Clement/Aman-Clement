@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First televised U.S. presidential debate".</h2 head><h3 quote align='center'>"The first in a series of historic televised debates (seen by some 85 to 120 million viewers) between U.S. presidential candidates John F. Kennedy and Vice President Richard M. Nixon was broadcast this day in 1960.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Norman Conquest begun".</h2 head><h3 quote align='center'>"On this day in 1066, after being delayed by bad weather, William, duke of Normandy, embarked his army and set sail for the southeastern coast of England in what would be known in history as the Norman Conquest.".</h3 quote></h3 OTD
