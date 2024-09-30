@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"British mandate in Palestine".</h2 head><h3 quote align='center'>"Set in motion by the Balfour Declaration of 1917, the British mandate for the establishment of a Jewish homeland in Palestine was finally approved by the Council of the League of Nations and came into force this day in 1923.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Munich Agreement signed".</h2 head><h3 quote align='center'>"The notorious Munich Agreement, in which Britain's Neville Chamberlain encouraged Britain and France to appease Adolf Hitler's demands in the hope of preventing World War II, was reached on this day in 1938.".</h3 quote></h3 OTD
