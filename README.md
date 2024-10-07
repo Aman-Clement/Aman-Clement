@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Yom Kippur War".</h2 head><h3 quote align='center'>"On this day in 1973, on the Jewish holy day of Yom Kippur, Egypt and Syria attacked Israel, which suffered heavy casualties, but Israeli forces successfully fought back, and the war eventually ended inconclusively.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"German Democratic Republic proclaimed".</h2 head><h3 quote align='center'>"On this day in 1949, a constitution went into effect in the Soviet occupation zone of Germany that formed the country of East Germany, which existed alongside West Germany until 1990, when the two Germanys reunited.".</h3 quote></h3 OTD
