@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"German Democratic Republic proclaimed".</h2 head><h3 quote align='center'>"On this day in 1949, a constitution went into effect in the Soviet occupation zone of Germany that formed the country of East Germany, which existed alongside West Germany until 1990, when the two Germanys reunited.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Great Chicago Fire".</h2 head><h3 quote align='center'>"On this day in 1871, the Great Chicago Fire began in the barn of Patrick and Catherine O'Leary, and, by the time the blaze died out two days later, a large swath of the city had been devastated and some 300 people killed.".</h3 quote></h3 OTD
