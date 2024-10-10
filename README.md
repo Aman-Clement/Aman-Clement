@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First Afghan presidential elections".</h2 head><h3 quote align='center'>"On this day in 2004, for the first time in Afghanistan's history, voters went to the polls to choose a president, selecting Hamid Karzai, who had served as the interim president after the fall of the Taliban regime in 2001.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Founding of the U.S. Naval Academy ".</h2 head><h3 quote align='center'>"To improve the then-unsatisfactory methods of instructing midshipmen, George Bancroft\u2014historian, educator, and secretary of the navy\u2014founded the U.S. Naval Academy in Annapolis, Maryland, on this day in 1845.".</h3 quote></h3 OTD
