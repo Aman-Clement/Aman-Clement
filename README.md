@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Opening of the Second Vatican Council".</h2 head><h3 quote align='center'>"The Second Vatican Council, announced by Pope John XXIII in 1959, opened this day in 1962, lasted for three years, and remains a symbol (controversial to some) of the church's readiness to adapt to modern life.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"New World sighted ".</h2 head><h3 quote align='center'>"The New World was \u201cdiscovered\u201d this day in 1492 when land (most likely San Salvador) was sighted in the Caribbean from the Pinta, one of the three ships that participated in Christopher Columbus's historic voyage.".</h3 quote></h3 OTD
