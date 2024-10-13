@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"New World sighted ".</h2 head><h3 quote align='center'>"The New World was \u201cdiscovered\u201d this day in 1492 when land (most likely San Salvador) was sighted in the Caribbean from the Pinta, one of the three ships that participated in Christopher Columbus's historic voyage.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Cornerstone laid for the White House".</h2 head><h3 quote align='center'>"The cornerstone for the White House, the official office and home of every U.S. president and first lady since 1800 (when John and Abigail Adams moved in near the end of his term), was laid this day in 1792.".</h3 quote></h3 OTD
