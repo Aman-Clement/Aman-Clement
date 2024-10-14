@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Cornerstone laid for the White House".</h2 head><h3 quote align='center'>"The cornerstone for the White House, the official office and home of every U.S. president and first lady since 1800 (when John and Abigail Adams moved in near the end of his term), was laid this day in 1792.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Battle of Hastings".</h2 head><h3 quote align='center'>"At the Battle of Hastings, fought this day in 1066, King Harold II of England was defeated by the invading army of William, duke of Normandy, in the Norman Conquest, establishing Normans as rulers of England.".</h3 quote></h3 OTD
