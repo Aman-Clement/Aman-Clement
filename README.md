@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Alaska Purchase approved".</h2 head><h3 quote align='center'>"After much opposition, a deal negotiated by U.S. Secretary of State William Seward for the U.S. purchase of the Russian colony of Alaska was approved, and on this day in 1867 the U.S. flag was flown over the capital, Sitka.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Surrender of Lord Cornwallis".</h2 head><h3 quote align='center'>"On this day in 1781, Britain's Lord Cornwallis surrendered at Yorktown, Virginia, handing a huge victory to American General George Washington and effectively ending the American Revolution and assuring America's independence.".</h3 quote></h3 OTD
