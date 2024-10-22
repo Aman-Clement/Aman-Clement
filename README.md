@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Magellan's discovery of gateway to circumnavigating the globe".</h2 head><h3 quote align='center'>"On this day in 1520, explorer Ferdinand Magellan and three Spanish ships entered the strait later named for him, sailing between the mainland tip of South America and the island of Tierra del Fuego toward the Pacific Ocean.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Cuban missile crisis".</h2 head><h3 quote align='center'>"On this day in 1962, President John F. Kennedy alerted Americans to the Cuban missile crisis, declaring a naval blockade to prevent further missile shipments to the island country 90 miles (145 km) off the coast of the U.S.".</h3 quote></h3 OTD
