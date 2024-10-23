@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Cuban missile crisis".</h2 head><h3 quote align='center'>"On this day in 1962, President John F. Kennedy alerted Americans to the Cuban missile crisis, declaring a naval blockade to prevent further missile shipments to the island country 90 miles (145 km) off the coast of the U.S.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"U.S. and French troops attacked in Beirut".</h2 head><h3 quote align='center'>"On this day in 1983, suicide bombers drove truckloads of high explosives into the barracks of U.S. Marines and French paratroopers in Beirut, killing 241 U.S. servicemen and 58 French troops.".</h3 quote></h3 OTD
