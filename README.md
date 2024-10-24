@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"U.S. and French troops attacked in Beirut".</h2 head><h3 quote align='center'>"On this day in 1983, suicide bombers drove truckloads of high explosives into the barracks of U.S. Marines and French paratroopers in Beirut, killing 241 U.S. servicemen and 58 French troops.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"United Nations established".</h2 head><h3 quote align='center'>"The charter for the United Nations\u2014the world's premier international organization, established at the end of World War II to maintain world peace and friendly relations among nations\u2014entered into force this day in 1945.".</h3 quote></h3 OTD
