@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"United Nations established".</h2 head><h3 quote align='center'>"The charter for the United Nations\u2014the world's premier international organization, established at the end of World War II to maintain world peace and friendly relations among nations\u2014entered into force this day in 1945.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"English triumph at Agincourt".</h2 head><h3 quote align='center'>"On this day in 1415, the English army, led by Henry V, scored a decisive victory over the French at the Battle of Agincourt during the Hundred Years' War, paving the way for further English conquests and successes.".</h3 quote></h3 OTD
