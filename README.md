@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"English triumph at Agincourt".</h2 head><h3 quote align='center'>"On this day in 1415, the English army, led by Henry V, scored a decisive victory over the French at the Battle of Agincourt during the Hundred Years' War, paving the way for further English conquests and successes.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Park Chung Hee assassinated".</h2 head><h3 quote align='center'>"On this day in 1979, South Korean President Park Chung Hee was assassinated by his lifelong friend Kim Jae Kyu, head of the Korean Central Intelligence Agency, who was sentenced to death for his actions.".</h3 quote></h3 OTD
