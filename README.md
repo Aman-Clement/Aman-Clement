@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Park Chung Hee assassinated".</h2 head><h3 quote align='center'>"On this day in 1979, South Korean President Park Chung Hee was assassinated by his lifelong friend Kim Jae Kyu, head of the Korean Central Intelligence Agency, who was sentenced to death for his actions.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Anwar Sadat and Menachem Begin awarded Nobel Peace Prize".</h2 head><h3 quote align='center'>"On this day in 1978, Anwar Sadat of Egypt and Menachem Begin of Israel were awarded the Nobel Prize for Peace for negotiations that resulted first in the Camp David Accords, then in a peace treaty between their countries.".</h3 quote></h3 OTD
