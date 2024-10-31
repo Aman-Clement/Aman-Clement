@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Henry Tudor crowned king of England".</h2 head><h3 quote align='center'>"Henry Tudor, who was crowned Henry VII on this day in 1485, founded the Tudor dynasty, ended the Wars of the Roses, used his children's marriages to build alliances, and signed treaties that increased England's power.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Luther's Ninety-five Theses posted".</h2 head><h3 quote align='center'>"According to tradition, Martin Luther this day in 1517 posted on a church door in Wittenberg, Germany, his Ninety-five Theses, a manifesto that turned a protest about an indulgence scandal into the Protestant Reformation.".</h3 quote></h3 OTD
