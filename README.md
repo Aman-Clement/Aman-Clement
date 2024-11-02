@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First thermonuclear bomb tested by the United States".</h2 head><h3 quote align='center'>"On this day in 1952 on an atoll of the Marshall Islands, Edward Teller and other American scientists tested the first thermonuclear bomb, its power resulting from an uncontrolled, self-sustaining nuclear chain reaction.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Jimmy Carter elected 39th U.S. president".</h2 head><h3 quote align='center'>"Jimmy Carter, recipient of the Nobel Prize for Peace in 2002 and Democratic former governor of Georgia, was elected 39th president of the United States this day in 1976, narrowly defeating Republican Gerald R. Ford.".</h3 quote></h3 OTD
