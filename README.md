@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Jimmy Carter elected 39th U.S. president".</h2 head><h3 quote align='center'>"Jimmy Carter, recipient of the Nobel Prize for Peace in 2002 and Democratic former governor of Georgia, was elected 39th president of the United States this day in 1976, narrowly defeating Republican Gerald R. Ford.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Another section of Great Wall of China discovered".</h2 head><h3 quote align='center'>"Announced on this day in 1998 was the discovery in the Hui Autonomous Region of Ningxia of a previously unknown 15.5-mile (25-km) segment of the Great Wall of China, which runs a total of about 4,500 miles (7,300 km).".</h3 quote></h3 OTD
