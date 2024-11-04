@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Another section of Great Wall of China discovered".</h2 head><h3 quote align='center'>"Announced on this day in 1998 was the discovery in the Hui Autonomous Region of Ningxia of a previously unknown 15.5-mile (25-km) segment of the Great Wall of China, which runs a total of about 4,500 miles (7,300 km).".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Yitzhak Rabin assassinated".</h2 head><h3 quote align='center'>"Israeli Prime Minister Yitzhak Rabin, corecipient with Shimon Peres and Y\u0101sir \u02bfAraf\u0101t of the Nobel Prize for Peace in 1994, was assassinated this day in 1995 by a Jewish extremist while attending a peace rally.".</h3 quote></h3 OTD
