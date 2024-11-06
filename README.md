@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Gunpowder Plot".</h2 head><h3 quote align='center'>"Celebrated with fireworks as Guy Fawkes Day, this English holiday marks the anniversary of the Gunpowder Plot, when Roman Catholics led by Robert Catesby tried to blow up Parliament, the king, and his family this day in 1605.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Abraham Lincoln elected president of the United States".</h2 head><h3 quote align='center'>"On this day in 1860, Americans elected as their president Abraham Lincoln, whose victory led to the secession of Southern states and the long and bloody Civil War that lasted until 1865 and ended slavery in the U.S.".</h3 quote></h3 OTD
