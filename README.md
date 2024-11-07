@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Abraham Lincoln elected president of the United States".</h2 head><h3 quote align='center'>"On this day in 1860, Americans elected as their president Abraham Lincoln, whose victory led to the secession of Southern states and the long and bloody Civil War that lasted until 1865 and ended slavery in the U.S.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Disputed U.S. presidential election".</h2 head><h3 quote align='center'>"On this day in 2000, the U.S. presidential election ended in a statistical tie between Democrat Al Gore and Republican George W. Bush, only to be settled on December 12 by the U.S. Supreme Court after a bitter legal dispute.".</h3 quote></h3 OTD
