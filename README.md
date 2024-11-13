@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Akihito enthroned".</h2 head><h3 quote align='center'>"Japanese Emperor Akihito\u2014according to tradition, the 125th direct descendant of Jimmu, Japan's legendary first emperor\u2014was formally enthroned on this day in 1990, nearly two years after the death of his father, Hirohito.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Terrorist attacks in Paris".</h2 head><h3 quote align='center'>"On this day in 2015, terrorists staged coordinated attacks in Paris and its environs, the deadliest occurring at the Bataclan theatre and concert hall; in all, at least 130 people were killed and more than 350 were wounded.".</h3 quote></h3 OTD
