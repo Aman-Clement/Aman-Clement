@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Terrorist attacks in Paris".</h2 head><h3 quote align='center'>"On this day in 2015, terrorists staged coordinated attacks in Paris and its environs, the deadliest occurring at the Bataclan theatre and concert hall; in all, at least 130 people were killed and more than 350 were wounded.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Eritrea made a province of the Ethiopian empire".</h2 head><h3 quote align='center'>"On this day in 1962, the Ethiopian parliament and Eritrean Assembly voted unanimously for the abolition of Eritrea's federal status, making Eritrea (independent since 1993) a simple province of the Ethiopian empire.".</h3 quote></h3 OTD
