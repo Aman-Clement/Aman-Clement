@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Eritrea made a province of the Ethiopian empire".</h2 head><h3 quote align='center'>"On this day in 1962, the Ethiopian parliament and Eritrean Assembly voted unanimously for the abolition of Eritrea's federal status, making Eritrea (independent since 1993) a simple province of the Ethiopian empire.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Palestinian state proclaimed by Yasser Arafat".</h2 head><h3 quote align='center'>"Meeting at Algiers, the Palestine National Council, at the urging of PLO chairman Yasser Arafat, issued a declaration of independence for a state of Palestine in the West Bank and Gaza Strip on this day in 1988.".</h3 quote></h3 OTD
