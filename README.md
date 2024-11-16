@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Palestinian state proclaimed by Yasser Arafat".</h2 head><h3 quote align='center'>"Meeting at Algiers, the Palestine National Council, at the urging of PLO chairman Yasser Arafat, issued a declaration of independence for a state of Palestine in the West Bank and Gaza Strip on this day in 1988.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Election of Bhutto as Pakistan's prime minister".</h2 head><h3 quote align='center'>"Benazir Bhutto, elected prime minister of Pakistan on this day in 1988, became the first woman in modern history to lead a Muslim country, serving as prime minister from 1988 to 1990 and again from 1993 to 1996.".</h3 quote></h3 OTD
