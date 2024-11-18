@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Arnold Schwarzenegger inaugurated as governor of California".</h2 head><h3 quote align='center'>"Republican Arnold Schwarzenegger, an Austrian-born American bodybuilder and film actor, was inaugurated on this day in 2003 as the governor of California following a recall election that ousted the sitting governor.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Jonestown massacre".</h2 head><h3 quote align='center'>"Jim Jones, leader of the Peoples Temple religious community that he formed in the 1950s, and some 900 of his followers died this day in 1978 in Guyana in a massive act of murder-suicide known as the Jonestown massacre.".</h3 quote></h3 OTD
