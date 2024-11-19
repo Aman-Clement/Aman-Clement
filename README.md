@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Jonestown massacre".</h2 head><h3 quote align='center'>"Jim Jones, leader of the Peoples Temple religious community that he formed in the 1950s, and some 900 of his followers died this day in 1978 in Guyana in a massive act of murder-suicide known as the Jonestown massacre.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Anwar Sadat's visit to Israel".</h2 head><h3 quote align='center'>"After the Arab-Israeli war of 1973\u201374, Egyptian President Anwar Sadat began to work toward peace, and on this day in 1977 he began his historic visit to Israel, during which he offered a peace plan to its parliament.".</h3 quote></h3 OTD
