@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Anwar Sadat's visit to Israel".</h2 head><h3 quote align='center'>"After the Arab-Israeli war of 1973\u201374, Egyptian President Anwar Sadat began to work toward peace, and on this day in 1977 he began his historic visit to Israel, during which he offered a peace plan to its parliament.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Mexican Revolution launched by Francisco Madero".</h2 head><h3 quote align='center'>"On this day in 1910, Francisco Madero launched a failed revolt that nonetheless sparked the Mexican Revolution by inspiring hope in such leaders as Pancho Villa and Emiliano Zapata, who then mobilized their ragged armies.".</h3 quote></h3 OTD
