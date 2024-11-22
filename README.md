@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Signing of Mayflower Compact".</h2 head><h3 quote align='center'>"On this day in 1620, 41 male passengers on the Mayflower, prior to landing at Plymouth, Massachusetts, signed the Mayflower Compact, by which they agreed to abide by the laws of the new government they would establish.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"U.S. President John F. Kennedy assassinated".</h2 head><h3 quote align='center'>"The most notorious political murder in recent American history occurred this day in 1963, when John F. Kennedy, the 35th U.S. president (1961\u201363), was shot and killed in Dallas, Texas, while riding in an open car.".</h3 quote></h3 OTD
