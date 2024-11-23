@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"U.S. President John F. Kennedy assassinated".</h2 head><h3 quote align='center'>"The most notorious political murder in recent American history occurred this day in 1963, when John F. Kennedy, the 35th U.S. president (1961\u201363), was shot and killed in Dallas, Texas, while riding in an open car.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Ley Ju\u00e1rez passed".</h2 head><h3 quote align='center'>"Passed this day in 1855 in Mexico, the Ley Ju\u00e1rez abolished special courts for the clergy and military in an attempt by justice minister Benito Ju\u00e1rez to eliminate the remnants of colonialism in Mexico and promote equality.".</h3 quote></h3 OTD
