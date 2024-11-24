@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Ley Ju\u00e1rez passed".</h2 head><h3 quote align='center'>"Passed this day in 1855 in Mexico, the Ley Ju\u00e1rez abolished special courts for the clergy and military in an attempt by justice minister Benito Ju\u00e1rez to eliminate the remnants of colonialism in Mexico and promote equality.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Dutch discovery of Tasmania".</h2 head><h3 quote align='center'>"Dutch navigator Abel Janszoon Tasman, who sailed from Batavia (Jakarta) to investigate the practicality of a sea passage eastward to Chile and to explore New Guinea, skirted the southern shores of Tasmania this day in 1642.".</h3 quote></h3 OTD
