@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Dutch discovery of Tasmania".</h2 head><h3 quote align='center'>"Dutch navigator Abel Janszoon Tasman, who sailed from Batavia (Jakarta) to investigate the practicality of a sea passage eastward to Chile and to explore New Guinea, skirted the southern shores of Tasmania this day in 1642.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Japanese military base seized by Mishima Yukio".</h2 head><h3 quote align='center'>"On this day in 1970, Japanese novelist Mishima Yukio and four members of his Shield Society, a private army formed to preserve Japan's martial spirit, seized a military headquarters in Tokyo, and he later committed seppuku.".</h3 quote></h3 OTD
