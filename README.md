@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Japanese military base seized by Mishima Yukio".</h2 head><h3 quote align='center'>"On this day in 1970, Japanese novelist Mishima Yukio and four members of his Shield Society, a private army formed to preserve Japan's martial spirit, seized a military headquarters in Tokyo, and he later committed seppuku.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Premiere of Casablanca".</h2 head><h3 quote align='center'>"Set in occupied Morocco during World War II, directed by Michael Curtiz, and starring Humphrey Bogart, Ingrid Bergman, and Paul Henreid, Casablanca premiered this day in 1942 and became one of Hollywood's most-revered films.".</h3 quote></h3 OTD
