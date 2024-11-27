@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Premiere of Casablanca".</h2 head><h3 quote align='center'>"Set in occupied Morocco during World War II, directed by Michael Curtiz, and starring Humphrey Bogart, Ingrid Bergman, and Paul Henreid, Casablanca premiered this day in 1942 and became one of Hollywood's most-revered films.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Nobel Prizes established".</h2 head><h3 quote align='center'>"Through the will drawn up by Alfred Bernhard Nobel\u2014the Swedish chemist, engineer, and industrialist who invented dynamite and other, more powerful explosives\u2014the Nobel Prizes were established on this day in 1895.".</h3 quote></h3 OTD
