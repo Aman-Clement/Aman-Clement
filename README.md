@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Nobel Prizes established".</h2 head><h3 quote align='center'>"Through the will drawn up by Alfred Bernhard Nobel\u2014the Swedish chemist, engineer, and industrialist who invented dynamite and other, more powerful explosives\u2014the Nobel Prizes were established on this day in 1895.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Opening of Tehr\u0101n Conference ".</h2 head><h3 quote align='center'>"The Tehr\u0101n Conference, attended by U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill, and Soviet Premier Joseph Stalin, at which Stalin pressed for an invasion of France, opened this day in 1943.".</h3 quote></h3 OTD
