@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Opening of Tehr\u0101n Conference ".</h2 head><h3 quote align='center'>"The Tehr\u0101n Conference, attended by U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill, and Soviet Premier Joseph Stalin, at which Stalin pressed for an invasion of France, opened this day in 1943.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"United Nations approves resolution for the partition of Palestine".</h2 head><h3 quote align='center'>"On this day in 1947, the United Nations General Assembly passed Resolution 181, which called for the partition of Palestine into Arab and Jewish states and for placing the city of Jerusalem under a special international regime. Explore the history behind the Israeli-Palestinian conflict".</h3 quote></h3 OTD
