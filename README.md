@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"United Nations approves resolution for the partition of Palestine".</h2 head><h3 quote align='center'>"On this day in 1947, the United Nations General Assembly passed Resolution 181, which called for the partition of Palestine into Arab and Jewish states and for placing the city of Jerusalem under a special international regime. Explore the history behind the Israeli-Palestinian conflict".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Independence of Barbados".</h2 head><h3 quote align='center'>"Barbados, an island nation in the Caribbean situated about 100 miles (160 km) east of the Windward Islands, had gained internal self-rule in 1961 and achieved its full independence from Britain on this day in 1966.".</h3 quote></h3 OTD
