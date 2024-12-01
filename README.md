@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Independence of Barbados".</h2 head><h3 quote align='center'>"Barbados, an island nation in the Caribbean situated about 100 miles (160 km) east of the Windward Islands, had gained internal self-rule in 1961 and achieved its full independence from Britain on this day in 1966.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Rosa Parks's refusal to relinquish her bus seat".</h2 head><h3 quote align='center'>"This day in 1955, in violation of segregation laws in Montgomery, Alabama, Rosa Parks refused to surrender her bus seat to a white passenger and was arrested, sparking a 381-day bus boycott led by Martin Luther King, Jr.".</h3 quote></h3 OTD
