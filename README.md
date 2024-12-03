@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Monroe Doctrine".</h2 head><h3 quote align='center'>"The Monroe Doctrine, which declared that the U.S. would not interfere in European affairs but that its sphere of interest included the entire Western Hemisphere, was enunciated by President James Monroe this day in 1823.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Gas leak in Bhopal, India".</h2 head><h3 quote align='center'>"On this day in 1984, a gas leak from a Union Carbide plant in Bhopal, India, spread over a populated area, resulting ultimately in 15,000 to 20,000 deaths and leaving some half million survivors with chronic medical ailments.".</h3 quote></h3 OTD
