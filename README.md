@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Gas leak in Bhopal, India".</h2 head><h3 quote align='center'>"On this day in 1984, a gas leak from a Union Carbide plant in Bhopal, India, spread over a populated area, resulting ultimately in 15,000 to 20,000 deaths and leaving some half million survivors with chronic medical ailments.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Ivan the Terrible proclaimed grand prince of Moscow".</h2 head><h3 quote align='center'>"On this day in 1533, the three-year-old who became Ivan the Terrible was proclaimed grand prince of Moscow upon the death of his father, Grand Prince Vasily III, with his mother ruling in Ivan's name until her death in 1538.".</h3 quote></h3 OTD
