@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Pearl Harbor attack".</h2 head><h3 quote align='center'>"On this day in 1941, Japanese bombers launched a surprise aerial attack on the U.S. naval base at Pearl Harbor on the island of Oahu, Hawaii, precipitating the entry of the United States into World War II.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"John Lennon fatally shot".</h2 head><h3 quote align='center'>"On this day in 1980, British musician John Lennon\u2014who rose to fame with the Beatles and had a successful solo career\u2014was fatally shot by Mark David Chapman in New York City, causing a global outpouring of grief.".</h3 quote></h3 OTD
