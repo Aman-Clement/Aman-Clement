@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Lech Wa\u0142\u0119sa elected president of Poland".</h2 head><h3 quote align='center'>"On this day in 1990, Lech Wa\u0142\u0119sa\u2014who had led Solidarity, Poland's first independent trade union, and had received the Nobel Prize for Peace in 1983\u2014won Poland's first direct presidential election by a landslide.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Encyclop\u00e6dia Britannica first published".</h2 head><h3 quote align='center'>"The first part of the first edition of the Encyclop\u00e6dia Britannica, the oldest continuously published and revised work in the English language, was published and advertised for sale in Edinburgh on this day in 1768.".</h3 quote></h3 OTD
