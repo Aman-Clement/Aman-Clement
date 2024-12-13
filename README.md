@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"U.S. Supreme Court decision on the presidential election".</h2 head><h3 quote align='center'>"On this day in 2000, the U.S. Supreme Court effectively awarded the presidency to George W. Bush, ruling that a fair recount of ballots in Florida could not be performed by the deadline for certifying the state's electors.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"New Zealand sighted".</h2 head><h3 quote align='center'>"On this day in 1642, Dutch navigator Abel Tasman sighted South Island, New Zealand, and later, mistaking the strait north of the island for a bay, believed he had found the west coast of a hypothetical southern continent.".</h3 quote></h3 OTD
