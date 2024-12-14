@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"New Zealand sighted".</h2 head><h3 quote align='center'>"On this day in 1642, Dutch navigator Abel Tasman sighted South Island, New Zealand, and later, mistaking the strait north of the island for a bay, believed he had found the west coast of a hypothetical southern continent.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Roald Amundsen's arrival at the South Pole".</h2 head><h3 quote align='center'>"One of the greatest figures in the history of polar exploration was Norwegian explorer Roald Amundsen, who left Norway for Antarctica in June 1910 and on this day in 1911 became the first person to reach the South Pole.".</h3 quote></h3 OTD
