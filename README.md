@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Roald Amundsen's arrival at the South Pole".</h2 head><h3 quote align='center'>"One of the greatest figures in the history of polar exploration was Norwegian explorer Roald Amundsen, who left Norway for Antarctica in June 1910 and on this day in 1911 became the first person to reach the South Pole.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Premiere of Gone with the Wind".</h2 head><h3 quote align='center'>"Starring Vivien Leigh and Clark Gable, the film Gone with the Wind\u2014a romantic tale of the American South during the Civil War adapted from the 1936 novel by Margaret Mitchell\u2014premiered this day in Atlanta, Georgia, in 1939.".</h3 quote></h3 OTD
