@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Radium discovered by Marie and Pierre Curie".</h2 head><h3 quote align='center'>"On this day in 1898, having recently discovered polonium, future Nobel Prize winners Marie and Pierre Curie discovered the radioactive chemical element radium, a silvery white metal that would be used to treat cancer.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Alfred Dreyfus sentenced to life in prison".</h2 head><h3 quote align='center'>"On this day in 1894, on the basis of specious evidence and anti-Semitism, French army officer Alfred Dreyfus was sentenced to life in prison for treason, sparking a controversy that divided France for 12 years.".</h3 quote></h3 OTD
