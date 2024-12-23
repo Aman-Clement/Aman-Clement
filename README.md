@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Alfred Dreyfus sentenced to life in prison".</h2 head><h3 quote align='center'>"On this day in 1894, on the basis of specious evidence and anti-Semitism, French army officer Alfred Dreyfus was sentenced to life in prison for treason, sparking a controversy that divided France for 12 years.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Aleksander Kwa\u015bniewski inaugurated as Polish president".</h2 head><h3 quote align='center'>"Aleksander Kwa\u015bniewski, formerly an apparatchik of Poland's ruling communist party, was sworn in as the country's president this day in 1995, having narrowly defeated Lech Wa\u0142\u0119sa, Poland's first postcommunist president.".</h3 quote></h3 OTD
