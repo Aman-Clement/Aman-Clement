@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Aleksander Kwa\u015bniewski inaugurated as Polish president".</h2 head><h3 quote align='center'>"Aleksander Kwa\u015bniewski, formerly an apparatchik of Poland's ruling communist party, was sworn in as the country's president this day in 1995, having narrowly defeated Lech Wa\u0142\u0119sa, Poland's first postcommunist president.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Treaty of Ghent".</h2 head><h3 quote align='center'>"On this day in 1814, the United States and Great Britain signed the Treaty of Ghent in Belgium, ending the War of 1812, marking a decline of American dependence on Europe, and stimulating a sense of U.S. nationalism.".</h3 quote></h3 OTD
