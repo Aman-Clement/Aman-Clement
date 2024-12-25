@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Treaty of Ghent".</h2 head><h3 quote align='center'>"On this day in 1814, the United States and Great Britain signed the Treaty of Ghent in Belgium, ending the War of 1812, marking a decline of American dependence on Europe, and stimulating a sense of U.S. nationalism.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Christmas celebrated".</h2 head><h3 quote align='center'>"Though the precise origin of the date is unclear, Christmas, commemorating the birth of Jesus Christ, is celebrated on this day, having been first identified as the date of Jesus' birth by Sextus Julius Africanus in 221. Explore how Christian and secular communities worldwide have embraced Christmas".</h3 quote></h3 OTD
