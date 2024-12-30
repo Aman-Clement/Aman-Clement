@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"U.S. annexation of Texas approved".</h2 head><h3 quote align='center'>"The annexation of the Republic of Texas by the United States, approved by the U.S. Congress this day in 1845, sparked the Mexican War because land between the Rio Grande and the Nueces River was disputed territory.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Union of Soviet Socialist Republics established".</h2 head><h3 quote align='center'>"The Union of Soviet Socialist Republics, formed this day in 1922 with its capital in Moscow, eventually incorporated 15 republics and constituted (in area) the largest country in the world until its dissolution in 1991.".</h3 quote></h3 OTD
