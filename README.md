@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Ottawa made capital of Canada".</h2 head><h3 quote align='center'>"Ottawa, located in Ontario at the confluence of the Ottawa, Gatineau, and Rideau rivers and whose area was first described by Samuel de Champlain in 1613, was named the capital of Canada by Queen Victoria this day in 1857.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Euro introduced in Europe".</h2 head><h3 quote align='center'>"On this day in 2002 the euro, the monetary unit of the European Union, was introduced with the issuance of both currency and coins, and by March 2002 it was the sole legal tender of participating member states.".</h3 quote></h3 OTD
