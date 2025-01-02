@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Euro introduced in Europe".</h2 head><h3 quote align='center'>"On this day in 2002 the euro, the monetary unit of the European Union, was introduced with the issuance of both currency and coins, and by March 2002 it was the sole legal tender of participating member states.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Granada reclaimed by Spain".</h2 head><h3 quote align='center'>"On this day in 1492, Granada, home of the Alhambra palace and the seat and final stronghold of the Moorish kingdom in Spain, was surrendered to the Catholic Monarchs, Ferdinand II and Isabella I, ending the Reconquest.".</h3 quote></h3 OTD
