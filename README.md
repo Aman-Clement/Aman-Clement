@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Burma granted independence".</h2 head><h3 quote align='center'>"On this day in 1948, the Southeast Asian nation of Burma (Myanmar) formally gained independence, completing the transfer of power negotiated by Burmese leader Aung San and British Prime Minister Clement Attlee in 1947.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Golden Gate Bridge construction begun".</h2 head><h3 quote align='center'>"In San Francisco on this day in 1933, construction began on the Golden Gate Bridge, a suspension bridge that once boasted the longest main span in the world and that has been celebrated for the magnificence of its setting.".</h3 quote></h3 OTD
