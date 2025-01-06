@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Golden Gate Bridge construction begun".</h2 head><h3 quote align='center'>"In San Francisco on this day in 1933, construction began on the Golden Gate Bridge, a suspension bridge that once boasted the longest main span in the world and that has been celebrated for the magnificence of its setting.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Epiphany".</h2 head><h3 quote align='center'>"Celebrated annually this day, Epiphany is a major feast that commemorates, for Western Christians, the coming of the Magi and, for Eastern Orthodox Christians, Jesus' birth, baptism by John, and first miracle.".</h3 quote></h3 OTD
