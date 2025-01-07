@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Epiphany".</h2 head><h3 quote align='center'>"Celebrated annually this day, Epiphany is a major feast that commemorates, for Western Christians, the coming of the Magi and, for Eastern Orthodox Christians, Jesus' birth, baptism by John, and first miracle.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Galileo's discovery of Jupiter's four moons".</h2 head><h3 quote align='center'>"During this month in 1610, Italian astronomer Galileo made the earthshaking discoveries that four moons revolve around Jupiter and that the telescope reveals many more stars than are visible to the naked eye.".</h3 quote></h3 OTD
