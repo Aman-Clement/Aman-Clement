@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Anniversary of Grimaldi rule in Monaco".</h2 head><h3 quote align='center'>"On this day in 1997, the principality of Monaco began a yearlong celebration in honour of the 700th anniversary of the rule of the Grimaldi family, who seized power in 1297 and gained firm possession of Monaco in 1419.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Election of Mahmoud Abbas".</h2 head><h3 quote align='center'>"Mahmoud Abbas, who was a founder of Fatah in the 1950s and served briefly as prime minister of the Palestinian Authority (PA) in 2003 under Y\u0101sir \u02bfAraf\u0101t, was elected president of the PA on this day in 2005.".</h3 quote></h3 OTD
