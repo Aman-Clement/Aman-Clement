@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Common Sense published".</h2 head><h3 quote align='center'>"On this day in 1776, Thomas Paine published Common Sense, a 50-page pamphlet that sold more than 500,000 copies within a few months and called for a war of independence that would become the American Revolution.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Amelia Earhart's Hawaii-to-California flight".</h2 head><h3 quote align='center'>"On this day in 1935, Amelia Earhart, one of the world's most celebrated aviators, made the first successful solo flight from Hawaii to California, a distance longer than that from the United States to Europe.".</h3 quote></h3 OTD
