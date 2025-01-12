@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Amelia Earhart's Hawaii-to-California flight".</h2 head><h3 quote align='center'>"On this day in 1935, Amelia Earhart, one of the world's most celebrated aviators, made the first successful solo flight from Hawaii to California, a distance longer than that from the United States to Europe.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Haiti severely damaged by earthquake".</h2 head><h3 quote align='center'>"On this day in 2010, a magnitude-7.0 earthquake devastated Haiti, especially Port-au-Prince, killing more than 200,000 people and leaving more than 1,000,000 homeless and touching off a massive international relief effort.".</h3 quote></h3 OTD
