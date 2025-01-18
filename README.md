@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Hawaiian monarchy overthrown".</h2 head><h3 quote align='center'>"Acting for Hawaiian sugar interests and their American allies, a committee led by Sanford Ballard Dole deposed Hawaiian Queen Liliuokalani this day in 1893 and installed a provisional government with Dole as president.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"German Empire established".</h2 head><h3 quote align='center'>"The German Empire was founded this day in 1871 by Otto von Bismarck in the aftermath of three successful wars by the state of Prussia.".</h3 quote></h3 OTD
