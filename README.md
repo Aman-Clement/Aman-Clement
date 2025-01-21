@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Barack Obama sworn in as president".</h2 head><h3 quote align='center'>"On this day in 2009, Barack Obama was sworn in as the 44th president of the United States, becoming the first African American to hold the office.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First commercial Concorde flight".</h2 head><h3 quote align='center'>"Generating a sonic boom as it traveled through the atmosphere at supersonic speed, the Concorde, a commercial aircraft built with funding from the British and French governments, began regular service on this day in 1976.".</h3 quote></h3 OTD
