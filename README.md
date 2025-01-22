@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First commercial Concorde flight".</h2 head><h3 quote align='center'>"Generating a sonic boom as it traveled through the atmosphere at supersonic speed, the Concorde, a commercial aircraft built with funding from the British and French governments, began regular service on this day in 1976.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>" Roe  v. Wade  ruling".</h2 head><h3 quote align='center'>"On this day in 1973, the U.S. Supreme Court issued one of its most momentous decisions, ruling in  Roe  v. Wade  that a Texas statute criminalizing abortion in most instances violated a woman's constitutional right of privacy.".</h3 quote></h3 OTD
