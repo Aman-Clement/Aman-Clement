@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Madeleine Albright sworn in as U.S. secretary of state".</h2 head><h3 quote align='center'>"On this day in 1997, Madeleine Albright, who had earlier served as U.S. ambassador to the UN, assumed under President Bill Clinton the office of secretary of state, becoming the first woman to hold that cabinet post.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Opportunity's Mars landing".</h2 head><h3 quote align='center'>"Launched in mid-2003, the six-wheeled robotic rover Opportunity landed on Mars this day in 2004 and\u2014like its twin rover, Spirit, which had landed on January 3\u2014analyzed rocks and soils and relayed pictures back to Earth.".</h3 quote></h3 OTD
