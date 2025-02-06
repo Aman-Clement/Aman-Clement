@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Punic Wars ended".</h2 head><h3 quote align='center'>"The Third Punic War, the last of three between Rome and Carthage, came to an end this day in 146 bce, culminating in the final destruction of Carthage, the enslavement of its people, and Roman hegemony over the Mediterranean.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Accession of Elizabeth II".</h2 head><h3 quote align='center'>"Elizabeth II ascended the throne of the United Kingdom of Great Britain and Northern Ireland this day in 1952, following the death of her father, King George VI. She became the longest-reigning monarch in British history in 2015.".</h3 quote></h3 OTD
