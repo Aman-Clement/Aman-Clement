@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"British Invasion launched with Beatles' arrival in U.S.".</h2 head><h3 quote align='center'>"The musical British Invasion began when the Beatles landed in New York City this day in 1964, and two nights later, as Beatlemania stormed America, their performance on The Ed Sullivan Show was watched by 73 million viewers.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Mary, Queen of Scots, beheaded".</h2 head><h3 quote align='center'>"Mary, Queen of Scots, rival of Queen Elizabeth I of England, was beheaded this day in 1587 at Fotheringhay Castle, her execution a chilling scene redeemed by the great personal dignity with which she met her fate.".</h3 quote></h3 OTD
