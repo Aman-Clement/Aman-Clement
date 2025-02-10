@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Calcutta restored to British control".</h2 head><h3 quote align='center'>"Concluded this day in 1757 by Robert Clive, the Treaty of Alinagar restored Calcutta (now Kolkata)\u2014which Clive had recovered in January from Siraj al-Dawlah\u2014to British control and served as a prelude to the seizure of Bengal.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Kasparov-versus-computer chess match".</h2 head><h3 quote align='center'>"On this day in 1996, world chess champion Garry Kasparov began a six-round match against Deep Blue, a chess-playing computer built by IBM, in which Kasparov claimed a 4\u20132 victory (though Deep Blue won a rematch the following year).".</h3 quote></h3 OTD
