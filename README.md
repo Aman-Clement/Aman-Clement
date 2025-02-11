@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Kasparov-versus-computer chess match".</h2 head><h3 quote align='center'>"On this day in 1996, world chess champion Garry Kasparov began a six-round match against Deep Blue, a chess-playing computer built by IBM, in which Kasparov claimed a 4\u20132 victory (though Deep Blue won a rematch the following year).".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"St. Bernadette's first visions of Mary at Lourdes".</h2 head><h3 quote align='center'>"On this day in 1858 in Lourdes, France, 14-year-old Bernadette Soubirous, a miller's daughter, first had visions of the Virgin Mary that were authenticated by Pope Pius IX in 1862, initiating the cult of Our Lady of Lourdes.".</h3 quote></h3 OTD
