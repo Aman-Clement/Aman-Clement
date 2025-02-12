@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"St. Bernadette's first visions of Mary at Lourdes".</h2 head><h3 quote align='center'>"On this day in 1858 in Lourdes, France, 14-year-old Bernadette Soubirous, a miller's daughter, first had visions of the Virgin Mary that were authenticated by Pope Pius IX in 1862, initiating the cult of Our Lady of Lourdes.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Chile's independence from Spain declared".</h2 head><h3 quote align='center'>"Although the decisive victory over the Spanish did not come until April at the Battle of Maip\u00fa, Chile formally declared independence from Spain on this day in 1818, the first anniversary of Chile's victory at Chacabuco.".</h3 quote></h3 OTD
