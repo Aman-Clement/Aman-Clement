@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Fatwa issued against Salman Rushdie".</h2 head><h3 quote align='center'>"On this day in 1989, Ayatollah Ruhollah Khomeini of Iran issued a fatwa and offered a bounty for the assassination of author Salman Rushdie, whose novel The Satanic Verses (1988) Khomeini denounced as blasphemous.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"USS Maine destroyed, leading to Spanish-American War".</h2 head><h3 quote align='center'>"On this day in 1898, an explosion in Havana harbour sank the battleship USS Maine, killing 260 American seamen and precipitating the Spanish-American War, which originated in the Cuban struggle for independence from Spain.".</h3 quote></h3 OTD
