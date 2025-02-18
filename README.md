@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Vietnam invaded by China".</h2 head><h3 quote align='center'>"After the Vietnam War, Vietnam bolstered its ties with the Soviet Union rather than with China, and, following a series of anti-Chinese, pro-Soviet maneuvers by Vietnam, China invaded its southern neighbour this day in 1979.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Pluto discovered by Clyde Tombaugh".</h2 head><h3 quote align='center'>"Using a 13-inch (33-cm) telescope at the Lowell Observatory in Flagstaff, Arizona, Clyde W. Tombaugh, a 24-year-old American with no formal training in astronomy, discovered the dwarf planet Pluto this day in 1930.".</h3 quote></h3 OTD
