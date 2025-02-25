@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"U.S. President Andrew Johnson impeached".</h2 head><h3 quote align='center'>"On this day in 1868, the U.S. House of Representatives voted 126\u201347 to impeach President Andrew Johnson, whose lenient Reconstruction policies regarding the South after the Civil War angered Radical Republicans in Congress.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Ousting of Marcos in the Philippines".</h2 head><h3 quote align='center'>"On this day in 1986, Philippine President Ferdinand E. Marcos, under pressure from the United States, fled his country for Hawaii after a fraudulent electoral victory over Corazon Aquino, who replaced him as president.".</h3 quote></h3 OTD
