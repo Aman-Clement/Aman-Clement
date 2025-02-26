@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Ousting of Marcos in the Philippines".</h2 head><h3 quote align='center'>"On this day in 1986, Philippine President Ferdinand E. Marcos, under pressure from the United States, fled his country for Hawaii after a fraudulent electoral victory over Corazon Aquino, who replaced him as president.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Napoleon's escape from Elba".</h2 head><h3 quote align='center'>"Forced to abdicate as French emperor in 1814, Napoleon escaped from exile on the island of Elba this day in 1815 and, gathering support en route, retook power on his return to Paris on March 20, ushering in the Hundred Days.".</h3 quote></h3 OTD
