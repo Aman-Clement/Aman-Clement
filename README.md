@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Napoleon's escape from Elba".</h2 head><h3 quote align='center'>"Forced to abdicate as French emperor in 1814, Napoleon escaped from exile on the island of Elba this day in 1815 and, gathering support en route, retook power on his return to Paris on March 20, ushering in the Hundred Days.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Chile struck by earthquake and tsunami".</h2 head><h3 quote align='center'>"On this day in 2010, a magnitude-8.8 earthquake struck Chile, causing widespread damage and triggering a tsunami that devastated coastal areas; it was the most powerful earthquake to strike the region since 1960.".</h3 quote></h3 OTD
