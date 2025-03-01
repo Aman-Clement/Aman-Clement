@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Olof Palme assassinated".</h2 head><h3 quote align='center'>"Olof Palme, the internationally prominent prime minister of Sweden (1969\u201376, 1982\u201386) whose strong pacifist beliefs included opposition to the Vietnam War, was assassinated this day in Stockholm in 1986.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Establishment of Yellowstone as world's first national park".</h2 head><h3 quote align='center'>"Yellowstone National Park, situated in the western United States and designated a UNESCO World Heritage site in 1978, was established by the U.S. Congress as the country's\u2014and the world's\u2014first national park this day in 1872.".</h3 quote></h3 OTD
