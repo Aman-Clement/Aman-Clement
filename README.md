@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Establishment of Yellowstone as world's first national park".</h2 head><h3 quote align='center'>"Yellowstone National Park, situated in the western United States and designated a UNESCO World Heritage site in 1978, was established by the U.S. Congress as the country's\u2014and the world's\u2014first national park this day in 1872.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Moroccan independence declared".</h2 head><h3 quote align='center'>"The North African country of Morocco, situated directly across the Strait of Gibraltar from Spain, proclaimed independence from France this day in 1956, the sultan Muhammad V having formed its first government.".</h3 quote></h3 OTD
