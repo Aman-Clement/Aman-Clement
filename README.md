@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Inauguration of U.S. President Franklin D. Roosevelt".</h2 head><h3 quote align='center'>"On this day in 1933, in the midst of the Great Depression, Franklin D. Roosevelt was inaugurated as the 32nd U.S. president, and later he led the country out of the Depression and to victory in World War II.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Boston Massacre".</h2 head><h3 quote align='center'>"Harassed by a mob, British troops on this day in 1770 opened fire, killing Crispus Attucks and four others in the Boston Massacre, an event that galvanized anti-British feelings in the lead-up to the American Revolution.".</h3 quote></h3 OTD
