@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Boston Massacre".</h2 head><h3 quote align='center'>"Harassed by a mob, British troops on this day in 1770 opened fire, killing Crispus Attucks and four others in the Boston Massacre, an event that galvanized anti-British feelings in the lead-up to the American Revolution.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"King Tut's tomb opened".</h2 head><h3 quote align='center'>"On this day in 1924, the Egyptian government opened the mummy case of King Tutankhamen, ruler of Egypt in the 14th century bce, whose burial chamber had been discovered in 1922 by renowned British archaeologist Howard Carter.".</h3 quote></h3 OTD
