@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"British throne ascended by Anne".</h2 head><h3 quote align='center'>"On this day in 1702, Anne became the last Stuart monarch of Great Britain, having earlier acquiesced to the Act of Settlement of 1701, which designated as her successors the Hanoverian descendants of King James I.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Battle of the Monitor and Merrimack".</h2 head><h3 quote align='center'>"On this day in 1862 during the American Civil War, the ironclads Monitor and Virginia (formerly Merrimack) battled in the harbour at Hampton Roads, Virginia, marking the beginning of a new era of naval warfare.".</h3 quote></h3 OTD
