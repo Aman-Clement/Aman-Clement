@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Battle of the Monitor and Merrimack".</h2 head><h3 quote align='center'>"On this day in 1862 during the American Civil War, the ironclads Monitor and Virginia (formerly Merrimack) battled in the harbour at Hampton Roads, Virginia, marking the beginning of a new era of naval warfare.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Opening of the Nazis' first concentration camp".</h2 head><h3 quote align='center'>"On this day in 1933, soon after Adolf Hitler became chancellor, the first concentration camp in Germany opened at Dachau, where at least 32,000 people would die from disease, malnutrition, physical oppression, and execution.".</h3 quote></h3 OTD
