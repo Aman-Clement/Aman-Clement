@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The planet Uranus discovered".</h2 head><h3 quote align='center'>"English astronomer William Herschel observed this day in 1781 the seventh planet from the Sun, Uranus\u2014first described by him as \u201ca curious either nebulous star or perhaps a comet\u201d and named for the father of the god Saturn.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Reelection of Vladimir Putin".</h2 head><h3 quote align='center'>"Vladimir Putin, the intelligence officer and politician who became president of Russia in 1999 upon the resignation of Boris Yeltsin, was overwhelmingly reelected to a second term as president this day in 2004.".</h3 quote></h3 OTD
