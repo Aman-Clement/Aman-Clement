@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Reelection of Vladimir Putin".</h2 head><h3 quote align='center'>"Vladimir Putin, the intelligence officer and politician who became president of Russia in 1999 upon the resignation of Boris Yeltsin, was overwhelmingly reelected to a second term as president this day in 2004.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Julius Caesar assassinated on the Ides of March".</h2 head><h3 quote align='center'>"In 44 bce Roman dictator Julius Caesar was launching a series of political and social reforms when he was assassinated this day, the Ides of March, by a group of nobles, among whom were Cassius and Brutus.".</h3 quote></h3 OTD
