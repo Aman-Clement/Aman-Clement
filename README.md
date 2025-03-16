@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Julius Caesar assassinated on the Ides of March".</h2 head><h3 quote align='center'>"In 44 bce Roman dictator Julius Caesar was launching a series of political and social reforms when he was assassinated this day, the Ides of March, by a group of nobles, among whom were Cassius and Brutus.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"My Lai Massacre".</h2 head><h3 quote align='center'>"On this day in 1968, during the Vietnam War, U.S. soldiers dispatched on a search-and-destroy mission killed as many as 500 unarmed villagers in the hamlet of My Lai, considered a stronghold of the Viet Cong.".</h3 quote></h3 OTD
