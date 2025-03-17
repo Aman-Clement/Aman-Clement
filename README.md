@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"My Lai Massacre".</h2 head><h3 quote align='center'>"On this day in 1968, during the Vietnam War, U.S. soldiers dispatched on a search-and-destroy mission killed as many as 500 unarmed villagers in the hamlet of My Lai, considered a stronghold of the Viet Cong.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Vote to end apartheid".</h2 head><h3 quote align='center'>"On this day in 1992, nearly 69 percent of white South African voters backed F.W. de Klerk's reforms\u2014which included the repeal of racially discriminatory laws\u2014and effectively endorsed the dismantling of apartheid.".</h3 quote></h3 OTD
