@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Vote to end apartheid".</h2 head><h3 quote align='center'>"On this day in 1992, nearly 69 percent of white South African voters backed F.W. de Klerk's reforms\u2014which included the repeal of racially discriminatory laws\u2014and effectively endorsed the dismantling of apartheid.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Election of Chen Shui-bian".</h2 head><h3 quote align='center'>"On this day in 2000, Chen Shui-bian, a leader of the pro-independence movement that sought statehood for the Republic of China (Taiwan), was elected president of Taiwan, breaking the Nationalist Party's 55-year rule.".</h3 quote></h3 OTD
