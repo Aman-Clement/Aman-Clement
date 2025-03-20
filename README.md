@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Iraq War begins".</h2 head><h3 quote align='center'>"On this day in 2003, U.S. President George W. Bush ordered air strikes on Baghdad, thus launching the Iraq War to oust dictator Saddam Hussein, who was believed (wrongly) to be manufacturing weapons of mass destruction.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"AUM subway attack".</h2 head><h3 quote align='center'>"Top leaders of AUM Shinrikyo (Japanese: \u201cAUM Supreme Truth\u201d), a Japanese Buddhist sect founded in 1987 by Asahara Shoko, released nerve gas into a Tokyo subway this day in 1995, killing 12 people and injuring thousands.".</h3 quote></h3 OTD
