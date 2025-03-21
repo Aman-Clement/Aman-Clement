@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"AUM subway attack".</h2 head><h3 quote align='center'>"Top leaders of AUM Shinrikyo (Japanese: \u201cAUM Supreme Truth\u201d), a Japanese Buddhist sect founded in 1987 by Asahara Shoko, released nerve gas into a Tokyo subway this day in 1995, killing 12 people and injuring thousands.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Closing of Alcatraz prison".</h2 head><h3 quote align='center'>"The U.S. federal prison on San Francisco Bay's Alcatraz Island, which had held some of the most dangerous civilian prisoners\u2014including Al Capone and Robert Stroud, the \u201cBirdman of Alcatraz\u201d\u2014was closed this day in 1963.".</h3 quote></h3 OTD
