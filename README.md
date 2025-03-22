@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Closing of Alcatraz prison".</h2 head><h3 quote align='center'>"The U.S. federal prison on San Francisco Bay's Alcatraz Island, which had held some of the most dangerous civilian prisoners\u2014including Al Capone and Robert Stroud, the \u201cBirdman of Alcatraz\u201d\u2014was closed this day in 1963.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Stamp Act passed".</h2 head><h3 quote align='center'>"On this day in 1765 the British Parliament passed the Stamp Act, which placed taxes on various printed papers in the colonies; highly unpopular, the legislation was particularly contentious in America.".</h3 quote></h3 OTD
