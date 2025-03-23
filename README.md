@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Stamp Act passed".</h2 head><h3 quote align='center'>"On this day in 1765 the British Parliament passed the Stamp Act, which placed taxes on various printed papers in the colonies; highly unpopular, the legislation was particularly contentious in America.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Lewis and Clark's return trip begun".</h2 head><h3 quote align='center'>"Having completed the first U.S. overland expedition to the Pacific coast, explorers Meriwether Lewis and William Clark this day in 1806 began their return to St. Louis, Missouri, where their journey had begun in May 1804.".</h3 quote></h3 OTD
