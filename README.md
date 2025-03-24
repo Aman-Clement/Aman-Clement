@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Lewis and Clark's return trip begun".</h2 head><h3 quote align='center'>"Having completed the first U.S. overland expedition to the Pacific coast, explorers Meriwether Lewis and William Clark this day in 1806 began their return to St. Louis, Missouri, where their journey had begun in May 1804.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Exxon Valdez Alaskan oil spill".</h2 head><h3 quote align='center'>"On this day in 1989, the oil tanker Exxon Valdez ran aground, spilling some 11 million gallons (41 million litres) of oil into Prince William Sound in Alaska and creating the largest oil spill in U.S. history up to that time.".</h3 quote></h3 OTD
