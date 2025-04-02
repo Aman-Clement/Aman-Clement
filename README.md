@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Creation of Nunavut".</h2 head><h3 quote align='center'>"Created this day in 1999 by carving a vast region from Canada's Northwest Territories, the Canadian territory of Nunavut stretches across much of the Canadian Arctic and encompasses the traditional lands of the Inuit.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Death of Pope John Paul II".</h2 head><h3 quote align='center'>"Bishop of Rome and head of the Roman Catholic Church from 1978, Pope John Paul II, who was the first non-Italian pope in 455 years and the first from a Slavic country, died in Vatican City this day in 2005.".</h3 quote></h3 OTD
