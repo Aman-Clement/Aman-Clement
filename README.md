@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Martin Luther King, Jr., assassinated".</h2 head><h3 quote align='center'>"On this day in 1968, Martin Luther King, Jr., a leader of the American civil rights movement who was in Memphis, Tennessee, to support a strike by the city's sanitation workers, was assassinated by James Earl Ray.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Battle of Maip\u00fa".</h2 head><h3 quote align='center'>"Chile's independence movement, led by Jos\u00e9 de San Mart\u00edn and Bernardo O'Higgins, won a decisive victory over Spain in the Battle of Maip\u00fa, which left 2,000 Spaniards and 1,000 Chilean patriots dead on this day in 1818.".</h3 quote></h3 OTD
