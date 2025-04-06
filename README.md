@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Battle of Maip\u00fa".</h2 head><h3 quote align='center'>"Chile's independence movement, led by Jos\u00e9 de San Mart\u00edn and Bernardo O'Higgins, won a decisive victory over Spain in the Battle of Maip\u00fa, which left 2,000 Spaniards and 1,000 Chilean patriots dead on this day in 1818.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Olympics revived".</h2 head><h3 quote align='center'>"Pierre, baron de Coubertin, a founder of the International Olympic Committee and its president from 1896 to 1925, realized his goal of reviving the Olympics when the first modern Games opened in Athens this day in 1896.".</h3 quote></h3 OTD
