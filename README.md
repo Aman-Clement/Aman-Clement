@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Olympics revived".</h2 head><h3 quote align='center'>"Pierre, baron de Coubertin, a founder of the International Olympic Committee and its president from 1896 to 1925, realized his goal of reviving the Olympics when the first modern Games opened in Athens this day in 1896.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Jack Nicklaus's first Masters victory".</h2 head><h3 quote align='center'>"American professional golfer Jack Nicklaus, a dominating figure in world golf from the 1960s to the '80s and the winner of 73 PGA tour events in his career, won the Masters Tournament at age 23 on this day in 1963.".</h3 quote></h3 OTD
