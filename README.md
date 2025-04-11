@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Anschluss approved in Austria".</h2 head><h3 quote align='center'>"In a controlled plebiscite in Austria this day in 1938, soon after Adolf Hitler's invasion of the country, 99.7 percent of Austrians approved the Anschluss (German: \u201cUnion\u201d)\u2014the political unification of Austria and Germany.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Napoleon's abdication at Fontainebleau".</h2 head><h3 quote align='center'>"On this day in 1814, during the Napoleonic wars, Napoleon was facing an invasion of France by forces bent on his overthrow and, pressed by his own officers, abdicated unconditionally at Fontainebleau.".</h3 quote></h3 OTD
