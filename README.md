@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Alfred Dreyfus imprisoned on Devils Island".</h2 head><h3 quote align='center'>"Accused of selling military secrets to Germany and convicted in an irregular trial against a backdrop of anti-Semitism, French officer Alfred Dreyfus was imprisoned this day in 1895 on Devils Island, off French Guiana.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Abraham Lincoln shot".</h2 head><h3 quote align='center'>"On this day in 1865, just after the effective end of the American Civil War, U.S. President Abraham Lincoln was shot by John Wilkes Booth while attending a production at Ford's Theatre in Washington, D.C., and died the next morning.".</h3 quote></h3 OTD
