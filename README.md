@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Canada Act proclaimed".</h2 head><h3 quote align='center'>"The Canada Act, also known as the Constitution Act, took effect on this day in 1982, establishing certain individual rights, preserving parliamentary supremacy, and making Canada a wholly independent, fully sovereign state.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The midnight ride of Paul Revere".</h2 head><h3 quote align='center'>"Paul Revere, a renowned silversmith, is better remembered as a folk hero of the American Revolution who this night in 1775 made a dramatic ride on horseback to warn Boston-area residents of an imminent attack by British troops.".</h3 quote></h3 OTD
