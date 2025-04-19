@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The midnight ride of Paul Revere".</h2 head><h3 quote align='center'>"Paul Revere, a renowned silversmith, is better remembered as a folk hero of the American Revolution who this night in 1775 made a dramatic ride on horseback to warn Boston-area residents of an imminent attack by British troops.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"American Revolution begun".</h2 head><h3 quote align='center'>"Launched this day in 1775 with the Battles of Lexington and Concord, the American Revolution was an effort by 13 British colonies in North America (with help from France, Spain, and the Netherlands) to win their independence.".</h3 quote></h3 OTD
