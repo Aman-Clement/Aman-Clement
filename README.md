@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"American Revolution begun".</h2 head><h3 quote align='center'>"Launched this day in 1775 with the Battles of Lexington and Concord, the American Revolution was an effort by 13 British colonies in North America (with help from France, Spain, and the Netherlands) to win their independence.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Explosion on the Deepwater Horizon oil rig".</h2 head><h3 quote align='center'>"On this day in 2010, an explosion occurred on the Deepwater Horizon oil rig\u2014located in the Gulf of Mexico, some 41 miles (66 km) off the coast of Louisiana\u2014leading to the largest oil spill in history.".</h3 quote></h3 OTD
