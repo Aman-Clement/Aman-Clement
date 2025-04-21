@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Explosion on the Deepwater Horizon oil rig".</h2 head><h3 quote align='center'>"On this day in 2010, an explosion occurred on the Deepwater Horizon oil rig\u2014located in the Gulf of Mexico, some 41 miles (66 km) off the coast of Louisiana\u2014leading to the largest oil spill in history.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"French elections held".</h2 head><h3 quote align='center'>"French President Jacques Chirac faced a reelection challenge on this day in 2002 from extremist Jean-Marie Le Pen in the first round of presidential voting but two weeks later handily defeated him to win a second term.".</h3 quote></h3 OTD
