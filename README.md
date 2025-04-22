@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"French elections held".</h2 head><h3 quote align='center'>"French President Jacques Chirac faced a reelection challenge on this day in 2002 from extremist Jean-Marie Le Pen in the first round of presidential voting but two weeks later handily defeated him to win a second term.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First Earth Day".</h2 head><h3 quote align='center'>"First celebrated on this day in 1970 in the U.S., Earth Day\u2014founded by American politician and conservationist Gaylord Anton Nelson\u2014helped spark the environmental movement and quickly grew into an international event.".</h3 quote></h3 OTD
