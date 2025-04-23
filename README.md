@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First Earth Day".</h2 head><h3 quote align='center'>"First celebrated on this day in 1970 in the U.S., Earth Day\u2014founded by American politician and conservationist Gaylord Anton Nelson\u2014helped spark the environmental movement and quickly grew into an international event.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Voting for Eritrea's independence ".</h2 head><h3 quote align='center'>"On this day in 1993, after a long history of foreign rule and decades of war, the small East African country of Eritrea began three days of voting on a referendum to make official its independence from Ethiopia.".</h3 quote></h3 OTD
