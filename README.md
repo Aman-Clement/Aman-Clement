@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Voting for Eritrea's independence ".</h2 head><h3 quote align='center'>"On this day in 1993, after a long history of foreign rule and decades of war, the small East African country of Eritrea began three days of voting on a referendum to make official its independence from Ethiopia.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Installation of Pope Benedict XVI".</h2 head><h3 quote align='center'>"On this day in 2005, Pope Benedict XVI (Joseph Ratzinger), successor to John Paul II, formally assumed his position as the new leader of the Roman Catholic Church during a mass in St. Peter's Square in Vatican City.".</h3 quote></h3 OTD
