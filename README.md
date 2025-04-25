@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Installation of Pope Benedict XVI".</h2 head><h3 quote align='center'>"On this day in 2005, Pope Benedict XVI (Joseph Ratzinger), successor to John Paul II, formally assumed his position as the new leader of the Roman Catholic Church during a mass in St. Peter's Square in Vatican City.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Hubble Space Telescope sent into orbit".</h2 head><h3 quote align='center'>"The Hubble Space Telescope, a sophisticated optical observatory built in the United States under the supervision of NASA, was placed into operation this day in 1990 by the crew of the space shuttle Discovery.".</h3 quote></h3 OTD
