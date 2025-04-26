@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Hubble Space Telescope sent into orbit".</h2 head><h3 quote align='center'>"The Hubble Space Telescope, a sophisticated optical observatory built in the United States under the supervision of NASA, was placed into operation this day in 1990 by the crew of the space shuttle Discovery.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Chernobyl nuclear accident".</h2 head><h3 quote align='center'>"A devastating environmental catastrophe occurred early this morning in 1986 when an explosion and fire at the Chernobyl nuclear power plant in Ukraine released large amounts of radioactive material into the atmosphere.\\".</h3 quote></h3 OTD
