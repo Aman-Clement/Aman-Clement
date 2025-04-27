@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Chernobyl nuclear accident".</h2 head><h3 quote align='center'>"A devastating environmental catastrophe occurred early this morning in 1986 when an explosion and fire at the Chernobyl nuclear power plant in Ukraine released large amounts of radioactive material into the atmosphere.\\".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Independence for Sierra Leone".</h2 head><h3 quote align='center'>"Sierra Leone\u2014which for years had been a British colony and protectorate\u2014achieved independence within the British Commonwealth; Sir Milton Margai served as the first prime minister. Sort fact from fiction in our quiz about Africa".</h3 quote></h3 OTD
