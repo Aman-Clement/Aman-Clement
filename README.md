@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Independence for Sierra Leone".</h2 head><h3 quote align='center'>"Sierra Leone\u2014which for years had been a British colony and protectorate\u2014achieved independence within the British Commonwealth; Sir Milton Margai served as the first prime minister. Sort fact from fiction in our quiz about Africa".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Benito Mussolini executed".</h2 head><h3 quote align='center'>"Italian dictator Benito Mussolini, \u201cIl Duce,\u201d who, after a series of military misadventures, became unpopular even among his fellow Fascists, was captured while trying to flee Italy and was executed on this day in 1945. Sort fact from fiction in our quiz about World War II".</h3 quote></h3 OTD
