@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Benito Mussolini executed".</h2 head><h3 quote align='center'>"Italian dictator Benito Mussolini, \u201cIl Duce,\u201d who, after a series of military misadventures, became unpopular even among his fellow Fascists, was captured while trying to flee Italy and was executed on this day in 1945. Sort fact from fiction in our quiz about World War II".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"British royal wedding".</h2 head><h3 quote align='center'>"On this day in 2011, Prince William of Wales, second in line to the British throne, married his longtime girlfriend, Catherine Middleton, in a lavish ceremony broadcast to millions of television viewers. Take our quiz about William and Catherine".</h3 quote></h3 OTD
