@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"British royal wedding".</h2 head><h3 quote align='center'>"On this day in 2011, Prince William of Wales, second in line to the British throne, married his longtime girlfriend, Catherine Middleton, in a lavish ceremony broadcast to millions of television viewers. Take our quiz about William and Catherine".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"George Washington inaugurated".</h2 head><h3 quote align='center'>"George Washington, the first president of the United States, was inaugurated this day in 1789 in Federal Hall in New York City, addressing his constituency on \u201cthe proceedings of a new and free government.\u201d How much do you know about U.S. presidential history?".</h3 quote></h3 OTD
