@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"May Day founded".</h2 head><h3 quote align='center'>"On this day in 1889, May Day\u2014traditionally a celebration of the return of spring, marked by dancing around a Maypole\u2014was first observed as a labour holiday, designated as such by the International Socialist Congress.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Lou Gehrig's 2,130-game streak ended".</h2 head><h3 quote align='center'>"On this day in 1939, New York Yankee great Lou Gehrig, the \u201cIron Horse\u201d of American baseball, ended his streak of consecutive games played (2,130), setting a record that stood until 1995, when it was broken by Cal Ripken, Jr. Read our list of the 10 greatest baseball players of all time".</h3 quote></h3 OTD
