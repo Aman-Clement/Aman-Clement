@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Lou Gehrig's 2,130-game streak ended".</h2 head><h3 quote align='center'>"On this day in 1939, New York Yankee great Lou Gehrig, the \u201cIron Horse\u201d of American baseball, ended his streak of consecutive games played (2,130), setting a record that stood until 1995, when it was broken by Cal Ripken, Jr. Read our list of the 10 greatest baseball players of all time".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Margaret Thatcher elected prime minister of Britain".</h2 head><h3 quote align='center'>"On this day in 1979, Margaret Thatcher of the Conservative Party was elected British prime minister, becoming the first woman in Europe to hold that post; she later became the longest continuously serving British premier since 1827. Test your knowledge of notable prime ministers".</h3 quote></h3 OTD
