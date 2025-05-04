@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Margaret Thatcher elected prime minister of Britain".</h2 head><h3 quote align='center'>"On this day in 1979, Margaret Thatcher of the Conservative Party was elected British prime minister, becoming the first woman in Europe to hold that post; she later became the longest continuously serving British premier since 1827. Test your knowledge of notable prime ministers".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Four students shot at Kent State".</h2 head><h3 quote align='center'>"On this day in 1970, an anti-Vietnam War demonstration at Kent State University turned deadly when the Ohio National Guard shot four unarmed students and wounded nine others, further turning public opinion against the war. How much do you know about the Vietnam War?".</h3 quote></h3 OTD
