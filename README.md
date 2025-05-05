@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Four students shot at Kent State".</h2 head><h3 quote align='center'>"On this day in 1970, an anti-Vietnam War demonstration at Kent State University turned deadly when the Ohio National Guard shot four unarmed students and wounded nine others, further turning public opinion against the war. How much do you know about the Vietnam War?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Mexican victory in the Battle of Puebla".</h2 head><h3 quote align='center'>"On this day in 1862, Mexico repelled the French forces of Napoleon III at the Battle of Puebla, a victory that became a symbol of resistance to foreign domination and is now celebrated as a national holiday, Cinco de Mayo.".</h3 quote></h3 OTD
