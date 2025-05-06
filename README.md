@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Mexican victory in the Battle of Puebla".</h2 head><h3 quote align='center'>"On this day in 1862, Mexico repelled the French forces of Napoleon III at the Battle of Puebla, a victory that became a symbol of resistance to foreign domination and is now celebrated as a national holiday, Cinco de Mayo.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Hindenburg disaster".</h2 head><h3 quote align='center'>"On this day in 1937, while landing at Lakehurst, New Jersey, on its first transatlantic crossing of the year, the German dirigible Hindenburg burst into flames and was destroyed, killing 36 of the 97 persons aboard. Take our quiz about early aviation".</h3 quote></h3 OTD
