@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Hindenburg disaster".</h2 head><h3 quote align='center'>"On this day in 1937, while landing at Lakehurst, New Jersey, on its first transatlantic crossing of the year, the German dirigible Hindenburg burst into flames and was destroyed, killing 36 of the 97 persons aboard. Take our quiz about early aviation".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Theatre Royal opened".</h2 head><h3 quote align='center'>"The Theatre Royal, built by the dramatist Thomas Killigrew for his company of actors and now commonly known as the Drury Lane Theatre, opened in London this day in 1663 and is the oldest English theatre still in use. How much do you know about theatre?".</h3 quote></h3 OTD
