@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"\u201cNew Rome\u201d established by Constantine".</h2 head><h3 quote align='center'>"On this day in 330, Constantine I dedicated Byzantium (Constantinople; now Istanbul) as the new capital of the Eastern Roman Empire, an act that helped transform it into a leading city of the world.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First flight over the North Pole".</h2 head><h3 quote align='center'>"Aboard the semirigid airship Norge, Norwegian explorer Roald Amundsen, American scientist Lincoln Ellsworth, and Italian engineer Umberto Nobile made the first undisputed flight over the North Pole on this day in 1926. Take our quiz about exploration and discovery".</h3 quote></h3 OTD
