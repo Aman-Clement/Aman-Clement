@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"U.S. declaration of war on Mexico approved".</h2 head><h3 quote align='center'>"Tensions between Mexico and the United States\u2014stemming from the U.S. annexation of Texas (1845)\u2014led the U.S. Congress on this day in 1846 to approve overwhelmingly a declaration of war against Mexico. Sort fact from fiction in our quiz about wars throughout history".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Declaration of Israel's statehood".</h2 head><h3 quote align='center'>"On this day in 1948\u2014just before the expiry of the British mandate in Palestine\u2014David Ben-Gurion and the Jewish People's Council proclaimed the establishment of the State of Israel, precipitating the first Arab-Israeli war. Sort fact from fiction in our quiz about the Middle East".</h3 quote></h3 OTD
