@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Warsaw Ghetto Uprising suppressed".</h2 head><h3 quote align='center'>"On this day in 1943, Nazi troops quelled the month-long Warsaw Ghetto Uprising, in which Polish Jews and partisan fighters, led by Mordecai Anielewicz and the Jewish Fighting Organization, resisted deportation to the Treblinka extermination camp.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"School segregation outlawed by U.S. Supreme Court".</h2 head><h3 quote align='center'>"On this day in 1954, lawyer Thurgood Marshall scored a landmark victory as the U.S. Supreme Court unanimously ruled in Brown v. Board of Education of Topeka that racial segregation in public schools was unconstitutional. Read our list of 10 milestones in U.S. civil rights history".</h3 quote></h3 OTD
