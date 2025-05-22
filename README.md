@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First nonstop solo transatlantic flight made by Charles Lindbergh".</h2 head><h3 quote align='center'>"American aviator Charles Lindbergh completed the first nonstop solo flight across the Atlantic Ocean on this day in 1927, traveling from New York to Paris in the monoplane Spirit of Saint Louis in about 33.5 hours. Watch a brief video of Charles Lindbergh and the Spirit of Saint Louis".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Roman Emperor Constantine I baptized".</h2 head><h3 quote align='center'>"On this day in 337, Constantine the Great, who had practiced Christianity since his youth and sparked its growth into a world religion, became on his deathbed the first Roman emperor to be baptized in the Christian church. Test your knowledge of the history of Christianity".</h3 quote></h3 OTD
