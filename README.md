@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Roman Emperor Constantine I baptized".</h2 head><h3 quote align='center'>"On this day in 337, Constantine the Great, who had practiced Christianity since his youth and sparked its growth into a world religion, became on his deathbed the first Roman emperor to be baptized in the Christian church. Test your knowledge of the history of Christianity".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Tibet annexed by China".</h2 head><h3 quote align='center'>"China formally annexed Tibet as an autonomous region on this day in 1951, giving rise to a Tibetan independence movement\u2014led by the Dalai Lama, winner of the 1989 Nobel Peace Prize\u2014that continued into the early 21st century. Sort fact from fiction in our quiz about China".</h3 quote></h3 OTD
