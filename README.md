@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Opening of the Brooklyn Bridge".</h2 head><h3 quote align='center'>"A brilliant feat of 19th-century engineering, the Brooklyn Bridge\u2014spanning the East River from Brooklyn to Manhattan Island in New York City\u2014opened this day in 1883, designed by civil engineer John Augustus Roebling. How much do you know about bridges?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"U.S. Constitutional Convention opened in Philadelphia".</h2 head><h3 quote align='center'>"On this day in 1787, the Constitutional Convention opened in Philadelphia, where 55 state delegates, initially charged with amending the Articles of Confederation, later drafted the Constitution of the United States. Take our quiz about the history of the U.S. Constitution".</h3 quote></h3 OTD
