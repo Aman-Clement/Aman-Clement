@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"U.S. Constitutional Convention opened in Philadelphia".</h2 head><h3 quote align='center'>"On this day in 1787, the Constitutional Convention opened in Philadelphia, where 55 state delegates, initially charged with amending the Articles of Confederation, later drafted the Constitution of the United States. Take our quiz about the history of the U.S. Constitution".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Martin Luther declared a heretic by the Edict of Worms".</h2 head><h3 quote align='center'>"Passed this day in 1521, the Edict of Worms banned the writings of Martin Luther\u2014a German cleric whose efforts to change the church led to the Reformation\u2014and declared him an outlaw and a heretic who was to be captured. Take our quiz about the history of Christianity".</h3 quote></h3 OTD
