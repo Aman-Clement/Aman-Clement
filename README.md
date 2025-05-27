@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Martin Luther declared a heretic by the Edict of Worms".</h2 head><h3 quote align='center'>"Passed this day in 1521, the Edict of Worms banned the writings of Martin Luther\u2014a German cleric whose efforts to change the church led to the Reformation\u2014and declared him an outlaw and a heretic who was to be captured. Take our quiz about the history of Christianity".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Founding of St. Petersburg".</h2 head><h3 quote align='center'>"Founded this day in 1703 by Peter the Great, St. Petersburg has played a vital role in Russian history and is especially known as the scene of the 1917 revolutions and as a fiercely defended city during World War II. Test your knowledge of Russian history".</h3 quote></h3 OTD
