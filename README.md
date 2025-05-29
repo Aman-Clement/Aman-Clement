@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Amnesty International founded".</h2 head><h3 quote align='center'>"Dedicated to informing public opinion about human rights and to securing the release of political prisoners, Amnesty International was founded in London on this day in 1961 and won the 1977 Nobel Peace Prize. Sort fact from fiction in our quiz about world organizations".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Mount Everest summit reached by Edmund Hillary and Tenzing Norgay ".</h2 head><h3 quote align='center'>"Following numerous failed attempts by others, Edmund Hillary and Tenzing Norgay became the first climbers to surmount Mount Everest, the highest mountain in the world (29,032 feet [8,849 metres]), on this day in 1953. How much do you know about Mount Everest?".</h3 quote></h3 OTD
