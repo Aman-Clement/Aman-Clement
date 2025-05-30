@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Mount Everest summit reached by Edmund Hillary and Tenzing Norgay ".</h2 head><h3 quote align='center'>"Following numerous failed attempts by others, Edmund Hillary and Tenzing Norgay became the first climbers to surmount Mount Everest, the highest mountain in the world (29,032 feet [8,849 metres]), on this day in 1953. How much do you know about Mount Everest?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Joan of Arc burned at the stake".</h2 head><h3 quote align='center'>"Having led the French army in a momentous victory over England at Orl\u00e9ans during the Hundred Years' War, Joan of Arc was charged with heresy and witchcraft and, on this day in 1431, was burned at the stake. How much do you know about French history?".</h3 quote></h3 OTD
