@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Joan of Arc burned at the stake".</h2 head><h3 quote align='center'>"Having led the French army in a momentous victory over England at Orl\u00e9ans during the Hundred Years' War, Joan of Arc was charged with heresy and witchcraft and, on this day in 1431, was burned at the stake. How much do you know about French history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Adolf Eichmann hanged".</h2 head><h3 quote align='center'>"On this day in 1962, the State of Israel hanged German official Adolf Eichmann, who had escaped from a prison camp in 1946 and spent some 14 years in hiding, for his part in the Nazi extermination of Jews during World War II. Test your knowledge of infamous Nazis".</h3 quote></h3 OTD
