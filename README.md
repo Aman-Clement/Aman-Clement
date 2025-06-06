@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Start of the Six-Day War".</h2 head><h3 quote align='center'>"Israel\u2014amid rising tensions with Egypt, Syria, and Jordan\u2014staged a preemptive air assault and soundly defeated those Arab countries, notably seizing the Old City of Jerusalem and the Gaza Strip before a cease-fire. Sort fact from fiction in our quiz about the Middle East".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Normandy Invasion begun".</h2 head><h3 quote align='center'>"Led by U.S. General Dwight D. Eisenhower, an Allied armada of ships, planes, and landing craft and some 156,000 troops began the invasion of northern France from England this day in 1944\u2014the famous \u201cD-Day\u201d of World War II. Find out how the Allies reclaimed Europe from Nazi Germany".</h3 quote></h3 OTD
