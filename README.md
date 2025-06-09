@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Michelangelo's David installed in Florence".</h2 head><h3 quote align='center'>"Believed to have been installed this day in 1504 in the cathedral of Florence was Michelangelo's statue of David, commissioned in 1501 and considered the prime statement of the Renaissance ideal of perfect humanity. How much do you know about Italian Renaissance art?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Landslide reelection victory for Margaret Thatcher".</h2 head><h3 quote align='center'>"British Conservative Prime Minister Margaret Thatcher, buoyed by victory in the Falkland Islands War and by deep divisions within the opposition Labour Party, was easily reelected to a second term in office this day in 1983. Test your knowledge of notable prime ministers".</h3 quote></h3 OTD
