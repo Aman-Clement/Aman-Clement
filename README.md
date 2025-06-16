@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Magna Carta sealed by King John".</h2 head><h3 quote align='center'>"Magna Carta\u2014a charter of English liberties that occupies a unique place in the popular imagination as a symbol and a battle cry against oppression\u2014was sealed this day, under threat of civil war, by King John in 1215. Take our quiz about famous documents".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First woman in space".</h2 head><h3 quote align='center'>"On this day in 1963, Soviet cosmonaut Valentina V. Tereshkova became the first woman to travel in space, having been launched into orbit aboard the spacecraft Vostok 6, which completed 48 orbits in 71 hours. How much do you know about space exploration?".</h3 quote></h3 OTD
