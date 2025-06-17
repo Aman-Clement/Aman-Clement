@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First woman in space".</h2 head><h3 quote align='center'>"On this day in 1963, Soviet cosmonaut Valentina V. Tereshkova became the first woman to travel in space, having been launched into orbit aboard the spacecraft Vostok 6, which completed 48 orbits in 71 hours. How much do you know about space exploration?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Arrest of O.J. Simpson".</h2 head><h3 quote align='center'>"On this day in 1994, American gridiron football hero O.J. Simpson was charged with the murders of his ex-wife Nicole Simpson and her friend Ronald Goldman, though after a sensational trial he was acquitted the following year.".</h3 quote></h3 OTD
