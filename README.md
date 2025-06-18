@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Arrest of O.J. Simpson".</h2 head><h3 quote align='center'>"On this day in 1994, American gridiron football hero O.J. Simpson was charged with the murders of his ex-wife Nicole Simpson and her friend Ronald Goldman, though after a sensational trial he was acquitted the following year.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"War of 1812 begun".</h2 head><h3 quote align='center'>"On this day U.S. President James Madison signed a declaration of war against Great Britain, initiating the War of 1812, which arose chiefly from U.S. grievances over oppressive maritime practices during the Napoleonic Wars. Take our history of war quiz".</h3 quote></h3 OTD
