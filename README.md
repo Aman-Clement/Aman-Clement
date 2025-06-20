@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Rosenbergs executed for espionage".</h2 head><h3 quote align='center'>"After the failure of court appeals and of a worldwide campaign for mercy, husband and wife Julius and Ethel Rosenberg were put to death this day in 1953, becoming the first American civilians to be executed for espionage. Read about 10 famous names in the espionage game".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Casket Letters found".</h2 head><h3 quote align='center'>"The Casket Letters\u2014which directly implicated Mary, Queen of Scots, in a plot with James Hepburn, 4th earl of Bothwell, to murder Mary's husband, Henry Stewart, Lord Darnley\u2014were said to have been discovered this day in 1567. Test your knowledge of kings and queens".</h3 quote></h3 OTD
