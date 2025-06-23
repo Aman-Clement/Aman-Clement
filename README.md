@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Mutiny against Henry Hudson".</h2 head><h3 quote align='center'>"On this day in 1611, English explorer Henry Hudson\u2014who earlier had tried to discover a short route from Europe to Asia through the Arctic Ocean\u2014was set adrift with his son and seven others in Hudson Bay by mutineers. Take our quiz about exploration and discovery".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Battle of Bannockburn".</h2 head><h3 quote align='center'>"On this day in 1314 began the Battle of Bannockburn, a decisive engagement in Scottish history whereby the Scots defeated the English, regained their independence, and established Robert the Bruce as Robert I.".</h3 quote></h3 OTD
