@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Russia invaded by Napoleon and his Grand Army".</h2 head><h3 quote align='center'>"On this day in 1812, French Emperor Napoleon\u2014who had massed his troops in Poland in the spring to intimidate Russian Tsar Alexander I\u2014and 600,000 troops of his Grand Army launched an ill-fated invasion of Russia. How much do you know about Napoleon?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Korean War begun".</h2 head><h3 quote align='center'>"On this day in 1950, North Korea unleashed an attack southward across the 38th parallel, after which the UN Security Council (minus the Soviet delegate) passed a resolution calling on UN members to assist South Korea. Sort fact from fiction in our quiz about Korea".</h3 quote></h3 OTD
