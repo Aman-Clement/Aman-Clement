@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Korean War begun".</h2 head><h3 quote align='center'>"On this day in 1950, North Korea unleashed an attack southward across the 38th parallel, after which the UN Security Council (minus the Soviet delegate) passed a resolution calling on UN members to assist South Korea. Sort fact from fiction in our quiz about Korea".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Opening of CN Tower".</h2 head><h3 quote align='center'>"CN Tower, which opened to the public this day in 1976, was\u2014at 1,815 feet (553 meters)\u2014the world's tallest freestanding structure until being surpassed in 2007 by the Burj Khalifa in Dubai, United Arab Emirates. Can you match the famous building to its city?".</h3 quote></h3 OTD
