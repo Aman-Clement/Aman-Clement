@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Opening of CN Tower".</h2 head><h3 quote align='center'>"CN Tower, which opened to the public this day in 1976, was\u2014at 1,815 feet (553 meters)\u2014the world's tallest freestanding structure until being surpassed in 2007 by the Burj Khalifa in Dubai, United Arab Emirates. Can you match the famous building to its city?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Yen made official monetary unit of Japan".</h2 head><h3 quote align='center'>"First minted in 1869, the yen was adopted as Japan's official monetary unit this day in 1871, when the government suspended the exchange of clan notes, money issued by feudal lords that had circulated since the 16th century. How much do you know about the history of currency?".</h3 quote></h3 OTD
