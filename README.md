@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Assassination of Archduke Franz Ferdinand".</h2 head><h3 quote align='center'>"On this day in 1914, Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, and his consort, Sophie, were assassinated by Gavrilo Princip in Sarajevo, Bosnia, precipitating the outbreak of World War I. How much do you know about World War I?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"London's Globe Theatre destroyed by fire".</h2 head><h3 quote align='center'>"During a performance of William Shakespeare's Henry VIII on this day in 1613, the Globe Theatre was destroyed within an hour after its thatch was accidentally set aflame by a cannon marking the king's entrance onstage. Take our history of theatre quiz".</h3 quote></h3 OTD
