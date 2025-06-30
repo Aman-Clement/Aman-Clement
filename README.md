@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"London's Globe Theatre destroyed by fire".</h2 head><h3 quote align='center'>"During a performance of William Shakespeare's Henry VIII on this day in 1613, the Globe Theatre was destroyed within an hour after its thatch was accidentally set aflame by a cannon marking the king's entrance onstage. Take our history of theatre quiz".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Night of the Long Knives".</h2 head><h3 quote align='center'>"On this date in 1934 occurred the \u201cNight of the Long Knives,\u201d in which German dictator Adolf Hitler had his elite SS guards summarily execute many leading officials of the SA, a Nazi paramilitary group. Take our quiz about Adolf Hitler".</h3 quote></h3 OTD
