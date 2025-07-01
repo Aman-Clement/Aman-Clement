@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Night of the Long Knives".</h2 head><h3 quote align='center'>"On this date in 1934 occurred the \u201cNight of the Long Knives,\u201d in which German dictator Adolf Hitler had his elite SS guards summarily execute many leading officials of the SA, a Nazi paramilitary group. Take our quiz about Adolf Hitler".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Dominion of Canada established".</h2 head><h3 quote align='center'>"The Dominion of Canada was formed this day in 1867, an event subsequently celebrated as an annual Canadian holiday (its current name, Canada Day, was adopted in 1982) marked by parades, fireworks, and the display of flags. Sort fact from fiction in our quiz about Canada".</h3 quote></h3 OTD
