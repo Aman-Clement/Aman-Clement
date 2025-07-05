@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Declaration of Independence approved by the Second Continental Congress".</h2 head><h3 quote align='center'>"The Declaration of Independence, adopted this day in 1776 by the Second Continental Congress, called for the American colonies to secede from Great Britain, a proclamation now commemorated as Independence Day in the United States. How much do you know about American history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Israel's Law of Return passed".</h2 head><h3 quote align='center'>"Passed this day in 1950 by the Knesset, the Law of Return granted Jews the freedom to immigrate to Israel and receive immediate citizenship, but it proved controversial when the question \u201cWho is a Jew?\u201d raised other issues.".</h3 quote></h3 OTD
