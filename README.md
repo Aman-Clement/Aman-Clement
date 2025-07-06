@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Israel's Law of Return passed".</h2 head><h3 quote align='center'>"Passed this day in 1950 by the Knesset, the Law of Return granted Jews the freedom to immigrate to Israel and receive immediate citizenship, but it proved controversial when the question \u201cWho is a Jew?\u201d raised other issues.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Anne Frank forced into hiding".</h2 head><h3 quote align='center'>"Anne Frank and her family went into hiding in Amsterdam on this day in 1942 and lived in a secret annex\u2014an experience documented in her diary, which became a classic of war literature\u2014until their capture on August 4, 1944. Take a tour of the Anne Frank House in Amsterdam".</h3 quote></h3 OTD
