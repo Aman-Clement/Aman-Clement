@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Vasco da Gama's first voyage to India".</h2 head><h3 quote align='center'>"On this day in 1497, Vasco da Gama sailed from Lisbon with a fleet of four vessels, and he ultimately opened a sea route from western Europe to Asia by way of the Cape of Good Hope, ushering in a new era in world history. Take our quiz about explorers and exploration".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Catherine the Great assumed power".</h2 head><h3 quote align='center'>"Catherine the Great overthrew Peter III on this day in 1762 and began her reign as empress of Russia, leading her country into full participation in the political and cultural life of Europe and extending Russian territory. Test your knowledge of Russian history".</h3 quote></h3 OTD
