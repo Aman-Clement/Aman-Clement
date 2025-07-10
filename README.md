@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Catherine the Great assumed power".</h2 head><h3 quote align='center'>"Catherine the Great overthrew Peter III on this day in 1762 and began her reign as empress of Russia, leading her country into full participation in the political and cultural life of Europe and extending Russian territory. Test your knowledge of Russian history".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Telstar 1 launched".</h2 head><h3 quote align='center'>"Telstar 1, the first communications satellite to transmit live television signals and telephone conversations across the Atlantic Ocean, was launched this day in 1962, inaugurating a new age in electronic communications. Sort fact from fiction in our quiz about objects in space".</h3 quote></h3 OTD
