@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Duel between Aaron Burr and Alexander Hamilton".</h2 head><h3 quote align='center'>"Outraged over disparaging remarks that Alexander Hamilton had allegedly made at a dinner party, Aaron Burr challenged his longtime rival to a duel, and on this day in 1804 he fatally shot Hamilton in Weehawken, New Jersey. Read more about this and other famous duels".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Geraldine Ferraro designated running mate of Walter Mondale".</h2 head><h3 quote align='center'>"Democratic presidential candidate Walter F. Mondale put forward Geraldine Ferraro as his running mate on this day in 1984, making her the first woman ever nominated for vice president by a major U.S. political party. Test your knowledge of famous firsts for women".</h3 quote></h3 OTD
