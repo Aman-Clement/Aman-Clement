@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Geraldine Ferraro designated running mate of Walter Mondale".</h2 head><h3 quote align='center'>"Democratic presidential candidate Walter F. Mondale put forward Geraldine Ferraro as his running mate on this day in 1984, making her the first woman ever nominated for vice president by a major U.S. political party. Test your knowledge of famous firsts for women".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"French revolutionary Jean-Paul Marat assassinated".</h2 head><h3 quote align='center'>"On this day in 1793, Jean-Paul Marat, a leader of the radical Montagnard faction during the French Revolution, was stabbed to death in his bath by Charlotte Corday, a young Girondin supporter who was subsequently guillotined. How much do you know about French history?".</h3 quote></h3 OTD
