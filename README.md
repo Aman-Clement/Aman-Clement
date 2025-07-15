@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Bastille stormed by Paris mob".</h2 head><h3 quote align='center'>"On this day in 1789, a mob advanced on the Bastille in Paris, demanding the arms and munitions stored there, but, when the guards resisted, the crowd captured the prison, an act that symbolized the end of the ancien r\u00e9gime. How much do you know about French history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Close-up pictures of Mars provided by Mariner 4".</h2 head><h3 quote align='center'>"Mariner 4, an uncrewed space probe launched by NASA in 1964, flew by Mars and returned close-up pictures of its surface on this day in 1965, the pictures proving that the planet's rumoured canals were actually illusions. Sort fact from fiction in our quiz about Mars".</h3 quote></h3 OTD
