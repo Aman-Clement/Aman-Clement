@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First atomic bomb exploded near Alamogordo, New Mexico".</h2 head><h3 quote align='center'>"The United States tested the first atomic bomb this day in 1945 near Alamogordo, New Mexico, and the following month dropped atomic bombs on Hiroshima and Nagasaki in Japan, hastening the end of World War II. Take our quiz about World War II".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Beginning of the Spanish Civil War ".</h2 head><h3 quote align='center'>"A well-planned uprising by Nationalist rebels against the Republican government of Spain began this day in 1936, sparking a bloody civil war that lasted until 1939, when the Nationalists and Francisco Franco assumed power. How much do you know about European history?".</h3 quote></h3 OTD
