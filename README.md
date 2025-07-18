@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Beginning of the Spanish Civil War ".</h2 head><h3 quote align='center'>"A well-planned uprising by Nationalist rebels against the Republican government of Spain began this day in 1936, sparking a bloody civil war that lasted until 1939, when the Nationalists and Francisco Franco assumed power. How much do you know about European history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Publication of Mein Kampf".</h2 head><h3 quote align='center'>"The first volume of Mein Kampf, the political manifesto written by Adolf Hitler that became the bible of Nazism in Germany's Third Reich, was published this day in 1925, and two years later the second volume appeared. Read our list of nine things you may not know about Adolf Hitler".</h3 quote></h3 OTD
