@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First Moon landing".</h2 head><h3 quote align='center'>"On this day in 1969, the Eagle lunar landing module, carrying U.S. astronauts Neil Armstrong and Edwin (\u201cBuzz\u201d) Aldrin, landed on the Moon, and several hours later Armstrong became the first person to set foot on its surface. Sort fact from fiction in our quiz about visiting the Moon".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Egyptians defeated in the Battle of the Pyramids".</h2 head><h3 quote align='center'>"Napoleon's Army of Egypt used a new military tactic, the massive divisional square, to defeat the Egyptian forces of Mur\u0101d Bey this day in 1798 at the Battle of the Pyramids during Napoleon's Egyptian campaign. How much do you know about Napoleon?".</h3 quote></h3 OTD
