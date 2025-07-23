@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Deng Xiaoping reinstated".</h2 head><h3 quote align='center'>"After falling from favour during the Cultural Revolution (1966\u201376), Deng Xiaoping returned to power on this day in 1977 after the Chinese Communist Party reinstated all his former high posts, including that of vice-premier. Sort fact from fiction in our quiz about China".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Egyptian monarchy toppled by coup".</h2 head><h3 quote align='center'>"On this day in 1952, the Free Officers, a nationalistic military group led by Colonel Gamal Abdel Nasser, engineered a coup that overthrew King Farouk I of Egypt, ending the monarchy and bringing Nasser to power. How much do you know about Egyptian history?".</h3 quote></h3 OTD
