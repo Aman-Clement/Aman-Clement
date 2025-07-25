@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Beginning of Mata Hari's trial".</h2 head><h3 quote align='center'>"Dutch-born dancer and courtesan Mata Hari, whose name became a synonym for the seductive female spy, went on trial this day in 1917, accused of spying for Germany, and was subsequently found guilty and shot by a firing squad. Read about 10 famous names in the espionage game".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"American advance into Canada halted by British troops".</h2 head><h3 quote align='center'>"Near Niagara Falls on this day in 1814, British troops commanded by General Phineas Riall thwarted an invasion of Canada by a U.S. force under General Jacob Brown in the Battle of Lundy's Lane during the War of 1812. How much do you know about the history of war?".</h3 quote></h3 OTD
