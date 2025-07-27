@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Suez Canal seized".</h2 head><h3 quote align='center'>"On this day in 1956, Egyptian President Gamal Abdel Nasser seized control of the Suez Canal and nationalized it, sparking a crisis that later resulted in French, British, and Israeli forces briefly occupying parts of Egypt. How much do you know about Egyptian history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Terrorist attack at Atlanta Olympics".</h2 head><h3 quote align='center'>"On this day in 1996 a pipe bomb exploded in Olympic Centennial Park in Atlanta, Georgia, killing 1 person and injuring 111 in the first terrorist attack at the Olympics since the 1972 Games in Munich, West Germany. How much do you know about Olympic history?".</h3 quote></h3 OTD
