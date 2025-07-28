@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Terrorist attack at Atlanta Olympics".</h2 head><h3 quote align='center'>"On this day in 1996 a pipe bomb exploded in Olympic Centennial Park in Atlanta, Georgia, killing 1 person and injuring 111 in the first terrorist attack at the Olympics since the 1972 Games in Munich, West Germany. How much do you know about Olympic history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Beginning of World War I".</h2 head><h3 quote align='center'>"Using the assassination of the Austrian archduke Francis Ferdinand as a pretext to present Serbia with an unacceptable ultimatum, Austria-Hungary declared war on the Slavic country on this day in 1914, sparking World War I. How much do you know about World War I?".</h3 quote></h3 OTD
