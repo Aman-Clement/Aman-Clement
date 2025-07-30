@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"National Aeronautics and Space Administration established".</h2 head><h3 quote align='center'>"Criticized for allowing the Soviet Union to launch the first man-made satellite to orbit Earth (Sputnik 1, on October 4, 1957), U.S. President Dwight D. Eisenhower signed legislation this day in 1958 that created NASA. Take our quiz about space exploration".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The sinking of the Indianapolis".</h2 head><h3 quote align='center'>"The USS Indianapolis was sunk this day in 1945 by a Japanese submarine shortly after delivering the internal components of the atomic bombs that were later dropped on Hiroshima and Nagasaki. Some 900 men died, many of whom succumbed to shark attacks, dehydration, and salt poisoning as they awaited rescue. Sort fact from fiction in our quiz about World War II".</h3 quote></h3 OTD
