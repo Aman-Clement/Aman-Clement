@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The sinking of the Indianapolis".</h2 head><h3 quote align='center'>"The USS Indianapolis was sunk this day in 1945 by a Japanese submarine shortly after delivering the internal components of the atomic bombs that were later dropped on Hiroshima and Nagasaki. Some 900 men died, many of whom succumbed to shark attacks, dehydration, and salt poisoning as they awaited rescue. Sort fact from fiction in our quiz about World War II".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Lunar Roving Vehicle first used on the Moon".</h2 head><h3 quote align='center'>"On this day in 1971, Apollo 15 astronauts James B. Irwin and David Scott first used the four-wheeled battery-powered Lunar Roving Vehicle to extensively explore the Moon's surface, in particular the Hadley-Apennine site. Sort fact from fiction in our quiz about visiting the Moon".</h3 quote></h3 OTD
