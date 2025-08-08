@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Japanese airfield on Guadalcanal seized by Allies".</h2 head><h3 quote align='center'>"In the Allies' first major offensive in the Pacific theatre during World War II, U.S. Marines on this day in 1942 landed on Guadalcanal and captured the airfield from Japan, sparking a battle that lasted some six months. Take our quiz about World War II".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Resignation of U.S. President Nixon".</h2 head><h3 quote align='center'>"Faced with the near-certain prospect of impeachment for his role in the Watergate scandal, U.S. President Richard M. Nixon announced his resignation on this day in 1974 and was succeeded by Gerald Ford the following day. Why was early reporting on Watergate dismissed?".</h3 quote></h3 OTD
