@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Resignation of U.S. President Nixon".</h2 head><h3 quote align='center'>"Faced with the near-certain prospect of impeachment for his role in the Watergate scandal, U.S. President Richard M. Nixon announced his resignation on this day in 1974 and was succeeded by Gerald Ford the following day. Why was early reporting on Watergate dismissed?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Pompey defeated by Julius Caesar at the Battle of Pharsalus".</h2 head><h3 quote align='center'>"During the Roman Civil War of 49\u201345 bce, Julius Caesar's troops on this day in 48 decisively defeated the army of Pompey at the Battle of Pharsalus, causing Pompey to flee to Egypt, where he was subsequently murdered. How much do you know about the Roman Empire?".</h3 quote></h3 OTD
