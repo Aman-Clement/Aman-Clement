@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Jackson Pollock killed in automobile accident".</h2 head><h3 quote align='center'>"American painter Jackson Pollock, a leading exponent of Abstract Expressionism who received great fame and serious recognition for his radical poured, or \u201cdrip,\u201d technique, died this day in 1956 in an automobile accident. Take our quiz about famous artists".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Phonograph invented by Thomas Alva Edison".</h2 head><h3 quote align='center'>"On this day in 1877, American inventor Thomas Alva Edison made perhaps his most original discovery, the phonograph, and his early recordings were indentations embossed into a sheet of tinfoil by a vibrating stylus. Take our quiz about inventors and their inventions".</h3 quote></h3 OTD
