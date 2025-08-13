@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Phonograph invented by Thomas Alva Edison".</h2 head><h3 quote align='center'>"On this day in 1877, American inventor Thomas Alva Edison made perhaps his most original discovery, the phonograph, and his early recordings were indentations embossed into a sheet of tinfoil by a vibrating stylus. Take our quiz about inventors and their inventions".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Fall of the Aztec empire".</h2 head><h3 quote align='center'>"On this day in 1521, Spanish conquistador Hern\u00e1n Cort\u00e9s captured Tenochtitl\u00e1n (now Mexico City) after a 93-day siege, thereby ending the Aztec empire and winning Mexico for the crown of Spain. How much do you know about Latin American history?".</h3 quote></h3 OTD
