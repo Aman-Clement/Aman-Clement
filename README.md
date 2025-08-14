@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Fall of the Aztec empire".</h2 head><h3 quote align='center'>"On this day in 1521, Spanish conquistador Hern\u00e1n Cort\u00e9s captured Tenochtitl\u00e1n (now Mexico City) after a 93-day siege, thereby ending the Aztec empire and winning Mexico for the crown of Spain. How much do you know about Latin American history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Cologne Cathedral completed".</h2 head><h3 quote align='center'>"Originally started in 1248, construction of the cathedral (K\u00f6lner Dom) in Cologne, Germany\u2014the largest Gothic church in northern Europe and the city's major landmark\u2014was finally completed on this day in 1880. Test your knowledge of iconic monuments".</h3 quote></h3 OTD
