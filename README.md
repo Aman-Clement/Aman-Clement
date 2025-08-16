@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Independence for India".</h2 head><h3 quote align='center'>"After three decades, the Indian Independence Movement, led by Mahatma Gandhi, achieved its goal on this day in 1947 as a free and independent India was established, ending nearly 200 years of British rule. Sort fact from fiction in our quiz about India's history".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Leonel Fern\u00e1ndez Reyna inaugurated as president of the Dominican Republic".</h2 head><h3 quote align='center'>"The youngest person ever elected president of the Dominican Republic, Leonel Fern\u00e1ndez Reyna was sworn in this day in 1996 and soon instituted measures intended to curtail corruption and improve the country's economy.".</h3 quote></h3 OTD
