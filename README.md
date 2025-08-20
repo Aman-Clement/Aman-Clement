@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Attempted coup against Gorbachev".</h2 head><h3 quote align='center'>"On this day in 1991, Mikhail Gorbachev, the general secretary of the Communist Party of the Soviet Union (1985\u201391) and president of the Soviet Union (1990\u201391), was briefly ousted in a coup by communist hard-liners. How much do you know about Russian history?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Viking 1 launched".</h2 head><h3 quote align='center'>"The robotic U.S. spacecraft Viking 1, built to explore the surface of Mars, was launched this day in 1975 and nearly one year later landed on Chryse Planitia, a flat lowland region in the northern hemisphere of the planet. Sort fact from fiction in our quiz about Mars".</h3 quote></h3 OTD
