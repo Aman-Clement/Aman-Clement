@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Viking 1 launched".</h2 head><h3 quote align='center'>"The robotic U.S. spacecraft Viking 1, built to explore the surface of Mars, was launched this day in 1975 and nearly one year later landed on Chryse Planitia, a flat lowland region in the northern hemisphere of the planet. Sort fact from fiction in our quiz about Mars".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Mona Lisa stolen".</h2 head><h3 quote align='center'>"On this day in 1911 Leonardo da Vinci's Mona Lisa was stolen from the Louvre by three Italian handymen; it was not recovered until 1913, and the media sensation helped make it one of the world's most famous paintings. Learn more about this and 10 other notable art thefts".</h3 quote></h3 OTD
