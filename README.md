@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Mona Lisa stolen".</h2 head><h3 quote align='center'>"On this day in 1911 Leonardo da Vinci's Mona Lisa was stolen from the Louvre by three Italian handymen; it was not recovered until 1913, and the media sensation helped make it one of the world's most famous paintings. Learn more about this and 10 other notable art thefts".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Wars of the Roses ended in England".</h2 head><h3 quote align='center'>"Henry Tudor (the future Henry VII) defeated the Yorkist king Richard III in the Battle of Bosworth Field on this day in 1485, effectively ending the Wars of the Roses and establishing the Tudor dynasty on the English throne. Take our quiz about the kings of England".</h3 quote></h3 OTD
