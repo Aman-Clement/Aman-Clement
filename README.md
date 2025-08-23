@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Wars of the Roses ended in England".</h2 head><h3 quote align='center'>"Henry Tudor (the future Henry VII) defeated the Yorkist king Richard III in the Battle of Bosworth Field on this day in 1485, effectively ending the Wars of the Roses and establishing the Tudor dynasty on the English throne. Take our quiz about the kings of England".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"William Wallace executed".</h2 head><h3 quote align='center'>"On this day in London, William Wallace was executed for treason, condemned for leading Scottish resistance forces during the first years of the long and ultimately successful struggle to free Scotland from English rule. How much do you know about England, Scotland, and Wales?".</h3 quote></h3 OTD
