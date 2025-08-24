@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"William Wallace executed".</h2 head><h3 quote align='center'>"On this day in London, William Wallace was executed for treason, condemned for leading Scottish resistance forces during the first years of the long and ultimately successful struggle to free Scotland from English rule. How much do you know about England, Scotland, and Wales?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Eruption of Mount Vesuvius".</h2 head><h3 quote align='center'>"Italy's Mount Vesuvius is traditionally believed to have erupted on this day in 79 ce, destroying the ancient cities of Pompeii and Herculaneum, and the excavations of these sites in the mid-18th century precipitated the modern science of archaeology. Take our history buff quiz".</h3 quote></h3 OTD
