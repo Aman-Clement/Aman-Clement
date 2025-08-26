@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Paris liberated".</h2 head><h3 quote align='center'>"On this day in 1944, some two months after the Allied invasion of Normandy, Paris was liberated from German occupiers as the Free French 2nd Armoured Division under General Jacques-Philippe Leclerc entered the city. Sort fact from fiction in our quiz about World War II".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Joan of Arc's arrival in the outskirts of Paris".</h2 head><h3 quote align='center'>"In preparation for an attack on Paris, part of Charles VII's campaign to drive the English from French soil, Joan of Arc and her soldiers reached the city's outskirts on this day in 1429, but the assault ultimately failed. Watch an overview of Joan of Arc's life".</h3 quote></h3 OTD
