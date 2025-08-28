@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The death of Titian".</h2 head><h3 quote align='center'>"Titian, the greatest Italian Renaissance painter of the Venetian school, who was once described as \u201cthe sun amidst small stars not only among the Italians but all the painters of the world,\u201d died this day in 1576. Take our quiz about artists of the Italian Renaissance".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Civil rights march on Washington".</h2 head><h3 quote align='center'>"On this day in 1963, some 200,000 people marched on Washington, D.C., an event that became a high point of the civil rights movement, especially remembered for the famous \u201cI Have a Dream\u201d speech of Martin Luther King, Jr. How much do you know about the civil rights leader?".</h3 quote></h3 OTD
