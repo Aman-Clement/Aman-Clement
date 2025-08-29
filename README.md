@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Civil rights march on Washington".</h2 head><h3 quote align='center'>"On this day in 1963, some 200,000 people marched on Washington, D.C., an event that became a high point of the civil rights movement, especially remembered for the famous \u201cI Have a Dream\u201d speech of Martin Luther King, Jr. How much do you know about the civil rights leader?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Hurricane Katrina makes landfall in Louisiana".</h2 head><h3 quote align='center'>"On this day in 2005, Hurricane Katrina struck the U.S. Gulf Coast and devastated the area, especially New Orleans, which experienced catastrophic flooding after its levees were breached the following day. Watch: Who gets to move on from Hurricane Katrina?".</h3 quote></h3 OTD
