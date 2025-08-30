@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Hurricane Katrina makes landfall in Louisiana".</h2 head><h3 quote align='center'>"On this day in 2005, Hurricane Katrina struck the U.S. Gulf Coast and devastated the area, especially New Orleans, which experienced catastrophic flooding after its levees were breached the following day. Watch: Who gets to move on from Hurricane Katrina?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Historic spaceflight by Guion S. Bluford, Jr.".</h2 head><h3 quote align='center'>"U.S. astronaut Guion S. Bluford, Jr., became on this day in 1983 the first African American to travel into space, serving as a mission specialist aboard the shuttle orbiter Challenger, and later flew on three other missions. Take our quiz about famous astronauts and cosmonauts".</h3 quote></h3 OTD
