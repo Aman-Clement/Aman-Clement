@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Historic spaceflight by Guion S. Bluford, Jr.".</h2 head><h3 quote align='center'>"U.S. astronaut Guion S. Bluford, Jr., became on this day in 1983 the first African American to travel into space, serving as a mission specialist aboard the shuttle orbiter Challenger, and later flew on three other missions. Take our quiz about famous astronauts and cosmonauts".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Confederates evacuated from Atlanta".</h2 head><h3 quote align='center'>"During the American Civil War, the Confederate evacuation of Atlanta began this day in 1864, shortly before Union troops led by William Tecumseh Sherman occupied the city, providing a much-needed victory for the North. How much do you know about the American Civil War?".</h3 quote></h3 OTD
