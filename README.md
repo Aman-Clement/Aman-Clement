@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Los Angeles founded".</h2 head><h3 quote align='center'>"On this day in 1781, Spanish settlers laid claim to what became Los Angeles, now the second most populous U.S. city and the home to Hollywood, whose name is synonymous with the American motion-picture industry.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Evidence provided for black hole theory".</h2 head><h3 quote align='center'>"At a scientific conference in Washington, D.C., this day in 2001, scientists described an observation of energy flares that provided strong evidence of the theorized black hole at the centre of the Milky Way Galaxy. Sort fact from fiction in our quiz about galaxies".</h3 quote></h3 OTD
