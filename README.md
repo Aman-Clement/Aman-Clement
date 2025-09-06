@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Evidence provided for black hole theory".</h2 head><h3 quote align='center'>"At a scientific conference in Washington, D.C., this day in 2001, scientists described an observation of energy flares that provided strong evidence of the theorized black hole at the centre of the Milky Way Galaxy. Sort fact from fiction in our quiz about galaxies".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"U.S. President William McKinley fatally shot".</h2 head><h3 quote align='center'>"Republican William McKinley, the 25th president of the United States (1897\u20131901), was shot this day in 1901 by Leon Czolgosz, an anarchist, at the Pan-American Exposition in Buffalo, New York, and died eight days later.".</h3 quote></h3 OTD
