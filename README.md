@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Joan of Arc attacks Paris".</h2 head><h3 quote align='center'>"On this day in 1429, Joan of Arc, a French farmer's daughter who believed she was acting under divine guidance, attempted to oust the duke of Burgundy and take Paris for newly crowned King Charles VII. Watch an overview of the life and death of Joan of Arc".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Death of Mao".</h2 head><h3 quote align='center'>"Marxist revolutionary Mao Zedong, who died this day in 1976, emerged as the undisputed Chinese Communist Party leader following the Long March (1934\u201335) and dominated China in the period after the communist takeover in 1949. Sort fact from fiction in our quiz about China".</h3 quote></h3 OTD
