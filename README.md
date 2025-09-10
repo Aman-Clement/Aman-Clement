@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Death of Mao".</h2 head><h3 quote align='center'>"Marxist revolutionary Mao Zedong, who died this day in 1976, emerged as the undisputed Chinese Communist Party leader following the Long March (1934\u201335) and dominated China in the period after the communist takeover in 1949. Sort fact from fiction in our quiz about China".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"John Smith chosen president of Jamestown".</h2 head><h3 quote align='center'>"Having survived capture by Indians (reputedly through the efforts of Pocahontas, a chief's daughter), John Smith became president of Jamestown colony, the first permanent English settlement in North America, this day in 1608. Test your knowledge of early America".</h3 quote></h3 OTD
