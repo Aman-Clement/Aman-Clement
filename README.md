@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Death of French composer Rameau".</h2 head><h3 quote align='center'>"French composer of the late Baroque period Jean-Philippe Rameau\u2014known for his harpsichord music and famous as a composer of operas, including the masterpiece Pygmalion (1748)\u2014died on this day in 1764. Take our quiz about composers and their music".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Philip III crowned king of Spain and Portugal".</h2 head><h3 quote align='center'>"King Philip III of Spain (Philip II of Portugal), crowned on this day in 1598, was virtuous in his private affairs but indifferent as a ruler and extravagant in his spending, exacerbating Spain's growing economic problems. Take our quiz about kings and emperors".</h3 quote></h3 OTD
