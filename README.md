@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Mayflower's departure for America".</h2 head><h3 quote align='center'>"On this date in 1620, English colonists aboard the Mayflower set sail for America, where they founded Plymouth, Massachusetts, after 41 men, including William Bradford and Myles Standish, signed the Mayflower Compact.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Camp David Accords concluded".</h2 head><h3 quote align='center'>"The Camp David Accords, negotiated by U.S. President Jimmy Carter, were completed this day in 1978, leading to a peace treaty between Egypt and Israel and a broader framework for pursuing peace in the Middle East. Sort fact from fiction in our quiz about the Middle East".</h3 quote></h3 OTD
