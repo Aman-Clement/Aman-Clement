@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Camp David Accords concluded".</h2 head><h3 quote align='center'>"The Camp David Accords, negotiated by U.S. President Jimmy Carter, were completed this day in 1978, leading to a peace treaty between Egypt and Israel and a broader framework for pursuing peace in the Middle East. Sort fact from fiction in our quiz about the Middle East".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Mukden seized by Japanese".</h2 head><h3 quote align='center'>"On this day in 1931, in the so-called Mukden Incident, the Japanese army in Manchuria used the pretext of an explosion along its railway to occupy Mukden and to increase its control, within three months, to all of Manchuria.".</h3 quote></h3 OTD
