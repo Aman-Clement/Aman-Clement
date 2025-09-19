@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Mukden seized by Japanese".</h2 head><h3 quote align='center'>"On this day in 1931, in the so-called Mukden Incident, the Japanese army in Manchuria used the pretext of an explosion along its railway to occupy Mukden and to increase its control, within three months, to all of Manchuria.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"George Washington's Farewell Address published".</h2 head><h3 quote align='center'>"In his Farewell Address, printed in a Philadelphia newspaper on this day in 1796, George Washington, the first U.S. president, implored his country to maintain neutrality and avoid entangling alliances with Europe. Take our quiz about U.S. presidents".</h3 quote></h3 OTD
