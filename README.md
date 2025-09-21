@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Rome incorporated into Italy".</h2 head><h3 quote align='center'>"On this day in 1870, Italian troops occupied Rome, leading to the eventual incorporation of Rome into the Kingdom of Italy and the limiting of papal governing authority to the Vatican itself and a small district around it.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Joseph Smith's vision of Moroni".</h2 head><h3 quote align='center'>"According to the teachings of the Church of Jesus Christ of Latter-day Saints, Moroni was an angel or resurrected being who appeared to Joseph Smith on this day in 1823 and instructed him to restore God's church on earth.".</h3 quote></h3 OTD
