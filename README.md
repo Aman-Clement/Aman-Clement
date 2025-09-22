@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Joseph Smith's vision of Moroni".</h2 head><h3 quote align='center'>"According to the teachings of the Church of Jesus Christ of Latter-day Saints, Moroni was an angel or resurrected being who appeared to Joseph Smith on this day in 1823 and instructed him to restore God's church on earth.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Solidarity formed".</h2 head><h3 quote align='center'>"Solidarity, the Polish trade union and political party that became a hotbed of resistance to Soviet control, was founded this day in 1980 when delegates of 36 unions met and united under the leadership of Lech Wa\u0142\u0119sa.".</h3 quote></h3 OTD
