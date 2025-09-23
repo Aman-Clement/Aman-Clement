@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Solidarity formed".</h2 head><h3 quote align='center'>"Solidarity, the Polish trade union and political party that became a hotbed of resistance to Soviet control, was founded this day in 1980 when delegates of 36 unions met and united under the leadership of Lech Wa\u0142\u0119sa.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Neptune observed".</h2 head><h3 quote align='center'>"This day in 1846, astronomer Johann Gottfried Galle became the first person ever to observe the planet Neptune, the existence of which had been mathematically predicted by Urbain-Jean-Joseph Le Verrier and John Couch Adams.".</h3 quote></h3 OTD
