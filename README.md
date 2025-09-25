@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Federal troops sent into Little Rock, Arkansas".</h2 head><h3 quote align='center'>"On this day in 1957 racial desegregation took centre stage when federal troops were dispatched to Little Rock, Arkansas, to maintain order and enforce the right of black students to attend the local public high school.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Pacific Ocean sighted by Balboa".</h2 head><h3 quote align='center'>"On this day (or two days later) in 1513, Spanish conquistador and explorer Vasco N\u00fa\u00f1ez de Balboa, standing \u201csilent, upon a peak in Dari\u00e9n,\u201d on the Isthmus of Panama, became the first European to sight the Pacific Ocean.".</h3 quote></h3 OTD
