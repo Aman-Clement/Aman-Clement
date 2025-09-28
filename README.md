@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Norman Conquest begun".</h2 head><h3 quote align='center'>"On this day in 1066, after being delayed by bad weather, William, duke of Normandy, embarked his army and set sail for the southeastern coast of England in what would be known in history as the Norman Conquest.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"California \u201cdiscovered\u201d".</h2 head><h3 quote align='center'>"Explorer Juan Rodr\u00edguez Cabrillo, known as the \u201cdiscoverer\u201d of California, landed this day in 1542 near what is now San Diego and became the first European to set foot on the west coast of what would become the United States.".</h3 quote></h3 OTD
