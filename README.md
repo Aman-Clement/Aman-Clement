@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"California \u201cdiscovered\u201d".</h2 head><h3 quote align='center'>"Explorer Juan Rodr\u00edguez Cabrillo, known as the \u201cdiscoverer\u201d of California, landed this day in 1542 near what is now San Diego and became the first European to set foot on the west coast of what would become the United States.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"British mandate in Palestine".</h2 head><h3 quote align='center'>"Set in motion by the Balfour Declaration of 1917, the British mandate for the establishment of a Jewish homeland in Palestine was finally approved by the Council of the League of Nations and came into force this day in 1923.".</h3 quote></h3 OTD
