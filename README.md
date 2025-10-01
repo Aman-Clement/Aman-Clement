@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Munich Agreement signed".</h2 head><h3 quote align='center'>"The notorious Munich Agreement, in which Britain's Neville Chamberlain encouraged Britain and France to appease Adolf Hitler's demands in the hope of preventing World War II, was reached on this day in 1938.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"People's Republic of China established".</h2 head><h3 quote align='center'>"In Beijing, with most of the Chinese mainland held by the communist People's Liberation Army, its dynamic leader, Mao Zedong, proclaimed the establishment of the People's Republic of China on this day in 1949.".</h3 quote></h3 OTD
