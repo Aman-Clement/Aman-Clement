@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Charles Darwin's return to England".</h2 head><h3 quote align='center'>"Naturalist Charles Darwin returned to England this day in 1836 after a five-year journey on the HMS Beagle, on which he gathered the specimens and observations that led to his theory of evolution by natural selection.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Germany reunified".</h2 head><h3 quote align='center'>"After four decades of Cold War division and with pressure from the German chancellor Helmut Kohl, Soviet leader Mikhail Gorbachev agreed to a unified Germany within NATO, leading to Germany's reunification this day in 1990.".</h3 quote></h3 OTD
