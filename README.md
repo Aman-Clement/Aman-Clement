@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Germany reunified".</h2 head><h3 quote align='center'>"After four decades of Cold War division and with pressure from the German chancellor Helmut Kohl, Soviet leader Mikhail Gorbachev agreed to a unified Germany within NATO, leading to Germany's reunification this day in 1990.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Sputnik 1 launched by U.S.S.R.".</h2 head><h3 quote align='center'>"On this day in 1957 the Soviet Union launched Sputnik 1, the first artificial satellite, which orbited Earth until 1958, inaugurated the space age, and heightened Cold War competition between the U.S.S.R. and the U.S. Explore a timeline of the space race".</h3 quote></h3 OTD
