@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Sputnik 1 launched by U.S.S.R.".</h2 head><h3 quote align='center'>"On this day in 1957 the Soviet Union launched Sputnik 1, the first artificial satellite, which orbited Earth until 1958, inaugurated the space age, and heightened Cold War competition between the U.S.S.R. and the U.S. Explore a timeline of the space race".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Battle of the Thames".</h2 head><h3 quote align='center'>"On this day in 1813, during the War of 1812, a British army with some 1,000 Indian allies under the famed leader Tecumseh was defeated by U.S. troops in the Battle of the Thames in what is now Ontario, Canada.".</h3 quote></h3 OTD
