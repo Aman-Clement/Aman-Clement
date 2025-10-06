@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Battle of the Thames".</h2 head><h3 quote align='center'>"On this day in 1813, during the War of 1812, a British army with some 1,000 Indian allies under the famed leader Tecumseh was defeated by U.S. troops in the Battle of the Thames in what is now Ontario, Canada.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Yom Kippur War".</h2 head><h3 quote align='center'>"On this day in 1973, on the Jewish holy day of Yom Kippur, Egypt and Syria attacked Israel, which suffered heavy casualties, but Israeli forces successfully fought back, and the war eventually ended inconclusively.".</h3 quote></h3 OTD
