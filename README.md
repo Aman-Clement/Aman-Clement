@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Yom Kippur War".</h2 head><h3 quote align='center'>"On this day in 1973, on the Jewish holy day of Yom Kippur, Egypt and Syria attacked Israel, which suffered heavy casualties, but Israeli forces successfully fought back, and the war eventually ended inconclusively.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"UN's foundations built".</h2 head><h3 quote align='center'>"The Dumbarton Oaks Conference concluded in Washington, D.C., on this day in 1944. During the weeks-long conference, the United States, China, the Soviet Union, and the United Kingdom formulated proposals for a world organization that became the basis for the United Nations.".</h3 quote></h3 OTD
