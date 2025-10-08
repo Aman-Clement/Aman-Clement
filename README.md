@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"UN's foundations built".</h2 head><h3 quote align='center'>"The Dumbarton Oaks Conference concluded in Washington, D.C., on this day in 1944. During the weeks-long conference, the United States, China, the Soviet Union, and the United Kingdom formulated proposals for a world organization that became the basis for the United Nations.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Great Chicago Fire".</h2 head><h3 quote align='center'>"On this day in 1871, the Great Chicago Fire began in the barn of Patrick and Catherine O'Leary, and, by the time the blaze died out two days later, a large swath of the city had been devastated and some 300 people killed.".</h3 quote></h3 OTD
