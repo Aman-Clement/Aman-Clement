@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Great Chicago Fire".</h2 head><h3 quote align='center'>"On this day in 1871, the Great Chicago Fire began in the barn of Patrick and Catherine O'Leary, and, by the time the blaze died out two days later, a large swath of the city had been devastated and some 300 people killed.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First Afghan presidential elections".</h2 head><h3 quote align='center'>"On this day in 2004, for the first time in Afghanistan's history, voters went to the polls to choose a president, selecting Hamid Karzai, who had served as the interim president after the fall of the Taliban regime in 2001.".</h3 quote></h3 OTD
