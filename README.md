@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Founding of the U.S. Naval Academy ".</h2 head><h3 quote align='center'>"To improve the then-unsatisfactory methods of instructing midshipmen, George Bancroft\u2014historian, educator, and secretary of the navy\u2014founded the U.S. Naval Academy in Annapolis, Maryland, on this day in 1845.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Opening of the Second Vatican Council".</h2 head><h3 quote align='center'>"The Second Vatican Council, announced by Pope John XXIII in 1959, opened this day in 1962, lasted for three years, and remains a symbol (controversial to some) of the church's readiness to adapt to modern life.".</h3 quote></h3 OTD
