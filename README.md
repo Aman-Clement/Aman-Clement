@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Marie-Antoinette guillotined".</h2 head><h3 quote align='center'>"After the French Revolution began, Marie-Antoinette, queen consort of Louis XVI, was targeted by agitators who, enraged by her extravagance and attempts to save the monarchy, ultimately guillotined her on this day in 1793.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Mother Teresa awarded Nobel Prize".</h2 head><h3 quote align='center'>"On this day in 1979, Mother Teresa, founder of a Roman Catholic order of women dedicated to the poor and particularly to the destitute of India, was named the recipient of that year's Nobel Prize for Peace.".</h3 quote></h3 OTD
