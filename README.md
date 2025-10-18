@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Mother Teresa awarded Nobel Prize".</h2 head><h3 quote align='center'>"On this day in 1979, Mother Teresa, founder of a Roman Catholic order of women dedicated to the poor and particularly to the destitute of India, was named the recipient of that year's Nobel Prize for Peace.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Alaska Purchase approved".</h2 head><h3 quote align='center'>"After much opposition, a deal negotiated by U.S. Secretary of State William Seward for the U.S. purchase of the Russian colony of Alaska was approved, and on this day in 1867 the U.S. flag was flown over the capital, Sitka.".</h3 quote></h3 OTD
