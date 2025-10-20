@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Surrender of Lord Cornwallis".</h2 head><h3 quote align='center'>"On this day in 1781, Britain's Lord Cornwallis surrendered at Yorktown, Virginia, handing a huge victory to American General George Washington and effectively ending the American Revolution and assuring America's independence.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Opening of Sydney Opera House".</h2 head><h3 quote align='center'>"Australia's Sydney Opera House\u2014designed by Danish architect J\u00f8rn Utzon, whose dynamic, imaginative, and problematic plan won an international competition in 1957\u2014was opened by Queen Elizabeth II on this day in 1973.".</h3 quote></h3 OTD
