@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Opening of Sydney Opera House".</h2 head><h3 quote align='center'>"Australia's Sydney Opera House\u2014designed by Danish architect J\u00f8rn Utzon, whose dynamic, imaginative, and problematic plan won an international competition in 1957\u2014was opened by Queen Elizabeth II on this day in 1973.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Magellan's discovery of gateway to circumnavigating the globe".</h2 head><h3 quote align='center'>"On this day in 1520, explorer Ferdinand Magellan and three Spanish ships entered the strait later named for him, sailing between the mainland tip of South America and the island of Tierra del Fuego toward the Pacific Ocean.".</h3 quote></h3 OTD
