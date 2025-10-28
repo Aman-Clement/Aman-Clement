@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Anwar Sadat and Menachem Begin awarded Nobel Peace Prize".</h2 head><h3 quote align='center'>"On this day in 1978, Anwar Sadat of Egypt and Menachem Begin of Israel were awarded the Nobel Prize for Peace for negotiations that resulted first in the Camp David Accords, then in a peace treaty between their countries.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Statue of Liberty dedicated".</h2 head><h3 quote align='center'>"On this day in 1886 U.S. President Grover Cleveland officially dedicated the Statue of Liberty\u2014a gift from the people of France to the people of the United States\u2014on Bedloe's (later Liberty) Island in Upper New York Bay.".</h3 quote></h3 OTD
