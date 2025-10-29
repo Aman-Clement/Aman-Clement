@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Statue of Liberty dedicated".</h2 head><h3 quote align='center'>"On this day in 1886 U.S. President Grover Cleveland officially dedicated the Statue of Liberty\u2014a gift from the people of France to the people of the United States\u2014on Bedloe's (later Liberty) Island in Upper New York Bay.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Collapse of U.S. stock market prices".</h2 head><h3 quote align='center'>"Just five days after nearly 13 million shares of U.S. stock were sold in one day in 1929, an additional 16 million shares were sold this day, called \u201cBlack Tuesday,\u201d further fueling the crisis known as the Great Depression.".</h3 quote></h3 OTD
