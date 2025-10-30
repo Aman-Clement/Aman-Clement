@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Collapse of U.S. stock market prices".</h2 head><h3 quote align='center'>"Just five days after nearly 13 million shares of U.S. stock were sold in one day in 1929, an additional 16 million shares were sold this day, called \u201cBlack Tuesday,\u201d further fueling the crisis known as the Great Depression.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Henry Tudor crowned king of England".</h2 head><h3 quote align='center'>"Henry Tudor, who was crowned Henry VII on this day in 1485, founded the Tudor dynasty, ended the Wars of the Roses, used his children's marriages to build alliances, and signed treaties that increased England's power.".</h3 quote></h3 OTD
