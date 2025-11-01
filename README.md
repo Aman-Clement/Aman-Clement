@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Luther's Ninety-five Theses posted".</h2 head><h3 quote align='center'>"According to tradition, Martin Luther this day in 1517 posted on a church door in Wittenberg, Germany, his Ninety-five Theses, a manifesto that turned a protest about an indulgence scandal into the Protestant Reformation.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First thermonuclear bomb tested by the United States".</h2 head><h3 quote align='center'>"On this day in 1952 on an atoll of the Marshall Islands, Edward Teller and other American scientists tested the first thermonuclear bomb, its power resulting from an uncontrolled, self-sustaining nuclear chain reaction.".</h3 quote></h3 OTD
