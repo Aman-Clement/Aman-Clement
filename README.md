@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Jimmy Carter elected 39th U.S. president".</h2 head><h3 quote align='center'>"Jimmy Carter, recipient of the Nobel Prize for Peace in 2002 and Democratic former governor of Georgia, was elected 39th president of the United States this day in 1976, narrowly defeating Republican Gerald R. Ford.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Laika launched into space".</h2 head><h3 quote align='center'>"On this day in 1957, Laika, a stray dog picked up by the Soviet spaceflight program, became the first living creature to be launched into space and orbit Earth. Discover what how seven other animals became famous".</h3 quote></h3 OTD
