@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Laika launched into space".</h2 head><h3 quote align='center'>"On this day in 1957, Laika, a stray dog picked up by the Soviet spaceflight program, became the first living creature to be launched into space and orbit Earth. Discover what how seven other animals became famous".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Laika launched into space".</h2 head><h3 quote align='center'>"On this day in 1957, Laika, a stray dog picked up by the Soviet spaceflight program, became the first living creature to be launched into space and orbit Earth. Discover how seven other animals became famous".</h3 quote></h3 OTD
