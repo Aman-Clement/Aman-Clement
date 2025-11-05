@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Yitzhak Rabin assassinated".</h2 head><h3 quote align='center'>"Israeli Prime Minister Yitzhak Rabin, corecipient with Shimon Peres and Y\u0101sir \u02bfAraf\u0101t of the Nobel Prize for Peace in 1994, was assassinated this day in 1995 by a Jewish extremist while attending a peace rally.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Gunpowder Plot".</h2 head><h3 quote align='center'>"Celebrated with fireworks as Guy Fawkes Day, this English holiday marks the anniversary of the Gunpowder Plot, when Roman Catholics led by Robert Catesby tried to blow up Parliament, the king, and his family this day in 1605.".</h3 quote></h3 OTD
