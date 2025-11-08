@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Disputed U.S. presidential election".</h2 head><h3 quote align='center'>"On this day in 2000, the U.S. presidential election ended in a statistical tie between Democrat Al Gore and Republican George W. Bush, only to be settled on December 12 by the U.S. Supreme Court after a bitter legal dispute.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Philippines struck by Super Typhoon Haiyan".</h2 head><h3 quote align='center'>"On this day in 2013, the Philippines endured what many consider its worst natural disaster when the country was struck by Super Typhoon Haiyan, one of the most powerful cyclones ever recorded to strike land.".</h3 quote></h3 OTD
