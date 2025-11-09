@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Philippines struck by Super Typhoon Haiyan".</h2 head><h3 quote align='center'>"On this day in 2013, the Philippines endured what many consider its worst natural disaster when the country was struck by Super Typhoon Haiyan, one of the most powerful cyclones ever recorded to strike land.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Opening of the Berlin Wall".</h2 head><h3 quote align='center'>"Long a symbol of the Cold War, the Berlin Wall, erected in 1961 and eventually extending 28 miles (45 km) to divide the western and eastern sectors of Berlin, was opened by the East German government on this day in 1989.".</h3 quote></h3 OTD
