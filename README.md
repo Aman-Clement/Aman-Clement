@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Opening of the Berlin Wall".</h2 head><h3 quote align='center'>"Long a symbol of the Cold War, the Berlin Wall, erected in 1961 and eventually extending 28 miles (45 km) to divide the western and eastern sectors of Berlin, was opened by the East German government on this day in 1989.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Dr. David Livingstone found by Henry Stanley".</h2 head><h3 quote align='center'>"On this day in 1871, according to his journal, explorer Henry Stanley greeted David Livingstone, the fellow explorer in search of the source of the Nile River, with the famous words \u201cDr. Livingstone, I presume?\u201d".</h3 quote></h3 OTD
