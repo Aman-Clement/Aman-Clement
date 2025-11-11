@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Dr. David Livingstone found by Henry Stanley".</h2 head><h3 quote align='center'>"On this day in 1871, according to his journal, explorer Henry Stanley greeted David Livingstone, the fellow explorer in search of the source of the Nile River, with the famous words \u201cDr. Livingstone, I presume?\u201d".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"World War I ends".</h2 head><h3 quote align='center'>"At 5:00 am on this day in 1918, the Allied powers and Germany signed an armistice document in the railway carriage of Ferdinand Foch, the commander of the Allied armies, and six hours later World War I came to an end.".</h3 quote></h3 OTD
