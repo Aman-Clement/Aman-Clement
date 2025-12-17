@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Akihito enthroned".</h2 head><h3 quote align='center'>"Japanese Emperor Akihito\u2014according to tradition, the 125th direct descendant of Jimmu, Japan's legendary first emperor\u2014was formally enthroned on this day in 1990, nearly two years after the death of his father, Hirohito.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The debut of The Simpsons".</h2 head><h3 quote align='center'>"The Simpsons debuted on this day in 1989 with the Christmas special \u201cSimpsons Roasting on an Open Fire.\u201d Weekly episodes began airing in January 1990, and the show went on to become the longest-running animated television series in U.S. history. Take our quiz about The Simpsons".</h3 quote></h3 OTD
