@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The debut of The Simpsons".</h2 head><h3 quote align='center'>"The Simpsons debuted on this day in 1989 with the Christmas special \u201cSimpsons Roasting on an Open Fire.\u201d Weekly episodes began airing in January 1990, and the show went on to become the longest-running animated television series in U.S. history. Take our quiz about The Simpsons".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The missing link that wasn't".</h2 head><h3 quote align='center'>"A British Museum paleontologist announced on this day in 1912 that an amateur geologist had discovered the fossil remains of an extinct human species in England. The remains, known as the Piltdown man, were presented as the missing evolutionary link between apes and early human beings, but by the 1950s they had been exposed as a fraud.".</h3 quote></h3 OTD
