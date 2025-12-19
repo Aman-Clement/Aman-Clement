@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The missing link that wasn't".</h2 head><h3 quote align='center'>"A British Museum paleontologist announced on this day in 1912 that an amateur geologist had discovered the fossil remains of an extinct human species in England. The remains, known as the Piltdown man, were presented as the missing evolutionary link between apes and early human beings, but by the 1950s they had been exposed as a fraud.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Bah, humbug!".</h2 head><h3 quote align='center'>" A Christmas Carol by Charles Dickens was published for the first time on this day in 1843.  It became an instant classic, its story of Ebenezer Scrooge's redemption and the Cratchit family's joy often repeated on stage and screen today. Why did Dickens write A Christmas Carol?".</h3 quote></h3 OTD
