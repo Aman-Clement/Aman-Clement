@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Bah, humbug!".</h2 head><h3 quote align='center'>" A Christmas Carol by Charles Dickens was published for the first time on this day in 1843.  It became an instant classic, its story of Ebenezer Scrooge's redemption and the Cratchit family's joy often repeated on stage and screen today. Why did Dickens write A Christmas Carol?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First volume of Grimm's Fairy Tales published".</h2 head><h3 quote align='center'>"On this day in 1812 brothers Jacob and Wilhelm Grimm published the first volume of stories that would make them famous. Among the 200 or so stories that became known collectively as Grimm's Fairy Tales are \u201cHansel and Gretel,\u201d \u201cSnow White,\u201d \u201cLittle Red Riding Hood,\u201d and \u201cSleeping Beauty.\u201d".</h3 quote></h3 OTD
