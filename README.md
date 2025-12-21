@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First volume of Grimm's Fairy Tales published".</h2 head><h3 quote align='center'>"On this day in 1812 brothers Jacob and Wilhelm Grimm published the first volume of stories that would make them famous. Among the 200 or so stories that became known collectively as Grimm's Fairy Tales are \u201cHansel and Gretel,\u201d \u201cSnow White,\u201d \u201cLittle Red Riding Hood,\u201d and \u201cSleeping Beauty.\u201d".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The first basketball game".</h2 head><h3 quote align='center'>"Gym teacher James Naismith organized the first game of basketball, which was played on this day in 1891 in a school in Springfield, Massachusetts. Chaos reigned and a fight broke out, which prompted Naismith to develop the sport's original rules. Read what James Naismith wrote for Encyclop\u00e6dia Britannica in 1929 ".</h3 quote></h3 OTD
