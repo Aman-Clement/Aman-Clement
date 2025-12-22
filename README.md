@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The first basketball game".</h2 head><h3 quote align='center'>"Gym teacher James Naismith organized the first game of basketball, which was played on this day in 1891 in a school in Springfield, Massachusetts. Chaos reigned and a fight broke out, which prompted Naismith to develop the sport's original rules. Read what James Naismith wrote for Encyclop\u00e6dia Britannica in 1929 ".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Brandenburg Gate reopened".</h2 head><h3 quote align='center'>"On this day in 1989, the Brandenburg Gate in Berlin was reopened as East and West Germany continued moving toward reunification. Berliners had been unable to use the gate since 1961, when the newly built Berlin Wall blocked access to it.".</h3 quote></h3 OTD
