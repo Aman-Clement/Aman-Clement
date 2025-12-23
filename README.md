@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The incident at the Yellow House".</h2 head><h3 quote align='center'>"Vincent van Gogh cut off part of his own left ear on this day in 1888 after a heated argument with fellow artist Paul Gauguin, with whom he had been sharing a house in the south of France. Van Gogh reportedly then delivered his ear to a nearby brothel. Art historians have debated the incident for decades. Discover the ten reasons van Gogh's The Starry Night is a masterpiece".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The incident at the Yellow House".</h2 head><h3 quote align='center'>"Vincent van Gogh cut off part of his own left ear on this day in 1888 after an argument with fellow artist Paul Gauguin, with whom he had been sharing a house. Van Gogh reportedly then delivered his ear to a nearby brothel. Art historians have debated the incident, often framing it within his brief, prolific career and his struggles with mental health. Discover the ten reasons van Gogh's The Starry Night is a masterpiece".</h3 quote></h3 OTD
