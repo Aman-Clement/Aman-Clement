@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Brandenburg Gate reopened".</h2 head><h3 quote align='center'>"On this day in 1989, the Brandenburg Gate in Berlin was reopened as East and West Germany continued moving toward reunification. Berliners had been unable to use the gate since 1961, when the newly built Berlin Wall blocked access to it.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The incident at the Yellow House".</h2 head><h3 quote align='center'>"Vincent van Gogh cut off part of his own left ear on this day in 1888 after a heated argument with fellow artist Paul Gauguin, with whom he had been sharing a house in the south of France. Van Gogh reportedly then delivered his ear to a nearby brothel. Art historians have debated the incident for decades. Discover the ten reasons van Gogh's The Starry Night is a masterpiece".</h3 quote></h3 OTD
