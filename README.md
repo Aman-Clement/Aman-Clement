@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The incident at the Yellow House".</h2 head><h3 quote align='center'>"Vincent van Gogh cut off part of his own left ear on this day in 1888 after an argument with fellow artist Paul Gauguin, with whom he had been sharing a house. Van Gogh reportedly then delivered his ear to a nearby brothel. Art historians have debated the incident, often framing it within his brief, prolific career and his struggles with mental health. Discover the ten reasons van Gogh's The Starry Night is a masterpiece".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The tinfoil speaking machine".</h2 head><h3 quote align='center'>"On this day in 1877, the U.S. Patent Office received an application for a \u201cPhonograph or Speaking Machine\u201d from inventor Thomas Edison. He had demonstrated the device for the first time a few weeks earlier, when he played his recorded (and sometimes unintelligible) voice to magazine staffers in New York City.".</h3 quote></h3 OTD
