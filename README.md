@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The tinfoil speaking machine".</h2 head><h3 quote align='center'>"On this day in 1877, the U.S. Patent Office received an application for a \u201cPhonograph or Speaking Machine\u201d from inventor Thomas Edison. He had demonstrated the device for the first time a few weeks earlier, when he played his recorded (and sometimes unintelligible) voice to magazine staffers in New York City.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"December 25 became Christmas".</h2 head><h3 quote align='center'>"Pope Liberius celebrated the first official Christmas mass in Rome on this day in 352. The birth of Jesus Christ had been celebrated as many as two centuries earlier, but it was this mass that ensured Christmas's place on December 25 in the Roman Catholic calendar. When was Jesus born?".</h3 quote></h3 OTD
