@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"December 25 became Christmas".</h2 head><h3 quote align='center'>"Pope Liberius celebrated the first official Christmas mass in Rome on this day in 352. The birth of Jesus Christ had been celebrated as many as two centuries earlier, but it was this mass that ensured Christmas's place on December 25 in the Roman Catholic calendar. When was Jesus born?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Flying saucers patented".</h2 head><h3 quote align='center'>"The Wham-O Manufacturing Company was issued a U.S. patent on this day in 1967 for \u201ca saucer-shaped throwing implement,\u201d better known as a Frisbee-brand flying disc. These discs have their roots in the 1870s, when students in Connecticut tossed pie tins around for fun, and helped contribute to the rise of disc golf and other disc sports in the 1970s.".</h3 quote></h3 OTD
