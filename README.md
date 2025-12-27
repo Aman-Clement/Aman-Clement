@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Flying saucers patented".</h2 head><h3 quote align='center'>"The Wham-O Manufacturing Company was issued a U.S. patent on this day in 1967 for \u201ca saucer-shaped throwing implement,\u201d better known as a Frisbee-brand flying disc. These discs have their roots in the 1870s, when students in Connecticut tossed pie tins around for fun, and helped contribute to the rise of disc golf and other disc sports in the 1970s.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Hagia Sophia consecrated".</h2 head><h3 quote align='center'>"When it was consecrated on this day in 537 as an Eastern Orthodox church, the Hagia Sophia was the world's largest church. In subsequent centuries it became a Roman Catholic cathedral, a museum, and a mosque.".</h3 quote></h3 OTD
