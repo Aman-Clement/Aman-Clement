@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Hagia Sophia consecrated".</h2 head><h3 quote align='center'>"When it was consecrated on this day in 537 as an Eastern Orthodox church, the Hagia Sophia was the world's largest church. In subsequent centuries it became a Roman Catholic cathedral, a museum, and a mosque.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"An American IVF milestone".</h2 head><h3 quote align='center'>"Elizabeth Jordan Carr, the first American born via in vitro fertilization, was born on this day in 1982. Her mother gave birth to her in Virginia because IVF was illegal in her home state of Massachusetts. Meet Elizabeth Carr".</h3 quote></h3 OTD
