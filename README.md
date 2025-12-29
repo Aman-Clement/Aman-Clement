@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"An American IVF milestone".</h2 head><h3 quote align='center'>"Elizabeth Jordan Carr, the first American born via in vitro fertilization, was born on this day in 1982. Her mother gave birth to her in Virginia because IVF was illegal in her home state of Massachusetts. Meet Elizabeth Carr".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Arrested for wearing pants".</h2 head><h3 quote align='center'>"On this day in 1852, Emma Snodgrass was arraigned in Boston because she was a woman wearing trousers. This was a time when activists were calling for \u201crational dress\u201d for women, including bloomers and trousers, as an alternative to long, bulky skirts. When did women start wearing pants?".</h3 quote></h3 OTD
