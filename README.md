@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Arrested for wearing pants".</h2 head><h3 quote align='center'>"On this day in 1852, Emma Snodgrass was arraigned in Boston because she was a woman wearing trousers. This was a time when activists were calling for \u201crational dress\u201d for women, including bloomers and trousers, as an alternative to long, bulky skirts. When did women start wearing pants?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Codex Justinianus".</h2 head><h3 quote align='center'>"The major elements of the Code of Justinian went into effect, according to many sources, on this day in 533. Developed between 529 and 565, this collection of laws and legal interpretations rationalized a confusing tangle of existing Roman statutes, and it provided the foundation for civil law as it is practiced in Europe and Latin America today.".</h3 quote></h3 OTD
