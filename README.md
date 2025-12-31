@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Codex Justinianus".</h2 head><h3 quote align='center'>"The major elements of the Code of Justinian went into effect, according to many sources, on this day in 533. Developed between 529 and 565, this collection of laws and legal interpretations rationalized a confusing tangle of existing Roman statutes, and it provided the foundation for civil law as it is practiced in Europe and Latin America today.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The Ball That Started It All".</h2 head><h3 quote align='center'>"The first ball was dropped at Times Square in New York City to celebrate New Year's Eve on this day in 1907. Made of iron and covered in lightbulbs, the ball was so heavy that it had to be wrangled by six men. It established a tradition that continues today.".</h3 quote></h3 OTD
