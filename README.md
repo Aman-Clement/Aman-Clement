@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The Ball That Started It All".</h2 head><h3 quote align='center'>"The first ball was dropped at Times Square in New York City to celebrate New Year's Eve on this day in 1907. Made of iron and covered in lightbulbs, the ball was so heavy that it had to be wrangled by six men. It established a tradition that continues today.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"When Europe Changed Its Money Overnight".</h2 head><h3 quote align='center'>"Eleven European Union countries changed their money to the euro on this day in 1999. All electronic transactions switched to the new monetary unit, although coins and banknotes stayed unchanged in these countries until January 1, 2002. Watch: the origin and purpose of the euro".</h3 quote></h3 OTD
