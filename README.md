@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"When Europe Changed Its Money Overnight".</h2 head><h3 quote align='center'>"Eleven European Union countries changed their money to the euro on this day in 1999. All electronic transactions switched to the new monetary unit, although coins and banknotes stayed unchanged in these countries until January 1, 2002. Watch: the origin and purpose of the euro".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First photo taken of the Moon (probably)".</h2 head><h3 quote align='center'>"Louis Daguerre, a French artist and chemist who was one of photography's earliest pioneers, is thought to have taken the first photograph of the Moon on this day in 1839. It was destroyed when his studio burned down soon afterward. See the earliest known photograph".</h3 quote></h3 OTD
