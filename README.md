@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First photo taken of the Moon (probably)".</h2 head><h3 quote align='center'>"Louis Daguerre, a French artist and chemist who was one of photography's earliest pioneers, is thought to have taken the first photograph of the Moon on this day in 1839. It was destroyed when his studio burned down soon afterward. See the earliest known photograph".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"A first for the Queen of Soul".</h2 head><h3 quote align='center'>"Aretha Franklin became the first woman voted into the Rock and Roll Hall of Fame. More than 80 other women have entered the hall since her induction was announced on this day in 1987.".</h3 quote></h3 OTD
