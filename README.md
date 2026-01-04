@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"A first for the Queen of Soul".</h2 head><h3 quote align='center'>"Aretha Franklin became the first woman voted into the Rock and Roll Hall of Fame. More than 80 other women have entered the hall since her induction was announced on this day in 1987.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The first prime-time State of the Union".</h2 head><h3 quote align='center'>"On this day in 1965, U.S. President Lyndon B. Johnson delivered the first prime-time televised State of the Union address, transforming a traditionally somewhat boring afternoon speech to Congress into a media event aimed at the American people. Johnson used the slogan \u201cGreat Society\u201d in his speech. What did that mean?".</h3 quote></h3 OTD
