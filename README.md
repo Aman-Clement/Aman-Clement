@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The first prime-time State of the Union".</h2 head><h3 quote align='center'>"On this day in 1965, U.S. President Lyndon B. Johnson delivered the first prime-time televised State of the Union address, transforming a traditionally somewhat boring afternoon speech to Congress into a media event aimed at the American people. Johnson used the slogan \u201cGreat Society\u201d in his speech. What did that mean?".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The arrival of the Great Frost".</h2 head><h3 quote align='center'>"Europe's coldest winter in 500 years began to take hold on this day in 1709. It would kill hundreds of thousands of people, make travel and trade nearly impossible, and disrupt two wars. Climatologists are still trying to understand the cause of what became known as the Great Frost.".</h3 quote></h3 OTD
