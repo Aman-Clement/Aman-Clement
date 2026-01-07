@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The Whack Heard 'Round the World".</h2 head><h3 quote align='center'>"On this day in 1992, at an ice rink in Detroit, figure skater Nancy Kerrigan was clubbed in the leg by a man dressed in black. The injury forced her to withdraw from the U.S. Figure Skating Championships, clearing the way for her rival Tonya Harding to win the competition, qualify for the 1994 Winter Olympics, and become the center of attention in one of figure skating's biggest scandals.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Galileo's discovery of Jupiter's four moons".</h2 head><h3 quote align='center'>"During this month in 1610, Italian astronomer Galileo made the earthshaking discoveries that four moons revolve around Jupiter and that the telescope reveals many more stars than are visible to the naked eye.".</h3 quote></h3 OTD
