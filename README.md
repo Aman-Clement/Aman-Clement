@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Galileo's discovery of Jupiter's four moons".</h2 head><h3 quote align='center'>"During this month in 1610, Italian astronomer Galileo made the earthshaking discoveries that four moons revolve around Jupiter and that the telescope reveals many more stars than are visible to the naked eye.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The first black hole is discovered".</h2 head><h3 quote align='center'>"On this day in 1972, scientists Louise Webster and Paul Murdin announced that they had confirmed the existence of a black hole for the first time. Using the Isaac Newton Telescope in East Sussex, England, the scientists measured the strangely powerful X-ray energy present in the northern constellation Cygnus. The scientists' findings revealed that Cygnus X-1 (or Cyg X-1), which had previously been classified as one star, was actually a binary system made up of a star and a black hole that was slowly pulling that star into its depths. Cyg X-1 is believed to be one of the fastest spinning black holes discovered.".</h3 quote></h3 OTD
