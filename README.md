@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The first black hole is discovered".</h2 head><h3 quote align='center'>"On this day in 1972, scientists Louise Webster and Paul Murdin announced that they had confirmed the existence of a black hole for the first time. Using the Isaac Newton Telescope in East Sussex, England, the scientists measured the strangely powerful X-ray energy present in the northern constellation Cygnus. The scientists' findings revealed that Cygnus X-1 (or Cyg X-1), which had previously been classified as one star, was actually a binary system made up of a star and a black hole that was slowly pulling that star into its depths. Cyg X-1 is believed to be one of the fastest spinning black holes discovered.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Anniversary of Grimaldi rule in Monaco".</h2 head><h3 quote align='center'>"On this day in 1997, the principality of Monaco began a yearlong celebration in honour of the 700th anniversary of the rule of the Grimaldi family, who seized power in 1297 and gained firm possession of Monaco in 1419.".</h3 quote></h3 OTD
