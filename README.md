@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Anniversary of Grimaldi rule in Monaco".</h2 head><h3 quote align='center'>"On this day in 1997, the principality of Monaco began a yearlong celebration in honour of the 700th anniversary of the rule of the Grimaldi family, who seized power in 1297 and gained firm possession of Monaco in 1419.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The Mysterious Sighting at Trans-en-Provence".</h2 head><h3 quote align='center'>"On this day in 1981, a man in southeastern France observed what he called a \u201cbulging disk\u201d consisting of \u201ctwo plates glued to each other by the rim.\u201d The unidentified flying object landed briefly in a nearby field and then took off, vanishing over some trees. Though it has been extensively studied, the sighting has never been scientifically explained. Read today's edition of Today in History >>".</h3 quote></h3 OTD
