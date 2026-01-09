@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The Mysterious Sighting at Trans-en-Provence".</h2 head><h3 quote align='center'>"On this day in 1981, a man in southeastern France observed what he called a \u201cbulging disk\u201d consisting of \u201ctwo plates glued to each other by the rim.\u201d The unidentified flying object landed briefly in a nearby field and then took off, vanishing over some trees. Though it has been extensively studied, the sighting has never been scientifically explained. Read today's edition of Today in History >>".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Joan of Arc put on trial".</h2 head><h3 quote align='center'>"Nineteen-year-old \u201cJoan the Maid,\u201d as she was referred to in court records, was put on trial in France on this day in 1431. She faced more than 70 accusations, including murder and heresy, and she eventually confessed, resulting in a life sentence that was later escalated to execution. Read today's edition of Today in History >>".</h3 quote></h3 OTD
