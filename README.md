@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Joan of Arc put on trial".</h2 head><h3 quote align='center'>"Nineteen-year-old \u201cJoan the Maid,\u201d as she was referred to in court records, was put on trial in France on this day in 1431. She faced more than 70 accusations, including murder and heresy, and she eventually confessed, resulting in a life sentence that was later escalated to execution. Read today's edition of Today in History >>".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Crossing the Rubicon".</h2 head><h3 quote align='center'>"Julius Caesar and his army crossed the Rubicon on this day in 49 bce to take control of the Roman Republic. Caesar was breaking a law that forbade generals from leading armies out of their assigned territories, and he provoked a four-year civil war that irreversibly transformed ancient Rome. Read today's edition of Today in History >>".</h3 quote></h3 OTD
