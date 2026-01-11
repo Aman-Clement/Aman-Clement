@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Crossing the Rubicon".</h2 head><h3 quote align='center'>"Julius Caesar and his army crossed the Rubicon on this day in 49 bce to take control of the Roman Republic. Caesar was breaking a law that forbade generals from leading armies out of their assigned territories, and he provoked a four-year civil war that irreversibly transformed ancient Rome. Read today's edition of Today in History >>".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The Day Milk Got Contained".</h2 head><h3 quote align='center'>"On this day in 1878, fresh milk was delivered for the first time in glass bottles, sealed with a lid, in New York City. It was an important step toward greater food safety in the United States. Read today's edition of Today in History >>".</h3 quote></h3 OTD
