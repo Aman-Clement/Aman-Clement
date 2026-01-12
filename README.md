@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The Day Milk Got Contained".</h2 head><h3 quote align='center'>"On this day in 1878, fresh milk was delivered for the first time in glass bottles, sealed with a lid, in New York City. It was an important step toward greater food safety in the United States. Read today's edition of Today in History >>".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The music label that changed American music".</h2 head><h3 quote align='center'>"Berry Gordy took a major step toward transforming American music on this day in 1959, when he launched Tamla Records. With Smokey Robinson and the Miracles signed as its first act, Tamla soon merged with Gordy's other label, Motown Records, to form one of the most influential music companies in American history. Read today's edition of Today in History >>".</h3 quote></h3 OTD
