@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The music label that changed American music".</h2 head><h3 quote align='center'>"Berry Gordy took a major step toward transforming American music on this day in 1959, when he launched Tamla Records. With Smokey Robinson and the Miracles signed as its first act, Tamla soon merged with Gordy's other label, Motown Records, to form one of the most influential music companies in American history. Read today's edition of Today in History >>".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The threat of alchemy".</h2 head><h3 quote align='center'>"King Henry IV of England outlawed alchemy on this day in 1404. By preventing the creation of gold from base metals\u2014the goal of alchemy\u2014Henry was trying to prevent challenges to his reign. His law was eventually repealed in 1688. Read today's edition of Today in History >>".</h3 quote></h3 OTD
