@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The threat of alchemy".</h2 head><h3 quote align='center'>"King Henry IV of England outlawed alchemy on this day in 1404. By preventing the creation of gold from base metals\u2014the goal of alchemy\u2014Henry was trying to prevent challenges to his reign. His law was eventually repealed in 1688. Read today's edition of Today in History >>".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The conclusion to the perfect NFL season".</h2 head><h3 quote align='center'>"The Miami Dolphins became the first (and only) NFL team to win every game in a season when the team, coached by Don Shula, defeated the Washington Redskins in Super Bowl VII on this day in 1973. Read today's edition of Today in History >>".</h3 quote></h3 OTD
