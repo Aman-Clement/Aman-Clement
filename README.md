@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The conclusion to the perfect NFL season".</h2 head><h3 quote align='center'>"The Miami Dolphins became the first (and only) NFL team to win every game in a season when the team, coached by Don Shula, defeated the Washington Redskins in Super Bowl VII on this day in 1973. Read today's edition of Today in History >>".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The London riot that wasn't".</h2 head><h3 quote align='center'>"A top hat almost certainly did not cause a riot in London on this day in 1797. But the story of this supposed riot, traditionally blamed on haberdasher John Hetherington, has a thread of truth: the top hat was a new kind of hat in the 1790s, and people were often surprised when they saw a man wearing something on his head that was shaped like a chimney and reached as much as two feet (about 0.6 meters) in height. Read today's edition of Today in History >>".</h3 quote></h3 OTD
