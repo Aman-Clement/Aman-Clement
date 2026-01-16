@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The London riot that wasn't".</h2 head><h3 quote align='center'>"A top hat almost certainly did not cause a riot in London on this day in 1797. But the story of this supposed riot, traditionally blamed on haberdasher John Hetherington, has a thread of truth: the top hat was a new kind of hat in the 1790s, and people were often surprised when they saw a man wearing something on his head that was shaped like a chimney and reached as much as two feet (about 0.6 meters) in height. Read today's edition of Today in History >>".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Beginning of Persian Gulf War ".</h2 head><h3 quote align='center'>"The Persian Gulf War, triggered by Iraq's occupation of Kuwait in August 1990, began on this day in 1991 with a U.S.-led air offensive against Iraq that continued until a cease-fire was declared on February 28.".</h3 quote></h3 OTD
