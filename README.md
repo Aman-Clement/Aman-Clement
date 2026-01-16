@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Beginning of Persian Gulf War ".</h2 head><h3 quote align='center'>"The Persian Gulf War, triggered by Iraq's occupation of Kuwait in August 1990, began on this day in 1991 with a U.S.-led air offensive against Iraq that continued until a cease-fire was declared on February 28.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"NASA's First Female Astronauts".</h2 head><h3 quote align='center'>"On this day in 1978, NASA announced the members of its newest class of astronauts, which, for the first time in history, included six women. Sally Ride (pictured), Kathryn Sullivan, Rhea Seddon, Shannon Lucid, Anna Fisher, and Judy Resnick were chosen from more than 1,500 applications, and they had enviable skills and specialties. In 1983, Ride became the first American woman to travel into space. Read today's edition of Today in History > >".</h3 quote></h3 OTD
