@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The Chevrolet Corvette is introduced".</h2 head><h3 quote align='center'>"On this day in 1953, the Chevrolet Corvette was first unveiled to the public. At the New York stop of the General Motors Motorama traveling auto show, more than 45,000 Americans ogled the new concept car\u2014so many that police had to step in to control the crowd. GM never intended to turn this concept car into a production model, but design executive Harley J. Earl realized its potential, and the company soon began manufacturing actual working versions. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Sliced bread banned in the U.S.".</h2 head><h3 quote align='center'>"On this day in 1943, the U.S. Secretary of Agriculture Claude R. Wickard temporarily declared a ban on the sale of sliced bread as part of the wartime effort. However, the order faced intense backlash from consumers and was consequently struck down by the government by early March. Read today's edition of Today in History > >".</h3 quote></h3 OTD
