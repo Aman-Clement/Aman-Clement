@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Sliced bread banned in the U.S.".</h2 head><h3 quote align='center'>"On this day in 1943, the U.S. Secretary of Agriculture Claude R. Wickard temporarily declared a ban on the sale of sliced bread as part of the wartime effort. However, the order faced intense backlash from consumers and was consequently struck down by the government by early March. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Lucille Ball's baby is born on television".</h2 head><h3 quote align='center'>"On this day in 1953, American actress Lucille Ball welcomed a baby boy\u2014both on and off-screen. She had a planned C-section delivery in real life, but her character on the hit sitcom I Love Lucy gave birth as well, breaking some of the stigma surrounding pregnancy and childbirth on television. About 44 million people watched the episode, titled \u201cLucy Goes to the Hospital.\u201d Read today's edition of Today in History > >".</h3 quote></h3 OTD
