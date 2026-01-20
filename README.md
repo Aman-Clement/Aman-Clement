@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Lucille Ball's baby is born on television".</h2 head><h3 quote align='center'>"On this day in 1953, American actress Lucille Ball welcomed a baby boy\u2014both on and off-screen. She had a planned C-section delivery in real life, but her character on the hit sitcom I Love Lucy gave birth as well, breaking some of the stigma surrounding pregnancy and childbirth on television. About 44 million people watched the episode, titled \u201cLucy Goes to the Hospital.\u201d Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Inaugural address delivered by John F. Kennedy".</h2 head><h3 quote align='center'>"On this day in 1961, U.S. Pres. John F. Kennedy delivered his inaugural address in front of nearly 1 million people. He was the youngest person to have been elected president, and his speech garnered praise from across the world. His address was also marked by the famous phrase, \u201cAsk not what your country can do for you\u2014ask what you can do for your country.\u201d Read today's edition of Today in History > >".</h3 quote></h3 OTD
