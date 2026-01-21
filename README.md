@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First commercial Concorde flight".</h2 head><h3 quote align='center'>"Generating a sonic boom as it traveled through the atmosphere at supersonic speed, the Concorde, a commercial aircraft built with funding from the British and French governments, began regular service on this day in 1976.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First commercial Concorde flight".</h2 head><h3 quote align='center'>"Generating a sonic boom as it traveled through the atmosphere at supersonic speed, the Concorde, a commercial aircraft built with funding from the British and French governments, began regular service on this day in 1976. Read today's edition of Today in History > >".</h3 quote></h3 OTD
