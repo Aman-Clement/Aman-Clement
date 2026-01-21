@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Inaugural address delivered by John F. Kennedy".</h2 head><h3 quote align='center'>"On this day in 1961, U.S. Pres. John F. Kennedy delivered his inaugural address in front of nearly 1 million people. He was the youngest person to have been elected president, and his speech garnered praise from across the world. His address was also marked by the famous phrase, \u201cAsk not what your country can do for you\u2014ask what you can do for your country.\u201d Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First commercial Concorde flight".</h2 head><h3 quote align='center'>"Generating a sonic boom as it traveled through the atmosphere at supersonic speed, the Concorde, a commercial aircraft built with funding from the British and French governments, began regular service on this day in 1976.".</h3 quote></h3 OTD
