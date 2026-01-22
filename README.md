@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"First commercial Concorde flight".</h2 head><h3 quote align='center'>"Generating a sonic boom as it traveled through the atmosphere at supersonic speed, the Concorde, a commercial aircraft built with funding from the British and French governments, began regular service on this day in 1976. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Apple releases its famous \u201c1984\u201d ad".</h2 head><h3 quote align='center'>"On this day in 1984, Apple Computer aired an ominous new commercial during Super Bowl XVIII. The 60-second ad, which was directed by Ridley Scott and drew inspiration from George Orwell's dystopian novel Nineteen Eighty-four, was Apple's promise that its new computer would help consumers avoid a dark age of technology. Read today's edition of Today in History".</h3 quote></h3 OTD
