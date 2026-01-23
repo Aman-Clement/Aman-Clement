@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Madeleine Albright sworn in as U.S. secretary of state".</h2 head><h3 quote align='center'>"On this day in 1997, Madeleine Albright, who had earlier served as U.S. ambassador to the UN, assumed under President Bill Clinton the office of secretary of state, becoming the first woman to hold that cabinet post.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Richard Nixon announces an end to the war in Vietnam".</h2 head><h3 quote align='center'>"On this day in 1973, U.S. Pres. Richard Nixon announced an end to the seemingly never-ending conflict in Vietnam. However, while the Paris Peace Accords (which were formally signed four days later) brought an end to direct U.S. military involvement, the conflict raged on until April 1975, when Saigon was captured by North Vietnamese forces. Read today's edition of Today in History > >".</h3 quote></h3 OTD
