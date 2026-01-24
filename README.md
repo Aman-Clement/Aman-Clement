@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Richard Nixon announces an end to the war in Vietnam".</h2 head><h3 quote align='center'>"On this day in 1973, U.S. Pres. Richard Nixon announced an end to the seemingly never-ending conflict in Vietnam. However, while the Paris Peace Accords (which were formally signed four days later) brought an end to direct U.S. military involvement, the conflict raged on until April 1975, when Saigon was captured by North Vietnamese forces. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Gold discovered in California".</h2 head><h3 quote align='center'>"On this day in 1848, James Marshall spotted gold nuggets glistening in a California stream while constructing a sawmill for John Sutter, the Swiss-born founder of what would become the state's capital city. Although the pair initially kept the nuggets a secret, Sutter eventually reported their finding to the government, setting off the California Gold Rush, which enticed hundreds of thousands of settlers west to try their luck. Read today's edition of Today in History > >".</h3 quote></h3 OTD
