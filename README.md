@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"World's largest diamond discovered in South Africa".</h2 head><h3 quote align='center'>"On this day in 1905, a diamond that weighed over a pound was found in the Premier Mine in South Africa. When it was presented to the mining office, however, it was dismissed as a worthless crystal and tossed out a window. It was recovered soon after and sold in 1907 to the king of Britain. The gem, which became known as the Cullinan diamond, eventually spawned 9 major stones and 96 minor stones. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Dante exiled from Florence".</h2 head><h3 quote align='center'>"On this day in 1302, Italian poet Dante Alighieri was exiled from Florence by his political enemies. The city was embroiled in conflict involving two contentious factions within the Guelf political party\u2014the Whites and the Blacks. Dante was ultimately exiled for choosing to side with the Whites. While in exile, he wrote his best-known poem: The Divine Comedy. Read today's edition of Today in History > >".</h3 quote></h3 OTD
