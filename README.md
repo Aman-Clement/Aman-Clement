@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Challenger space shuttle catastrophically explodes".</h2 head><h3 quote align='center'>"On this day in 1986, the U.S. space shuttle Challenger exploded 73 seconds after liftoff from Florida, killing all seven aboard, including high school teacher Christa McAuliffe, who had been chosen as the first American civilian to travel in space. After the disaster, NASA overhauled its space exploration program and added extra safeguards to its shuttles' rocket boosters.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Challenger space shuttle catastrophically explodes".</h2 head><h3 quote align='center'>"On this day in 1986, the U.S. space shuttle Challenger exploded 73 seconds after liftoff from Florida, killing all seven aboard, including high school teacher Christa McAuliffe, who had been chosen as the first American civilian to travel in space. After the disaster, NASA overhauled its space exploration program and added extra safeguards to its shuttles' rocket boosters. Read today's edition of Today in History > >".</h3 quote></h3 OTD
