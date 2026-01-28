@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Dante exiled from Florence".</h2 head><h3 quote align='center'>"On this day in 1302, Italian poet Dante Alighieri was exiled from Florence by his political enemies. The city was embroiled in conflict involving two contentious factions within the Guelf political party\u2014the Whites and the Blacks. Dante was ultimately exiled for choosing to side with the Whites. While in exile, he wrote his best-known poem: The Divine Comedy. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Challenger space shuttle catastrophically explodes".</h2 head><h3 quote align='center'>"On this day in 1986, the U.S. space shuttle Challenger exploded 73 seconds after liftoff from Florida, killing all seven aboard, including high school teacher Christa McAuliffe, who had been chosen as the first American civilian to travel in space. After the disaster, NASA overhauled its space exploration program and added extra safeguards to its shuttles' rocket boosters.".</h3 quote></h3 OTD
