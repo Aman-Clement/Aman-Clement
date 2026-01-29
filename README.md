@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Challenger space shuttle catastrophically explodes".</h2 head><h3 quote align='center'>"On this day in 1986, the U.S. space shuttle Challenger exploded 73 seconds after liftoff from Florida, killing all seven aboard, including high school teacher Christa McAuliffe, who had been chosen as the first American civilian to travel in space. After the disaster, NASA overhauled its space exploration program and added extra safeguards to its shuttles' rocket boosters. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Iraq, Iran, and North Korea called an \u201caxis of evil\u201d".</h2 head><h3 quote align='center'>"On this day in 2002, U.S. President George W. Bush, delivering a State of the Union address, described Iraq, Iran, and North Korea as an \u201caxis of evil\u201d for their attempts to develop nuclear, chemical, or biological weaponry.".</h3 quote></h3 OTD
