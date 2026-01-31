@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Beatles perform together for the last time".</h2 head><h3 quote align='center'>"On this day in 1969, the Beatles\u2014John Lennon, Paul McCartney, George Harrison, and Ringo Starr\u2014performed together for the last time. The 42-minute set, which took place on the rooftop of Apple Corps headquarters in London, ended after neighbors filed noise complaints, leading the police to show up. Footage from the session appeared in the documentary Let it Be. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"First daytime soap opera appears on television".</h2 head><h3 quote align='center'>"On this day in 1949, a daytime soap opera first appeared on NBC. Written by radio storyteller Irna Phillips, These Are My Children was unsuccessful and went off air just a month after it first appeared. However, Phillips was undeterred, going on to create television shows that ran for more than half a century, such as Days of Our Lives and Guiding Light. Read today's edition of Today in History > >".</h3 quote></h3 OTD
