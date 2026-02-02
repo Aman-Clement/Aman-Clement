@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Homebrewing is legalized in the United States".</h2 head><h3 quote align='center'>"On this day in 1979, homebrewing was officially legalized. In October 1978 U.S. Pres. Jimmy Carter signed HRT 1337, a relatively average transportation bill. Hidden within the bill, however, one amendment made homebrewing beer and wine legal, allowing hobbyists to brew 100 gallons of alcohol on an annual basis. The American craft beer revolution had been underway since the 1960s, and the legalization of homebrewing further spurred the movement along. Vibrant brewing festivals and competitions were established, and the American Homebrewers Association formed at the end of 1978. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Ban on African National Congress lifted".</h2 head><h3 quote align='center'>"On this day in 1990, South African President F.W. de Klerk lifted the 30-year ban on the African National Congress, resulting in the release from prison of Nelson Mandela and marking the beginning of the end of apartheid.".</h3 quote></h3 OTD
