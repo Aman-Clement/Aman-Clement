@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Ban on African National Congress lifted".</h2 head><h3 quote align='center'>"On this day in 1990, South African President F.W. de Klerk lifted the 30-year ban on the African National Congress, resulting in the release from prison of Nelson Mandela and marking the beginning of the end of apartheid.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Fifteenth Amendment to the U.S. Constitution ratified".</h2 head><h3 quote align='center'>"On this day in 1870, the Fifteenth Amendment to the Constitution of the United States was ratified, guaranteeing the right to vote regardless of race and intending to ensure, with the Fourteenth Amendment, the civil rights of former slaves.".</h3 quote></h3 OTD
