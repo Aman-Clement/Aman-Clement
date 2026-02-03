@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Fifteenth Amendment to the U.S. Constitution ratified".</h2 head><h3 quote align='center'>"On this day in 1870, the Fifteenth Amendment to the Constitution of the United States was ratified, guaranteeing the right to vote regardless of race and intending to ensure, with the Fourteenth Amendment, the civil rights of former slaves.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Paper money is printed in the Massachusetts Bay Colony".</h2 head><h3 quote align='center'>"On this day in 1690 (or 1691), the Massachusetts Bay Colony printed \u00a340,000 in paper money, an act that was technically banned by the English crown. This was the first time paper money became widespread in the West, but after conflicts such as King William's War and the French and Indian War, the cash rapidly depreciated in value\u2014by almost 40 percent within a year. Regardless, other American colonies began printing money too. Read today's edition of Today in History > >".</h3 quote></h3 OTD
