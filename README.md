@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Walt Disney's Snow White and the Seven Dwarfs is shown in theaters across the U.S.".</h2 head><h3 quote align='center'>"On this day in 1937, the animated feature film Snow White and the Seven Dwarfs came out in theaters nationwide. In a series of maneuvers that critics described as \u201cDisney's folly,\u201d producer Walt Disney mortgaged his house and sold his car in order to pay production costs. The movie, which cost $1.5 million ($36 million with inflation), was wildly successful and eventually became one of the highest-grossing of all time, showing that audiences were happy to watch full-length animated features. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Punic Wars ended".</h2 head><h3 quote align='center'>"The Third Punic War, the last of three between Rome and Carthage, came to an end this day in 146 bce, culminating in the final destruction of Carthage, the enslavement of its people, and Roman hegemony over the Mediterranean.".</h3 quote></h3 OTD
