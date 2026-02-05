@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Punic Wars ended".</h2 head><h3 quote align='center'>"The Third Punic War, the last of three between Rome and Carthage, came to an end this day in 146 bce, culminating in the final destruction of Carthage, the enslavement of its people, and Roman hegemony over the Mediterranean.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Explorer George Bass sets sail for Tahiti in his final voyage".</h2 head><h3 quote align='center'>"On this day in 1803, George Bass, a British explorer with landmarks such as the Bass Strait to his name, set sail for Tahiti from Sydney, Australia. However, he and the other men aboard the Venus would never be seen again. Bass, who had been trained as a Royal Navy surgeon and had a keen interest in nature and botany, was taking a route  that was typically the domain of Spanish merchants. In 1806 Bass was officially declared lost at sea. Read today's edition of Today in History > >".</h3 quote></h3 OTD
