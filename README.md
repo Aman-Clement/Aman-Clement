@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Explorer George Bass sets sail for Tahiti in his final voyage".</h2 head><h3 quote align='center'>"On this day in 1803, George Bass, a British explorer with landmarks such as the Bass Strait to his name, set sail for Tahiti from Sydney, Australia. However, he and the other men aboard the Venus would never be seen again. Bass, who had been trained as a Royal Navy surgeon and had a keen interest in nature and botany, was taking a route  that was typically the domain of Spanish merchants. In 1806 Bass was officially declared lost at sea. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Accession of Elizabeth II".</h2 head><h3 quote align='center'>"Elizabeth II ascended the throne of the United Kingdom of Great Britain and Northern Ireland this day in 1952, following the death of her father, King George VI. She became the longest-reigning monarch in British history in 2015.".</h3 quote></h3 OTD
