@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Accession of Elizabeth II".</h2 head><h3 quote align='center'>"Elizabeth II ascended the throne of the United Kingdom of Great Britain and Northern Ireland this day in 1952, following the death of her father, King George VI. She became the longest-reigning monarch in British history in 2015.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"British Invasion launched with Beatles' arrival in U.S.".</h2 head><h3 quote align='center'>"The musical British Invasion began when the Beatles landed in New York City this day in 1964, and two nights later, as Beatlemania stormed America, their performance on The Ed Sullivan Show was watched by 73 million viewers.".</h3 quote></h3 OTD
