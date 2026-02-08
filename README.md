@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"British Invasion launched with Beatles' arrival in U.S.".</h2 head><h3 quote align='center'>"The musical British Invasion began when the Beatles landed in New York City this day in 1964, and two nights later, as Beatlemania stormed America, their performance on The Ed Sullivan Show was watched by 73 million viewers.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Japan evacuates final troops from Guadalcanal".</h2 head><h3 quote align='center'>"On this day in 1943, the last 10,000 troops of the Imperial Japanese Navy withdrew from the island of Guadalcanal (based in the Pacific, near Australia) in the midst of World War II. Allied forces had been determined to retake the island, as controlling Guadalcanal meant controlling communications between the U.S., New Zealand, and Australia. Guadalcanal was Japan's first major defeat in the Pacific theater, marking a significant shift in the course of the war. Read today's edition of Today in History > >".</h3 quote></h3 OTD
