@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Kasparov-versus-computer chess match".</h2 head><h3 quote align='center'>"On this day in 1996, world chess champion Garry Kasparov began a six-round match against Deep Blue, a chess-playing computer built by IBM, in which Kasparov claimed a 4\u20132 victory (though Deep Blue won a rematch the following year).".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Queen Victoria marries Prince Albert".</h2 head><h3 quote align='center'>"On this day in 1840, Queen Victoria of Great Britain married Prince Albert. While most royal weddings of the era were private, small affairs, Victoria, in a bid to improve her popularity, arranged a lavish marriage ceremony with 300 people in attendance. Her dress was a simple white satin dress\u2014with an 18-foot-long train. That day, Victoria began two longstanding traditions: one, of brides wearing white dresses, and two, of British royals marrying in highly publicized ceremonies. Read today's edition of Today in History > >".</h3 quote></h3 OTD
