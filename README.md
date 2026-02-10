@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Magic Johnson unretires to play in the NBA All-Star Game".</h2 head><h3 quote align='center'>"On this day in 1992, Magic Johnson briefly returned to the basketball court for his 12th NBA All-Star Game, which was the only game he played the entire season. Johnson had revealed just months earlier that he was HIV-positive, and he had missed the first few games of the season because of a different illness. Although revealing his HIV diagnosis invited judgment, Johnson played with his usual verve and scored 25 points\u2014and earned MVP honors for himself. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Kasparov-versus-computer chess match".</h2 head><h3 quote align='center'>"On this day in 1996, world chess champion Garry Kasparov began a six-round match against Deep Blue, a chess-playing computer built by IBM, in which Kasparov claimed a 4\u20132 victory (though Deep Blue won a rematch the following year).".</h3 quote></h3 OTD
