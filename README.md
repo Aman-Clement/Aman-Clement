@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"St. Bernadette's first visions of Mary at Lourdes".</h2 head><h3 quote align='center'>"On this day in 1858 in Lourdes, France, 14-year-old Bernadette Soubirous, a miller's daughter, first had visions of the Virgin Mary that were authenticated by Pope Pius IX in 1862, initiating the cult of Our Lady of Lourdes.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Julia Child's The French Chef premieres".</h2 head><h3 quote align='center'>"On this day in 1963, Julia Child's cooking show The French Chef debuted on Boston's public TV station as a regular series. Public television was rather dull at the time, but viewers were instantly charmed by Child's demeanor and warm energy. Though she made mistakes, Child did not bat an eye, and she embraced any missteps as part of the one-take filming process\u2014which was all that the crew could afford at the time. By the end of 1965, The French Chef was airing on almost 100 stations across the country as an instant classic. Read today's edition of Today in History > >".</h3 quote></h3 OTD
