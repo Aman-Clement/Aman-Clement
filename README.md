@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Julia Child's The French Chef premieres".</h2 head><h3 quote align='center'>"On this day in 1963, Julia Child's cooking show The French Chef debuted on Boston's public TV station as a regular series. Public television was rather dull at the time, but viewers were instantly charmed by Child's demeanor and warm energy. Though she made mistakes, Child did not bat an eye, and she embraced any missteps as part of the one-take filming process\u2014which was all that the crew could afford at the time. By the end of 1965, The French Chef was airing on almost 100 stations across the country as an instant classic. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Chile's independence from Spain declared".</h2 head><h3 quote align='center'>"Although the decisive victory over the Spanish did not come until April at the Battle of Maip\u00fa, Chile formally declared independence from Spain on this day in 1818, the first anniversary of Chile's victory at Chacabuco.".</h3 quote></h3 OTD
