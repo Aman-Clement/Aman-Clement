@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Chile's independence from Spain declared".</h2 head><h3 quote align='center'>"Although the decisive victory over the Spanish did not come until April at the Battle of Maip\u00fa, Chile formally declared independence from Spain on this day in 1818, the first anniversary of Chile's victory at Chacabuco.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Farewell to Peanuts".</h2 head><h3 quote align='center'>"On this day in 2000, the last Peanuts comic strip was published, just hours after the death of its creator, Charles Schulz. Peanuts had debuted in 1950. Fifty years later, it was appearing in more than 2,500 newspapers in 75 countries. Sort fact from fiction in our Peanuts quiz".</h3 quote></h3 OTD
