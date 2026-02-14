@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Farewell to Peanuts".</h2 head><h3 quote align='center'>"On this day in 2000, the last Peanuts comic strip was published, just hours after the death of its creator, Charles Schulz. Peanuts had debuted in 1950. Fifty years later, it was appearing in more than 2,500 newspapers in 75 countries. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Bootleggers murdered in Chicago".</h2 head><h3 quote align='center'>"Members of Al Capone's gang massacred seven people connected to a rival gang, led by Bugs Moran, on this day in 1929. Some of Capone's men were disguised as cops, which made the victims think their bootlegging operation was simply being raided. Their execution-style killings marked an escalation in Chicago's vicious Prohibition-era bootlegging war. Read today's edition of Today in History > >".</h3 quote></h3 OTD
