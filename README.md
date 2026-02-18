@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"A human beats a machine".</h2 head><h3 quote align='center'>"World chess champion Garry Kasparov triumphed over IBM's Deep Blue computer on this day in 1996. The two were competing in a six-round tournament to determine whether a machine could defeat a human in chess. The answer was yes\u2014Kasparov had lost the first game of the tournament, a moment he described as \u201cshattering\u201d\u2014but Kasparov battled back for the overall win, scoring three victories and two draws. \u201cI could figure out its priorities and adjust my play,\u201d he later explained. \u201cIt couldn't do the same to me.\u201d Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Pluto discovered by Clyde Tombaugh".</h2 head><h3 quote align='center'>"Using a 13-inch (33-cm) telescope at the Lowell Observatory in Flagstaff, Arizona, Clyde W. Tombaugh, a 24-year-old American with no formal training in astronomy, discovered the dwarf planet Pluto this day in 1930.".</h3 quote></h3 OTD
