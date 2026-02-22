@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"U.S. President Richard Nixon visits China".</h2 head><h3 quote align='center'>"On this day in 1972, U.S. Pres. Richard Nixon became the first sitting U.S. president to visit China. The visit took advantage of the rift that had begun to form between China and the Soviet Union to strengthen U.S.\u2013China relations. To formalize the friendship, China gifted the U.S. two giant pandas, who were introduced to the public in April 1972. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"U.S. men's hockey team defeats Soviet Union team in \u201cMiracle on Ice\u201d".</h2 head><h3 quote align='center'>"On this day in 1980, the U.S. men's ice hockey team, a ragtag team of college players, defeated the Soviet Union's famed \u201cRed Machine\u201d during the Winter Olympics. Deemed the \u201cMiracle on Ice,\u201d the historic upset, which occurred in the midst of the tense Cold War, boosted morale among Americans. Read today's edition of Today in History > >".</h3 quote></h3 OTD
