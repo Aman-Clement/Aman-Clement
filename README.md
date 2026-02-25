@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Pope Gregory XIII introduces a new calendar".</h2 head><h3 quote align='center'>"On this day in 1582, Pope Gregory XIII issued a papal bull that would erase ten days of the year\u2014Thursday, October 4, would be followed by Friday, October 15. This change overrode the Julian calendar, which had been the standard since 46 bce. Pope Gregory's change accounted for the fact that a solar year is slightly shorter than 365.25 days (the year length used by the Julian calendar) and created a new system to address leap years. Roman Catholic countries began using the new calendar immediately, while others were more reluctant. Today, just four countries have not adopted the Gregorian calendar. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Ousting of Marcos in the Philippines".</h2 head><h3 quote align='center'>"On this day in 1986, Philippine President Ferdinand E. Marcos, under pressure from the United States, fled his country for Hawaii after a fraudulent electoral victory over Corazon Aquino, who replaced him as president.".</h3 quote></h3 OTD
