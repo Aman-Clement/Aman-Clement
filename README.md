@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Wilt Chamberlain sets new NBA record".</h2 head><h3 quote align='center'>"On this day in 1962, Wilt Chamberlain scored a record 100 points in a single NBA game\u2014a record that has not been surpassed to this day. His Philadelphia Warriors (later the Golden State Warriors) defeated the New York Knicks 169\u2013147. He set numerous other records during his time in the NBA: Chamberlain was the first player to score more than 4,000 points during a season, and he set a record for total career rebounds that still stands. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Steve Fossett's circumnavigation of Earth".</h2 head><h3 quote align='center'>"On this day in 2005, American adventurer Steve Fossett became the first person to complete a solo nonstop circumnavigation of the globe without refueling when he landed in Kansas after more than 67 hours in flight.".</h3 quote></h3 OTD
