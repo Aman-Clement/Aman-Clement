@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Steve Fossett's circumnavigation of Earth".</h2 head><h3 quote align='center'>"On this day in 2005, American adventurer Steve Fossett became the first person to complete a solo nonstop circumnavigation of the globe without refueling when he landed in Kansas after more than 67 hours in flight.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"John Dillinger escapes from prison".</h2 head><h3 quote align='center'>"On this day in 1934, the notorious gangster John Dillinger escaped from a jail in Crown Point, Indiana, where he was being held for killing a police officer earlier that year. The jail had been labeled \u201cescape-proof\u201d (a claim that did not hold up well), but Dillinger was able to walk out with a gun\u2014that he had fashioned out of wood and colored with shoe polish. After absconding, he stole a car and drove to Chicago, where he would be shot dead by federal agents a few months later. Read today's edition of Today in History > >".</h3 quote></h3 OTD
