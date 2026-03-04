@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Inauguration of U.S. President Franklin D. Roosevelt".</h2 head><h3 quote align='center'>"On this day in 1933, in the midst of the Great Depression, Franklin D. Roosevelt was inaugurated as the 32nd U.S. president, and later he led the country out of the Depression and to victory in World War II.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Inauguration of U.S. President Franklin D. Roosevelt".</h2 head><h3 quote align='center'>"On this day in 1933, in the midst of the Great Depression, Franklin D. Roosevelt became the last U.S. president to be inaugurated on March 4. Inauguration Day had typically been on this day since George Washington started his second term (except when it fell on a Sunday, and then presidents became president on March 5). In January 1933, the Twentieth Amendment changed Inauguration Day to January 20\u2014which meant that, in 1937, FDR started his second term by becoming the first president inaugurated on that day. Read today's edition of Today in History > >.".</h3 quote></h3 OTD
