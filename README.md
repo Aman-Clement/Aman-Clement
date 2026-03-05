@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Boston Massacre".</h2 head><h3 quote align='center'>"Harassed by a mob, British troops on this day in 1770 opened fire, killing Crispus Attucks and four others in the Boston Massacre, an event that galvanized anti-British feelings in the lead-up to the American Revolution.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Ernest Shackleton's Nimrod expedition heads toward Mt. Erebus".</h2 head><h3 quote align='center'>"On this day in 1908, Ernest Shackleton and a group of 14 men set out to climb a volcano. The British Antarctic expedition had sailed from England on the 200-ton Nimrod, determined to map previously uncharted territories. The group trudged toward Mt. Erebus\u2014the southernmost active volcano in the world\u2014until inclement weather stopped them. When the blizzard cleared, the men continued, reaching Mt. Erebus's summit on March 10. The journey (which came to an end in 1909) marked one of the most successful Antarctic expeditions of the time. Read today's edition of Today in History > >.".</h3 quote></h3 OTD
