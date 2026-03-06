@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Ernest Shackleton's Nimrod expedition heads toward Mt. Erebus".</h2 head><h3 quote align='center'>"On this day in 1908, Ernest Shackleton and a group of 14 men set out to climb a volcano. The British Antarctic expedition had sailed from England on the 200-ton Nimrod, determined to map previously uncharted territories. The group trudged toward Mt. Erebus\u2014the southernmost active volcano in the world\u2014until inclement weather stopped them. When the blizzard cleared, the men continued, reaching Mt. Erebus's summit on March 10. The journey (which came to an end in 1909) marked one of the most successful Antarctic expeditions of the time. Read today's edition of Today in History > >.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"King Tut's tomb opened".</h2 head><h3 quote align='center'>"On this day in 1924, the Egyptian government opened the mummy case of King Tutankhamen, ruler of Egypt in the 14th century bce, whose burial chamber had been discovered in 1922 by renowned British archaeologist Howard Carter.".</h3 quote></h3 OTD
