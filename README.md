@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Colossal squid captured on camera in the deep sea for the first time".</h2 head><h3 quote align='center'>"On this day in 2025, a colossal squid (Mesonychoteuthis hamiltoni) was filmed swimming in its natural habitat for the first time. When scientists at the Schmidt Ocean Institute spotted the squid using a remotely operated submersible, they initially did not know what they were looking at. After reaching out to other institutions, they confirmed that they had captured the first footage of this elusive deep-sea dweller in its natural habitat (others had been seen either dead or ensnared by fishing boats). Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Opening of the Nazis' first concentration camp".</h2 head><h3 quote align='center'>"On this day in 1933, soon after Adolf Hitler became chancellor, the first concentration camp in Germany opened at Dachau, where at least 32,000 people would die from disease, malnutrition, physical oppression, and execution.".</h3 quote></h3 OTD
