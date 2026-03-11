@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Japan struck by earthquake and tsunami".</h2 head><h3 quote align='center'>"On this day in 2011, an earthquake struck off the northeastern coast of Honshu, Japan, causing widespread damage in the country and triggering a devastating tsunami that instigated a major nuclear accident.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"A Raisin in the Sun debuts on Broadway".</h2 head><h3 quote align='center'>"On this day in 1959, the play A Raisin in the Sun debuted on Broadway. The three-act drama was written by Lorraine Hansberry, who was 29 years old when she became the first Black woman to have a play produced on Broadway. The play, which borrows its title from the Langston Hughes poem \u201cHarlem,\u201d was instantly successful; showgoers reveled in its emotional insights and social messaging. Sadly, Hansberry passed away just six years after the debut of her magnum opus. Read today's edition of Today in History > >.".</h3 quote></h3 OTD
