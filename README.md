@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Temporary planetary alignment occurs".</h2 head><h3 quote align='center'>"On this day in 1982, people braced for the world to end as a result of all nine (now eight) planets of the solar system aligning on one side of the Sun. The panic had come about thanks to the 1974 book The Jupiter Effect, written by scientists John Gribbin and Stephen Plagemann. They had predicted global disasters such as tidal waves, catastrophic storms, and earthquakes as a result of the alignment. (Syzygy is the name given to any alignment of three or more celestial bodies in a row, and it is a fairly common occurrence.) Despite the doomsday predictions, the world continued to turn, though some people did throw end-of-the-world parties. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Japan struck by earthquake and tsunami".</h2 head><h3 quote align='center'>"On this day in 2011, an earthquake struck off the northeastern coast of Honshu, Japan, causing widespread damage in the country and triggering a devastating tsunami that instigated a major nuclear accident.".</h3 quote></h3 OTD
