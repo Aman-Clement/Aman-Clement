@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Iraq War begins".</h2 head><h3 quote align='center'>"On this day in 2003, U.S. President George W. Bush ordered air strikes on Baghdad, thus launching the Iraq War to oust dictator Saddam Hussein, who was believed (wrongly) to be manufacturing weapons of mass destruction.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Construction begins on the Basilica de la Sagrada Fam\u00edlia".</h2 head><h3 quote align='center'>"On this day in 1882, the bishop of Barcelona laid the cornerstone of the Basilica de la Sagrada Fam\u00edlia. Architect Francisco de Paula del Villar designed it to be a traditional Gothic revival cathedral, complete with arched windows and flying buttresses. His vision, however, differed from that of the basilica's chief patron, Josep Maria Bocabella\u2014and in 1883, del Villar resigned. He was replaced by the young architect Antoni Gaud\u00ed, whose creativity and willingness to use color transformed the structure into the marvel it is today. Read today's edition of Today in History > >.".</h3 quote></h3 OTD
