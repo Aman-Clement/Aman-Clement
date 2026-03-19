@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Blaise Pascal's transit service begins running in Paris".</h2 head><h3 quote align='center'>"On this day in 1662, Blaise Pascal's public transit system began operating in Paris. It involved horse-drawn carriages that would transport people around the city; they would charge a small fee and arrive at \u201cstops\u201d at fixed intervals. The coaches ran across five different routes, and each one seated eight passengers. Though Pascal's service was popular with wealthier Parisians, many residents could not afford the fares, leading to carriages being vandalized. The service officially shut down in 1667\u2014it had been ahead of its time, but pickpockets and overcrowding contributed to its demise. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Iraq War begins".</h2 head><h3 quote align='center'>"On this day in 2003, U.S. President George W. Bush ordered air strikes on Baghdad, thus launching the Iraq War to oust dictator Saddam Hussein, who was believed (wrongly) to be manufacturing weapons of mass destruction.".</h3 quote></h3 OTD
