@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The Astrodome's historic opening night".</h2 head><h3 quote align='center'>"The Houston Astros won the first Major League Baseball game ever played indoors, beating the New York Yankees at the newly opened Astrodome in Houston, Texas, on this day in 1966. The idea for the world's first air-conditioned indoor stadium is credited to Roy Mark Hofheinz, Houston's mayor from 1953 to 1955. He decided that his hot and humid city needed a comfortable setting for watching sports, and the result was the Eighth Wonder of the World. (That was its nickname, at least.) Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Bananas debut in London".</h2 head><h3 quote align='center'>"On this day in 1633, people gathered outside a shop window in London to stare at something few of them had ever seen before: a cluster of strange, curved fruits recently arrived from Bermuda. These bananas were nothing like the sweet, familiar Cavendish variety many of us eat today; they were most likely intended to be cooked, not eaten fresh. Read today's edition of Today in History > >".</h3 quote></h3 OTD
