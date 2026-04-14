@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Steam and ash rise from Eyjafjallaj\u00f6kull".</h2 head><h3 quote align='center'>"After weeks of small earthquakes and lava flows that signaled an eruption was imminent, Eyjafjallaj\u00f6kull volcano in Iceland began sending a plume of steam and ash into the skies on this day in 2010. The plume stretched upward almost 7 miles (11 km) and then drifted across northern Europe, causing the largest interruption in commercial airline service since World War II.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"A volcano grounds Europe's air traffic".</h2 head><h3 quote align='center'>"After weeks of small earthquakes and lava flows that signaled an eruption was imminent, Eyjafjallaj\u00f6kull volcano in Iceland began sending a plume of ash into the skies on this day in 2010. The plume stretched upward almost 7 miles (11 km) and then drifted across northern Europe, causing the largest interruption in commercial airline service since World War II. Read today's edition of Today in History > >".</h3 quote></h3 OTD
