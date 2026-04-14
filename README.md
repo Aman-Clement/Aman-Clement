@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"America's first elephant arrives in New York".</h2 head><h3 quote align='center'>"On this day in 1796, New York City welcomed America's first elephant: a two-year-old Asian elephant from Bengal. Ten days later she was put on display, with people paying 25 cents to see her. No one really knew how to care for an elephant, which meant she dined on greens and liquor. The elephant\u2014whose name, if she had been given one, was not recorded\u2014went on to tour the East Coast for the next two decades. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Steam and ash rise from Eyjafjallaj\u00f6kull".</h2 head><h3 quote align='center'>"After weeks of small earthquakes and lava flows that signaled an eruption was imminent, Eyjafjallaj\u00f6kull volcano in Iceland began sending a plume of steam and ash into the skies on this day in 2010. The plume stretched upward almost 7 miles (11 km) and then drifted across northern Europe, causing the largest interruption in commercial airline service since World War II.".</h3 quote></h3 OTD
