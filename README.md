@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"A volcano grounds Europe's air traffic".</h2 head><h3 quote align='center'>"After weeks of small earthquakes and lava flows that signaled an eruption was imminent, Eyjafjallaj\u00f6kull volcano in Iceland began sending a plume of ash into the skies on this day in 2010. The plume stretched upward almost 7 miles (11 km) and then drifted across northern Europe, causing the largest interruption in commercial airline service since World War II. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The sinking of the unsinkable Titanic".</h2 head><h3 quote align='center'>"On this day in 1912, the British luxury passenger liner Titanic sank en route to New York City from Southampton in England, after striking an iceberg during its maiden voyage. Of the approximately 2,200 people on board, some 1,500 people died, with the ship's crew and third-class passengers experiencing the most losses. Read today's edition of Today in History > >".</h3 quote></h3 OTD
