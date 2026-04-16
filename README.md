@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The sinking of the unsinkable Titanic".</h2 head><h3 quote align='center'>"On this day in 1912, the British luxury passenger liner Titanic sank en route to New York City from Southampton in England, after striking an iceberg during its maiden voyage. Of the approximately 2,200 people on board, some 1,500 people died, with the ship's crew and third-class passengers experiencing the most losses. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"Kendrick Lamar wins Pulitzer".</h2 head><h3 quote align='center'>"On this day in 2018, Kendrick Lamar became the first artist beyond the genres of classical and jazz to win the Pulitzer Prize for music. His album DAMN., which won the award, wrestles with identity, race, and faith. Lamar's Pulitzer was widely celebrated as a milestone for hip-hop. Read today's edition of Today in History > >".</h3 quote></h3 OTD
