@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Kendrick Lamar wins Pulitzer".</h2 head><h3 quote align='center'>"On this day in 2018, Kendrick Lamar became the first artist beyond the genres of classical and jazz to win the Pulitzer Prize for music. His album DAMN., which won the award, wrestles with identity, race, and faith. Lamar's Pulitzer was widely celebrated as a milestone for hip-hop. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The Ford Mustang debuts, with help from Walt Disney".</h2 head><h3 quote align='center'>"On this day in 1964, visitors to the New York World's Fair had a unique opportunity to experience the brand-new Ford Mustang: it carried them through the Magic Skyway, designed by Walt Disney. This 12-minute, half-mile ride took passengers from the time of the dinosaurs to a vision of the future. Ford's audacious model launch paid off: about 22,000 cars were sold the first day, and the Mustang became an American icon. Read today's edition of Today in History > >".</h3 quote></h3 OTD
