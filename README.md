@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The making of a princess".</h2 head><h3 quote align='center'>"On this day in 1956, Grace Kelly and Prince Rainier III were married in a civil ceremony in the prince's palace in Monaco. A large public reception, attended by some 3,000 people, was held later, concluding the first day of their two-day wedding celebration, which also included a religious ceremony at St. Nicholas Cathedral. At the end of it all, the American actress had become Her Serene Highness, Princess Grace of Monaco. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The world's first acid trip".</h2 head><h3 quote align='center'>"On this day in 1943, a few days after he had accidentally discovered LSD's effects, Albert Hofmann intentionally ingested the drug at his laboratory in Switzerland. About 40 minutes later, feeling restless and unable to speak clearly, he called it a day and rode his bike home. What proved to be the world's first \u201cacid trip\u201d came to be celebrated, beginning in the 1980s, as Bicycle Day. Read today's edition of Today in History > >".</h3 quote></h3 OTD
