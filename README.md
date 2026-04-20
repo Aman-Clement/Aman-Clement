@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"The world's first acid trip".</h2 head><h3 quote align='center'>"On this day in 1943, a few days after he had accidentally discovered LSD's effects, Albert Hofmann intentionally ingested the drug at his laboratory in Switzerland. About 40 minutes later, feeling restless and unable to speak clearly, he called it a day and rode his bike home. What proved to be the world's first \u201cacid trip\u201d came to be celebrated, beginning in the 1980s, as Bicycle Day. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"An honor for Harriet Tubman".</h2 head><h3 quote align='center'>"On this day in 2016, the U.S. Department of the Treasury announced plans to change the $20 bill: an image of Harriet Tubman, who had been enslaved before gaining her freedom and becoming a leading abolitionist and prominent member of the Underground Railroad, would replace that of Andrew Jackson, the seventh president of the United States and a slave owner. Whether the change will occur remains, a decade later, uncertain. Read today's edition of Today in History > >".</h3 quote></h3 OTD
