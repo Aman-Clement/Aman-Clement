@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"A baseball milestone in Philadelphia".</h2 head><h3 quote align='center'>"On this day in 1876, the Boston Red Caps defeated the Philadelphia Athletics in the first National League baseball game. At the time, the game was just another game, not least because the National League was just another entity trying to bring order to professional baseball during its disorderly early days. But the National League endured, and by 1903 its champion was facing off against the American League champion in the event we know today as the World Series. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"New Coke debuts".</h2 head><h3 quote align='center'>"On this day in 1986, the Coca-Cola Company introduced New Coke, a reformulated soft drink meant to replace its flagship beverage and boost sales at the expense of its rival Pepsi. Public outrage ensued, however, and even the company's own bottlers rebelled. Just 79 days later, old Coke\u2014now called Coca-Cola Classic\u2014went back on sale. New Coke was discontinued in 2002. Read today's edition of Today in History > >".</h3 quote></h3 OTD
