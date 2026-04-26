@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Freud's first day".</h2 head><h3 quote align='center'>"On this day in 1886, Sigmund Freud worked his first day as a neurologist in private practice. An ad had announced his hours in his new Vienna office, but no one showed up. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"The midnight ride of Sybil Ludington".</h2 head><h3 quote align='center'>"On this day in 1777, as the American Revolution entered its third year, Sybil Ludington climbed onto a horse and rode through a stormy night in southeastern New York to spread the alert that British troops were on their way. Those troops had just attacked nearby Danbury, Connecticut, where the region's militia stored its munitions, and Ludington's father, a militia officer, needed his men. So the 16-year-old sped over unfamiliar roads, helping the American rebels to organize and drive the British back. (Her story didn't appear in print until after she had died, but that was no different from Paul Revere.) Read today's edition of Today in History > >".</h3 quote></h3 OTD
