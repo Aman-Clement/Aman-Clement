@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"A scrap of paper changes history".</h2 head><h3 quote align='center'>"On this day in 1986, a group of archaeologists announced their discovery of more than 400 artifacts in Chinese tombs nearly 2,000 years old. Among their notable finds was one scrap of paper showing waterways, mountains, and roads. It turned out to be the world's oldest surviving paper map fragment, and it forced a rewriting of the history of papermaking.".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"A scrap of paper changes history".</h2 head><h3 quote align='center'>"On this day in 1986, a group of archaeologists announced their discovery of more than 400 artifacts in Chinese tombs nearly 2,000 years old. Among their notable finds was one scrap of paper showing waterways, mountains, and roads. It turned out to be the world's oldest surviving paper map fragment, and it forced a rewriting of the history of papermaking. Read today's edition of Today in History > >".</h3 quote></h3 OTD
