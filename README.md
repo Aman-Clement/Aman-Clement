@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Beethoven writes the world's most recognizable piano composition".</h2 head><h3 quote align='center'>"On this day in 1810, Ludwig van Beethoven shared his feelings in a beautiful piano piece called F\u00fcr Elise. But it wasn't known to the world until 1867, decades after he died, when a scholar found it. And we still don't know who, exactly, the Elise in Beethoven's dedication was\u2014or whether there actually was an Elise. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"A scrap of paper changes history".</h2 head><h3 quote align='center'>"On this day in 1986, a group of archaeologists announced their discovery of more than 400 artifacts in Chinese tombs nearly 2,000 years old. Among their notable finds was one scrap of paper showing waterways, mountains, and roads. It turned out to be the world's oldest surviving paper map fragment, and it forced a rewriting of the history of papermaking.".</h3 quote></h3 OTD
