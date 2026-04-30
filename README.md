@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"Operation Mincemeat reaches Spain".</h2 head><h3 quote align='center'>"On this day in 1943, a body was dropped into the ocean off the southern shore of Spain. It was a crucial moment in Operation Mincemeat. The intent of this covert action was to fool Nazi Germany into thinking the Allies weren't going to invade Sicily\u2014which was exactly what they planned to do. The operation played out over the following weeks and proved to be a success. That was thanks in large part to a memo (most likely) written by a British naval officer who had lifted the idea from a crime novel and, after World War II was over, invented James Bond. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"George Washington inaugurated".</h2 head><h3 quote align='center'>"George Washington, the first president of the United States, was inaugurated on this day in 1789 in Federal Hall in New York City in front of a crowd of hundreds of people. Read today's edition of Today in History > >".</h3 quote></h3 OTD
