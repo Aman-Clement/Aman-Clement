@@ -55,4 +55,4 @@ Get in Touch:
  
 ---
 
-<h3 OTD<h2 head>"George Washington inaugurated".</h2 head><h3 quote align='center'>"George Washington, the first president of the United States, was inaugurated on this day in 1789 in Federal Hall in New York City in front of a crowd of hundreds of people. Read today's edition of Today in History > >".</h3 quote></h3 OTD
+<h3 OTD<h2 head>"An unresolved mystery on Everest".</h2 head><h3 quote align='center'>"The body of British mountaineer George Mallory was discovered on Mount Everest, some 75 years after he and Andrew Irvine disappeared while attempting to become the first people to summit the peak. Read today's edition of Today in History > >".</h3 quote></h3 OTD
